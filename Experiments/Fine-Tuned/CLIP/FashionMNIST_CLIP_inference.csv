@@ -1,0 +1,1153 @@
+image_name,Pprompt,Nprompt,illusion_strength,label,raw_answer,ill_answer,illless_answer,ill_filter_answer,illless_filter_answer
+FashionMnist_1,Two friends hiking on a mountain during sunset,low quality,1.5,9,9,9,10,9,10
+FashionMnist_2,A starry night sky with constellations glowing,low quality,1.5,2,2,2,10,2,10
+FashionMnist_3,A Thanksgiving feast giving thanks and love,low quality,1.5,1,1,1,10,1,10
+FashionMnist_4,A gecko on a large leaf in a tropical rainforest,low quality,1.5,1,1,1,10,1,10
+FashionMnist_5,A Hanukkah menorah lighting symbolizing faith,low quality,1.5,6,6,6,10,6,10
+FashionMnist_6,A tropical rainforest with cascading waterfalls,low quality,1.5,1,1,1,5,1,10
+FashionMnist_7,A vibrant meadow with blooming flowers,low quality,1.5,4,2,2,10,4,10
+FashionMnist_8,"Vast, glowing nebula engulfing a towering space station, stars twinkling beyond",low quality,1.5,6,6,6,10,6,10
+FashionMnist_9,"Gentle waves lap sandy shores, reflecting moonlight in sparkling patterns",low quality,1.5,5,5,5,10,5,10
+FashionMnist_10,Abandoned mining town covered in layers of dust,low quality,1.5,7,7,7,10,7,10
+FashionMnist_11,"Golden meadow meets waterfall cascade, mountain silhouette looms",low quality,1.5,4,6,6,10,4,10
+FashionMnist_12,A tranquil pond with lily pads floating on the surface,low quality,1.5,5,7,7,10,7,10
+FashionMnist_13,A colorful coral reef teeming with exotic fish and sea creatures,low quality,1.5,7,7,7,10,7,10
+FashionMnist_14,Sea turtle laying eggs on moonlit beach,low quality,1.5,3,3,3,10,3,10
+FashionMnist_15,"Cybernetic creatures dance in neon forest, futuristic cityscape backdrop",low quality,1.5,4,4,4,10,4,0
+FashionMnist_16,Alligator cruising quietly through murky bayou,low quality,1.5,1,1,1,5,1,2
+FashionMnist_17,"Ancient tree roots intertwining across the moonlit forest floor, moonlight filtering through branches",low quality,1.5,2,2,2,10,2,10
+FashionMnist_18,A bustling city street with neon lights and busy shops,low quality,1.5,4,4,6,10,6,10
+FashionMnist_19,"Crystal river cuts through granite canyon, sunlight reflects off water, rainbow emerges",low quality,1.5,8,8,8,10,8,10
+FashionMnist_20,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,0,0,0,10,0,10
+FashionMnist_21,"Neon light reflects off waves, futuristic city lights twinkle in distance",low quality,1.5,2,2,2,10,2,10
+FashionMnist_22,A Chinese New Year Lion Dance welcoming prosperity,low quality,1.5,5,7,7,10,7,8
+FashionMnist_23,A peaceful cottage in a forest glade,low quality,1.5,7,7,7,10,7,10
+FashionMnist_24,A secret garden hidden behind a hidden door in a wall,low quality,1.5,9,5,9,3,9,2
+FashionMnist_25,"A vast, green meadow with wildflowers and a rainbow",low quality,1.5,1,1,1,10,1,10
+FashionMnist_26,"Dinosaurs roam dusty plains, glowing volcanic mountains pierce the twilight sky",low quality,1.5,4,2,6,10,2,10
+FashionMnist_27,"Eerie silence surrounds snow-covered forest, glowing moon casts long shadows",low quality,1.5,6,4,6,10,4,10
+FashionMnist_28,"Ghostly figures haunting a derelict library, lit by candlelight",low quality,1.5,0,0,0,10,0,10
+FashionMnist_29,A spaceship hovering over a futuristic city,low quality,1.5,9,9,9,10,9,5
+FashionMnist_30,A serene waterfall hidden deep in a dense forest,low quality,1.5,3,3,3,10,3,10
+FashionMnist_31,A sunset over a vast desert with sand dunes and a lone camel,low quality,1.5,8,8,8,10,8,10
+FashionMnist_32,A dramatic thunderstorm with lightning striking in the distance,low quality,1.5,8,8,8,10,8,10
+FashionMnist_33,"Silent mountains embrace turquoise lake, sunlight paints ripples",low quality,1.5,3,3,3,10,3,10
+FashionMnist_34,A secret garden hidden behind a hidden door in a wall,low quality,1.5,3,3,3,10,0,10
+FashionMnist_35,Serene Japanese garden with cherry blossoms and koi pond,low quality,1.5,8,8,8,10,8,10
+FashionMnist_36,"Cyber vines crawl through metal trees, reflections shimmer on artificial seas, birds cast neon hues",low quality,1.5,0,0,0,10,0,10
+FashionMnist_37,A medieval castle perched on a cliff overlooking the ocean,low quality,1.5,7,7,7,10,7,10
+FashionMnist_38,A jungle with mountains and river,low quality,1.5,5,5,5,10,5,10
+FashionMnist_39,A vast expanse of desert dunes at sunset,low quality,1.5,7,7,7,10,7,10
+FashionMnist_40,A majestic sunset over a tranquil forest,low quality,1.5,9,9,9,10,9,10
+FashionMnist_41,A mystical desert oasis with palm trees and cool water,low quality,1.5,6,6,0,10,0,10
+FashionMnist_42,"Starry sea reflects on metallic waves, futuristic city emerging from the depths",low quality,1.5,1,1,1,10,1,10
+FashionMnist_43,A busy marketplace filled with colorful stalls,low quality,1.5,3,0,3,10,3,10
+FashionMnist_44,Quaint cobblestone alleyway in old European town,low quality,1.5,7,9,9,10,9,3
+FashionMnist_45,A colorful sunset over a calm sea,low quality,1.5,6,6,4,10,4,10
+FashionMnist_46,"Frozen lake frozen over, snow-covered mountains reflected in the surface",low quality,1.5,7,7,7,10,7,10
+FashionMnist_47,A majestic iceberg floating in a frigid arctic sea,low quality,1.5,2,2,6,2,6,5
+FashionMnist_48,"Serene underwater city bathed in bioluminescent light, creatures floating gracefully",low quality,1.5,1,1,1,10,1,1
+FashionMnist_49,An ancient temple hidden in the depths of a jungle,low quality,1.5,2,2,2,10,2,4
+FashionMnist_50,"A majestic sunrise illuminates the mountains, casting long shadows over valleys below",low quality,1.5,2,2,2,10,2,10
+FashionMnist_51,A whimsical carnival with colorful tents and a merry-go-round,low quality,1.5,4,6,6,10,6,10
+FashionMnist_52,"A thunderstorm over a dark, brooding sea",low quality,1.5,4,6,6,10,2,10
+FashionMnist_53,Sandy shore strewn with driftwood,low quality,1.5,5,5,5,10,5,10
+FashionMnist_54,A grand castle perched atop a hill overlooking a medieval town,low quality,1.5,8,8,8,10,8,10
+FashionMnist_55,A winter solstice bonfire warming hearts,low quality,1.5,2,2,2,10,2,10
+FashionMnist_56,A bear fishing in a river at sunset,low quality,1.5,2,2,2,10,2,10
+FashionMnist_57,Glittering icicles hanging precariously off ledge,low quality,1.5,8,8,8,1,8,1
+FashionMnist_58,"A lone astronaut floats through space, constellations forming a majestic path",low quality,1.5,4,4,4,10,4,10
+FashionMnist_59,Swirling vortex of light and shadows over a deserted city,low quality,1.5,8,8,8,10,8,10
+FashionMnist_60,"Glowing sandstone cliffs illuminate desert canyon, shimmering sand dunes reflecting light",low quality,1.5,0,0,0,10,0,10
+FashionMnist_61,African wild dog hunting impala,low quality,1.5,7,7,7,10,7,10
+FashionMnist_62,A neon cyberpunk street at night,low quality,1.5,7,7,7,10,7,10
+FashionMnist_63,A colorful hot air balloon floating over a patchwork landscape,low quality,1.5,8,8,8,10,8,10
+FashionMnist_64,Tranquil mountains overlooking a lush jungle and flowing river,low quality,1.5,5,5,5,10,5,10
+FashionMnist_65,Two kids playing in a park,low quality,1.5,1,1,1,10,1,10
+FashionMnist_66,A forest with tall trees and a flowing river,low quality,1.5,1,1,1,10,1,10
+FashionMnist_67,"Dense forest canopy, sunlight filters through, river winds through valleys",low quality,1.5,2,2,3,10,3,10
+FashionMnist_68,A vast green meadowland with a cottage in the distance,low quality,1.5,3,3,3,5,3,5
+FashionMnist_69,"Neon reflections on wet streets in a futuristic city, towering structures reaching for the clouds",low quality,1.5,9,7,5,10,5,10
+FashionMnist_70,Galaxy with supernova explosion,low quality,1.5,8,8,8,10,8,2
+FashionMnist_71,A peaceful lake surrounded by snow capped mountains,low quality,1.5,7,7,7,10,7,10
+FashionMnist_72,"Sunbeams peek through canopy leaves, river whispers secrets in the wind, birds dance in harmonious circles",low quality,1.5,0,0,0,10,0,6
+FashionMnist_73,A charming cottage covered in ivy with a thatched roof,low quality,1.5,2,2,6,10,2,10
+FashionMnist_74,"Foggy lake, ancient trees reach limbs, morning sun paints ripples",low quality,1.5,6,6,0,10,0,10
+FashionMnist_75,Glowing fungi illuminate a decaying castle under a moonlit forest,low quality,1.5,2,2,2,10,2,10
+FashionMnist_76,A majestic bald eagle soaring overhead,low quality,1.5,3,3,3,10,3,10
+FashionMnist_77,A serene temple nestled in the heart of a tranquil garden,low quality,1.5,1,1,1,10,1,10
+FashionMnist_78,"Sun-drenched meadow meets winding waterfall, cradled by rolling hills",low quality,1.5,2,2,2,10,2,10
+FashionMnist_79,Ocean wave curling gracefully onto beach,low quality,1.5,8,8,8,10,5,10
+FashionMnist_80,A Memorial Day barbecue sharing good food,low quality,1.5,4,4,4,10,4,10
+FashionMnist_81,A neon cyberpunk street at night,low quality,1.5,1,1,1,10,1,10
+FashionMnist_82,"Eerie silence surrounds snowy mountains, glowing moon casts long shadows",low quality,1.5,8,8,8,10,8,10
+FashionMnist_83,Puffin taking flight from coastal cliffs,low quality,1.5,5,5,5,10,5,10
+FashionMnist_84,Eerie underwater lab with glowing fish and abandoned research equipment,low quality,1.5,9,9,9,0,9,2
+FashionMnist_85,"A majestic sunrise illuminates the mountains, casting long shadows over valleys below",low quality,1.5,5,5,5,10,5,10
+FashionMnist_86,A quaint village nestled in a lush valley surrounded by mountains,low quality,1.5,0,0,0,10,0,10
+FashionMnist_87,A picturesque vineyard at sunset with the sky painted in hues,low quality,1.5,3,3,3,10,3,10
+FashionMnist_88,"Eerie silence hangs over abandoned factory, moonlight bathes ghostly figures",low quality,1.5,2,2,2,10,2,1
+FashionMnist_89,A majestic waterfall plunging into a misty abyss,low quality,1.5,0,0,0,10,0,10
+FashionMnist_90,A cozy cafe on a rainy day,low quality,1.5,6,6,6,10,6,10
+FashionMnist_91,A magnificent sunset over the ocean with sailboats,low quality,1.5,5,5,5,10,10,10
+FashionMnist_92,A sunset over a golden wheat field,low quality,1.5,3,3,3,10,3,10
+FashionMnist_93,A medieval castle standing proudly atop a hill,low quality,1.5,6,6,6,10,6,10
+FashionMnist_94,A secluded cabin nestled in a snowy forest,low quality,1.5,7,7,7,10,7,10
+FashionMnist_95,A futuristic city with flying cars and skyscrapers,low quality,1.5,1,1,1,10,1,10
+FashionMnist_96,A lush green forest with sunlight shining through the canopy,low quality,1.5,8,8,8,10,8,3
+FashionMnist_97,"Dense forest meets mountain peaks, sunlight filters through leaves in spiral patterns, birds call to each other",low quality,1.5,0,0,0,10,0,10
+FashionMnist_98,A desert with a lake in the middle,low quality,1.5,1,1,1,10,1,10
+FashionMnist_99,"Neon river flowing through a futuristic city, reflecting towering structures",low quality,1.5,4,6,6,10,6,10
+FashionMnist_100,A serene meditation session in calming woods,low quality,1.5,2,2,2,10,2,10
+FashionMnist_101,A mystical floating island in a sea of clouds,low quality,1.5,3,0,3,10,3,10
+FashionMnist_102,A captivating circus performance beneath big top tent,low quality,1.5,6,6,6,10,6,10
+FashionMnist_103,A serene lake reflecting the fiery colors of a setting sun,low quality,1.5,7,7,7,10,7,10
+FashionMnist_104,A Guru Nanak Jayanti langar serving equality,low quality,1.5,2,2,2,10,2,10
+FashionMnist_105,A magical unicorn grazing in a lush meadow,low quality,1.5,7,7,7,10,7,10
+FashionMnist_106,A beach with palm trees and a sunset,low quality,1.5,8,8,8,10,8,10
+FashionMnist_107,A lush garden overflowing with blooming roses,low quality,1.5,5,5,5,10,5,10
+FashionMnist_108,"Windswept dunes meeting turquoise sea, rolling waves foam and crest",low quality,1.5,9,9,9,10,9,10
+FashionMnist_109,Cheetah sprinting swiftly,low quality,1.5,9,9,9,10,9,10
+FashionMnist_110,A foggy forest with tall trees and a winding path,low quality,1.5,4,4,4,4,4,2
+FashionMnist_111,"Golden light meets mountain frame, river meets ocean flame, birds sing in joyful game",low quality,1.5,2,2,2,10,2,10
+FashionMnist_112,A forest with tall trees and a flowing river,low quality,1.5,5,5,7,10,7,10
+FashionMnist_113,A hidden waterfall cascading into a crystal-clear pool,low quality,1.5,7,7,7,10,7,10
+FashionMnist_114,Night sky filled with bright stars,low quality,1.5,0,0,0,10,2,10
+FashionMnist_115,A serene temple nestled in the heart of a tranquil garden,low quality,1.5,5,5,5,10,5,10
+FashionMnist_116,A serene beach with a colorful sunset,low quality,1.5,2,2,2,10,2,10
+FashionMnist_117,A relaxing hot spring surrounded by nature,low quality,1.5,8,8,8,10,8,10
+FashionMnist_118,Cozy cabin nestled among snow-covered pine trees,low quality,1.5,6,6,6,10,6,10
+FashionMnist_119,A tranquil pond with lily pads and colorful koi fish,low quality,1.5,7,7,7,10,7,10
+FashionMnist_120,"Ancient cave entrance, stalactites glow, sunlight filters through dusty air",low quality,1.5,8,8,8,8,8,9
+FashionMnist_121,A forest with tall trees and dense undergrowth,low quality,1.5,0,0,0,10,0,10
+FashionMnist_122,Windswept dunes meet turquoise waves at sunset,low quality,1.5,0,0,0,10,0,10
+FashionMnist_123,"A vibrant forest glows with bioluminescent light, revealing glowing mushrooms and paths",low quality,1.5,9,9,9,10,9,10
+FashionMnist_124,A serene meadow with colorful wildflowers,low quality,1.5,9,9,9,10,9,10
+FashionMnist_125,A whimsical garden filled with oversized flowers,low quality,1.5,3,3,3,10,3,10
+FashionMnist_126,"Golden meadow meets waterfall cascade, mountain silhouette looms",low quality,1.5,0,0,0,10,0,10
+FashionMnist_127,A bustling marketplace filled with colorful fruits and spices,low quality,1.5,8,8,8,10,8,10
+FashionMnist_128,A lush meadow beneath a bright blue summer sky,low quality,1.5,4,2,2,10,2,10
+FashionMnist_129,Enchanted forest with mythical creatures,low quality,1.5,1,1,1,10,1,10
+FashionMnist_130,Serene forest with sparkling river and majestic mountains,low quality,1.5,5,5,5,10,5,6
+FashionMnist_131,Tranquil meadow with wildflowers and distant hills,low quality,1.5,4,2,4,10,4,10
+FashionMnist_132,A starry night sky with a rocket ship blasting off towards a distant planet,low quality,1.5,1,1,1,10,1,10
+FashionMnist_133,A charming cottage covered in ivy,low quality,1.5,9,9,9,10,9,10
+FashionMnist_134,Frosted autumn leaf on fire-weed plant,low quality,1.5,1,1,1,10,1,10
+FashionMnist_135,"Whipped cream dream swirls around ballerina, city lights twinkle like stars",low quality,1.5,8,8,8,10,8,10
+FashionMnist_136,"Gentle waves lap against sandy beach, distant storm glows clouds over mountains",low quality,1.5,6,4,4,10,4,10
+FashionMnist_137,A winding river snaking through a lush green landscape,low quality,1.5,2,6,6,10,6,10
+FashionMnist_138,"Mountain lake reflects snow-capped peaks, wildflowers dance on surface",low quality,1.5,1,1,1,10,1,10
+FashionMnist_139,Lion pride resting under acacia tree,low quality,1.5,2,2,2,10,2,10
+FashionMnist_140,A cozy living room with a fireplace and Christmas tree,low quality,1.5,5,5,5,10,5,10
+FashionMnist_141,A festive holiday parade down Main Street,low quality,1.5,1,1,1,10,1,10
+FashionMnist_142,A spaceship descends towards a lush jungle planet,low quality,1.5,0,6,6,10,6,10
+FashionMnist_143,A lighthouse amidst a green landscape with the sea behind,low quality,1.5,0,0,0,10,0,10
+FashionMnist_144,A colorful sunset over a calm beautiful lake,low quality,1.5,0,0,0,10,0,10
+FashionMnist_145,Eerie underwater lab with glowing fish and abandoned research equipment,low quality,1.5,1,1,1,10,1,10
+FashionMnist_146,Vibrant city at night with neon lights,low quality,1.5,6,6,6,10,6,6
+FashionMnist_147,"A foggy forest with twisting, moss-covered trees",low quality,1.5,1,1,1,10,1,10
+FashionMnist_148,A majestic iceberg floating in a frigid arctic sea,low quality,1.5,6,3,3,10,3,10
+FashionMnist_149,A magical fairytale forest filled with unicorns,low quality,1.5,2,2,2,10,2,10
+FashionMnist_150,Tranquil forest clearing with sunlight streaming through canopy,low quality,1.5,2,2,2,10,2,10
+FashionMnist_151,A field of sunflowers stretching as far as the eye can see,low quality,1.5,4,3,4,10,3,10
+FashionMnist_152,Peacocks strutting proudly,low quality,1.5,4,6,4,10,4,10
+FashionMnist_153,A steamy jungle with lush foliage and exotic wildlife,low quality,1.5,1,1,1,10,1,10
+FashionMnist_154,"Gentle waves lap sandy shores, towering waves crash against ancient cliffs",low quality,1.5,4,6,6,10,3,10
+FashionMnist_155,A fiery sunset over a tranquil lake,low quality,1.5,5,5,5,10,5,10
+FashionMnist_156,A tranquil Zen garden with raked sand and stone sculptures,low quality,1.5,0,6,0,10,0,10
+FashionMnist_157,Tranquil pond in the forest surrounded by trees,low quality,1.5,4,6,4,10,6,10
+FashionMnist_158,A bustling night market fills the air with vibrant lights and whispering conversations,low quality,1.5,7,7,7,10,7,10
+FashionMnist_159,A man holding a dog on a winter night,low quality,1.5,9,9,9,10,9,10
+FashionMnist_160,A haunted mansion shrouded in ghostly mist,low quality,1.5,3,3,3,10,3,4
+FashionMnist_161,A creepy abandoned asylum with boarded up windows and rusted gates,low quality,1.5,7,7,7,2,7,2
+FashionMnist_162,"Golden light meets mountain frame, river meets ocean flame, birds sing in joyful game",low quality,1.5,2,2,2,10,2,10
+FashionMnist_163,A lonely house on the moonlit hill,low quality,1.5,3,3,3,3,1,3
+FashionMnist_164,A glowing meadow with floating rocks and a waterfall,low quality,1.5,9,9,9,10,9,10
+FashionMnist_165,A spooky graveyard with ancient headstones and gnarled trees,low quality,1.5,0,2,0,10,0,10
+FashionMnist_166,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,1.5,9,9,9,10,9,10
+FashionMnist_167,Majestic castle standing proudly on cliffside,low quality,1.5,4,2,2,10,2,10
+FashionMnist_168,A bear fishing in a river at sunset,low quality,1.5,7,7,7,10,9,10
+FashionMnist_169,"Neon lights illuminate futuristic robots, reflection shimmering on crystalline lake",low quality,1.5,4,4,2,1,2,4
+FashionMnist_170,"Gentle waves lap sandy shores, towering waves crash against ancient cliffs",low quality,1.5,2,2,2,10,2,10
+FashionMnist_171,City in the middle of a desert,low quality,1.5,0,6,6,10,6,10
+FashionMnist_172,Panther (Leopard) moving sinuously through rainforest undergrowth,low quality,1.5,5,5,5,10,5,10
+FashionMnist_173,Lightning striking during stormy weather,low quality,1.5,2,2,2,2,2,2
+FashionMnist_174,A sunflower maze stretching as far as the eye can see,low quality,1.5,1,1,1,10,1,10
+FashionMnist_175,"Glowing fungi illuminate cavern entrance, vines draped like curtains inside",low quality,1.5,2,2,2,2,2,2
+FashionMnist_176,"Neon glow illuminates futuristic robot, star spackling behind glowing eyes",low quality,1.5,1,1,1,10,1,10
+FashionMnist_177,A cozy cabin nestled in a snowy forest,low quality,1.5,3,3,3,10,3,10
+FashionMnist_178,A colossal city covered in smog,low quality,1.5,0,0,6,10,6,10
+FashionMnist_179,A misty forest filled with towering redwoods,low quality,1.5,9,9,9,1,9,4
+FashionMnist_180,A busy marketplace filled with colorful stalls,low quality,1.5,1,1,1,10,1,10
+FashionMnist_181,Sun-drenched wasteland with shattered robots and crumbling structures,low quality,1.5,0,0,0,10,0,10
+FashionMnist_182,"Eerie desert town, skeletal structures cast long shadows under storm clouds",low quality,1.5,9,9,9,10,9,10
+FashionMnist_183,"An ancient temple overgrown with vines, sunlight filtering through crumbled stones",low quality,1.5,3,3,3,2,3,0
+FashionMnist_184,A quaint village nestled amidst rolling hills,low quality,1.5,6,6,6,5,6,10
+FashionMnist_185,A bustling harbor filled with fishing boats and seagulls,low quality,1.5,7,7,7,10,7,10
+FashionMnist_186,A sunset over a vast desert with sand dunes and a lone camel,low quality,1.5,9,9,9,10,9,10
+FashionMnist_187,"Eerie silence fills the ancient temple grounds, moonlight illuminating dusty statues",low quality,1.5,9,9,9,10,9,10
+FashionMnist_188,"Vibrant coral reef teems with life, schools of fish dance through colorful formations",low quality,1.5,4,2,4,10,2,10
+FashionMnist_189,A quiet church nestled in a sunlit meadow,low quality,1.5,4,2,2,10,2,10
+FashionMnist_190,A vast blue ocean containing small islands with palm trees,low quality,1.5,7,7,7,10,7,10
+FashionMnist_191,Mystical forest with glowing mushroom trees,low quality,1.5,1,1,1,10,1,10
+FashionMnist_192,"Golden sunrise paints horizon, vast desert landscape, dunes shift in the gentle breeze",low quality,1.5,2,2,2,10,2,10
+FashionMnist_193,A sunset over water with a pier in the foreground,low quality,1.5,1,1,3,10,3,5
+FashionMnist_194,A bustling marketplace with colorful stalls and vibrant street food vendors,low quality,1.5,6,6,6,10,2,10
+FashionMnist_195,A peaceful garden with blooming cherry blossom trees,low quality,1.5,3,3,3,10,3,10
+FashionMnist_196,A forest with blooming flowers,low quality,1.5,2,6,2,10,2,10
+FashionMnist_197,Beautiful butterfly alighting on delicate flower petals,low quality,1.5,8,8,8,10,8,10
+FashionMnist_198,Tranquil beach with clear water and white sand,low quality,1.5,3,3,3,10,3,10
+FashionMnist_199,A serene meadow blanketed in a carpet of purple lavender,low quality,1.5,6,6,6,10,6,10
+FashionMnist_200,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,1.5,1,1,1,10,1,10
+FashionMnist_201,Aurora borealis streaking across the Arctic sky,low quality,1.5,1,1,1,10,1,10
+FashionMnist_202,A train on a bridge over a deep valley,low quality,1.5,0,0,0,10,0,10
+FashionMnist_203,A serene temple high in the misty mountains,low quality,1.5,2,2,2,10,2,10
+FashionMnist_204,A field of sunflowers at sunrise,low quality,1.5,9,9,9,10,9,10
+FashionMnist_205,Lemur swinging nimbly through Madagascar's deciduous forests,low quality,1.5,2,2,2,10,2,2
+FashionMnist_206,A majestic sunset over a vast savanna,low quality,1.5,4,4,4,10,4,10
+FashionMnist_207,Bioluminescent bay glowing under starlit skies,low quality,1.5,0,0,0,10,0,10
+FashionMnist_208,Tranquil beach with clear water and white sand,low quality,1.5,7,7,7,10,7,10
+FashionMnist_209,A dense jungle alive with the sounds of exotic birds,low quality,1.5,9,9,9,10,9,10
+FashionMnist_210,A lush meadow with wildflowers and butterflies,low quality,1.5,8,8,8,10,8,10
+FashionMnist_211,A majestic iceberg floating in a frigid arctic sea,low quality,1.5,4,4,4,10,4,10
+FashionMnist_212,Rolling green hills dotted with grazing sheep under white clouds,low quality,1.5,1,1,1,10,1,10
+FashionMnist_213,Sunrise over a misty lavender field,low quality,1.5,8,8,8,10,8,10
+FashionMnist_214,A futuristic cityscape with towering skyscrapers and flying cars,low quality,1.5,4,2,2,10,2,2
+FashionMnist_215,"A hazy sky reflects on a tranquil lake, moonlight bathing the surrounding mountains",low quality,1.5,1,1,1,10,1,10
+FashionMnist_216,A sunset at the ocean with a palm tree,low quality,1.5,3,3,3,10,3,10
+FashionMnist_217,A playful dolphin jumping out of crystal-clear waters,low quality,1.5,1,1,1,10,1,10
+FashionMnist_218,"Eerie silence hangs over abandoned factory, moonlight bathes ghostly figures",low quality,1.5,6,6,2,10,2,10
+FashionMnist_219,A bustling street market with vendors selling exotic wares,low quality,1.5,7,7,7,10,7,10
+FashionMnist_220,Sunset over the pier,low quality,1.5,2,2,2,10,2,10
+FashionMnist_221,A futuristic space station orbiting a distant planet,low quality,1.5,8,8,8,10,8,10
+FashionMnist_222,A meadow with a stream and rainbow,low quality,1.5,5,5,5,10,5,10
+FashionMnist_223,A lonely house on the moonlit hill,low quality,1.5,2,2,2,10,0,10
+FashionMnist_224,A forest with tall trees and dense undergrowth,low quality,1.5,0,0,0,10,0,10
+FashionMnist_225,A serene temple high in the misty mountains,low quality,1.5,7,7,7,10,7,10
+FashionMnist_226,"Ancient temple ruins under a desert sunset, dunes reflected in the shadows",low quality,1.5,7,7,7,10,7,10
+FashionMnist_227,A Wesak Day procession walking compassionately,low quality,1.5,6,6,6,10,6,10
+FashionMnist_228,Foggy graveyard with crooked tombstones under moonlight,low quality,1.5,2,6,6,10,2,10
+FashionMnist_229,"Soft, ethereal light paints a serene landscape, mysterious whispers fill the air",low quality,1.5,7,7,7,10,7,10
+FashionMnist_230,A festive holiday parade down Main Street,low quality,1.5,0,6,0,10,0,10
+FashionMnist_231,"Space station orbiting a purple planet, stars swirling around it",low quality,1.5,7,7,7,10,7,10
+FashionMnist_232,A mystical forest enchanted by swirling mist,low quality,1.5,8,8,8,10,8,10
+FashionMnist_233,"Golden sunrise paints mountains gold, river reflects in quiet lake, birds sing softly",low quality,1.5,9,9,9,10,9,10
+FashionMnist_234,A quiet country road winding through verdant pastures,low quality,1.5,2,2,2,10,2,10
+FashionMnist_235,A vast desert with towering dunes and a lone camel,low quality,1.5,9,9,9,10,9,10
+FashionMnist_236,A charming cottage covered in ivy with a thatched roof,low quality,1.5,0,0,0,10,0,10
+FashionMnist_237,A dense forest with lofty mountains and a meandering river,low quality,1.5,5,5,5,10,5,10
+FashionMnist_238,"Sun paints mountains golden glow, river whispers secrets below, birds dance in silent show",low quality,1.5,1,1,1,10,1,10
+FashionMnist_239,"A vibrant forest glows with bioluminescent light, revealing hidden secrets",low quality,1.5,4,4,3,10,2,10
+FashionMnist_240,A vast desert landscape with towering sand dunes,low quality,1.5,4,2,2,10,2,10
+FashionMnist_241,A Diwali diya illuminating path of knowledge,low quality,1.5,5,5,5,10,5,8
+FashionMnist_242,"Volcanic mountains erupt in clouds, geothermal lake forms below",low quality,1.5,6,6,6,10,6,10
+FashionMnist_243,"Neon light reflects off waves, futuristic city lights twinkle in distance",low quality,1.5,9,9,9,10,9,10
+FashionMnist_244,Gentle waves guide small boats through hidden mangrove forest,low quality,1.5,2,2,2,10,2,10
+FashionMnist_245,Lenticular clouds hovering above Andean peaks,low quality,1.5,6,6,2,10,2,10
+FashionMnist_246,A vibrant street art mural covering the side of a building,low quality,1.5,8,8,8,10,8,10
+FashionMnist_247,Bright bioluminescent plankton lighting up the shoreline,low quality,1.5,6,6,6,10,6,10
+FashionMnist_248,A misty forest shrouded in ancient trees and tangled vines,low quality,1.5,4,4,2,10,2,10
+FashionMnist_249,A bustling harbor with fishing boats and seagulls swooping overhead,low quality,1.5,2,2,2,10,2,10
+FashionMnist_250,A spacecraft entering Mars' orbit,low quality,1.5,2,2,2,10,2,10
+FashionMnist_251,"Coastal cliffs meet crashing waves, sunlight illuminates spray",low quality,1.5,9,9,9,10,9,10
+FashionMnist_252,A close-up of a tiger staring at the camera,low quality,1.5,7,7,5,10,7,10
+FashionMnist_253,Frozen Niagara Falls shimmering under winter sun,low quality,1.5,6,0,6,10,0,10
+FashionMnist_254,Fox darting through pristine snow,low quality,1.5,5,5,5,10,7,10
+FashionMnist_255,Wild horses running free in windswept grasslands,low quality,1.5,5,5,5,10,5,10
+FashionMnist_256,A peaceful cabin under a cliff overlooking a lake,low quality,1.5,2,2,2,5,2,10
+FashionMnist_257,A bustling city street filled with colorful shops and pedestrians,low quality,1.5,8,8,8,10,8,10
+FashionMnist_258,A colorful coral reef teeming with diverse marine life,low quality,1.5,5,5,5,10,5,10
+FashionMnist_259,A sunset in the desert with camels walking by,low quality,1.5,2,2,2,10,2,10
+FashionMnist_260,"Giant sequoias blanketed in thick fog, Redwood NP",low quality,1.5,3,3,3,1,3,1
+FashionMnist_261,A cozy living room with a fireplace and Christmas tree,low quality,1.5,0,0,0,10,0,10
+FashionMnist_262,"Vast mountains meet glowing river, reflections paint peaceful skies, birds chirp from towering heights",low quality,1.5,4,6,6,10,6,10
+FashionMnist_263,Sunset over a calm tropical lake,low quality,1.5,8,8,8,10,8,10
+FashionMnist_264,A vast desert with dunes and a lone camel,low quality,1.5,0,0,0,10,0,10
+FashionMnist_265,A spooky graveyard with ancient headstones and gnarled trees,low quality,1.5,0,0,0,10,0,10
+FashionMnist_266,Playful otters frolicking in shallow rapids,low quality,1.5,6,6,6,10,2,10
+FashionMnist_267,"Mountain lake reflection, snow-capped peaks glow, birds flutter above the calm surface",low quality,1.5,3,3,3,10,3,10
+FashionMnist_268,An abandoned castle with ivy-covered walls and a moat,low quality,1.5,8,8,8,10,8,10
+FashionMnist_269,"A vast, green meadow with wildflowers and a rainbow",low quality,1.5,9,9,7,10,9,10
+FashionMnist_270,"Vast ocean meets rocky cliffs, waves crash and spray, vibrant sunset paints the sky",low quality,1.5,6,6,6,10,6,10
+FashionMnist_271,Vast underwater world filled with colorful fish and glowing coral formations,low quality,1.5,1,1,1,10,1,10
+FashionMnist_272,"Sun shines on river's gentle flow, mountains reflect in patterns below, birds sing in silent glow",low quality,1.5,3,6,6,10,6,10
+FashionMnist_273,Urban city with skyscrapers and traffic,low quality,1.5,0,0,0,10,0,10
+FashionMnist_274,A spooky graveyard under a full moon,low quality,1.5,2,2,2,10,2,2
+FashionMnist_275,A girl playing volleyball on a beach,low quality,1.5,3,3,3,10,3,10
+FashionMnist_276,A serene meadow with colorful wildflowers,low quality,1.5,0,0,0,10,0,10
+FashionMnist_277,Foggy marshlands home to diverse bird species,low quality,1.5,8,8,8,10,5,10
+FashionMnist_278,"Vast mountains meet glowing river, reflections paint peaceful skies, birds chirp from towering heights",low quality,1.5,3,3,3,10,3,10
+FashionMnist_279,Starship floating over a futuristic city,low quality,1.5,7,7,7,10,7,10
+FashionMnist_280,Saharan sandstorm turning daytime into darkness,low quality,1.5,4,2,2,10,2,10
+FashionMnist_281,Whale breaching through waves,low quality,1.5,0,0,0,10,0,10
+FashionMnist_282,Fox sneaking furtively through snowy forest,low quality,1.5,1,1,1,10,1,10
+FashionMnist_283,A mystical forest shrouded in mist,low quality,1.5,6,6,6,10,6,10
+FashionMnist_284,A bustling harbor with ships coming and going,low quality,1.5,3,3,3,10,3,5
+FashionMnist_285,A lonely cottage in autumn forest,low quality,1.5,0,0,0,10,0,10
+FashionMnist_286,"Vast coral reef, vibrant colors dance, schools of fish dart through the waves",low quality,1.5,6,6,4,10,2,10
+FashionMnist_287,Rustic lighthouse on rocky coastline amid crashing waves,low quality,1.5,6,6,6,10,6,10
+FashionMnist_288,Glowing lanterns lighting up a cobblestone alleyway at night,low quality,1.5,7,7,7,10,7,2
+FashionMnist_289,"Cyber vines crawl through metal trees, reflections shimmer on artificial seas, birds cast neon hues",low quality,1.5,5,5,5,10,5,10
+FashionMnist_290,"A vast, green meadow with wildflowers and a rainbow",low quality,1.5,4,3,3,10,3,10
+FashionMnist_291,Manatee feeding placidly in warm seagrass beds,low quality,1.5,5,7,7,10,7,10
+FashionMnist_292,A lush garden overflowing with blooming roses,low quality,1.5,9,9,9,10,9,10
+FashionMnist_293,A colorful meadow with a flowing river and vibrant hot air balloons,low quality,1.5,5,5,5,10,5,10
+FashionMnist_294,A rustic barn surrounded by rolling fields of sunflowers,low quality,1.5,6,6,6,10,6,10
+FashionMnist_295,Quaint cobblestone alleyway in old European town,low quality,1.5,5,5,5,10,5,10
+FashionMnist_296,A tropical rainforest with cascading waterfalls,low quality,1.5,5,5,5,10,5,10
+FashionMnist_297,Swallows swooping low over tranquil pond,low quality,1.5,1,1,1,10,1,10
+FashionMnist_298,"Neon outlines of futuristic structures illuminate the sky, reflected in the river below",low quality,1.5,9,9,9,10,9,10
+FashionMnist_299,A small house near seashore,low quality,1.5,8,8,8,10,8,10
+FashionMnist_300,A field of blooming sunflowers swaying in the wind,low quality,1.5,8,8,8,10,8,10
+FashionMnist_301,Vibrant sunset over tranquil beach,low quality,1.5,3,3,3,10,3,10
+FashionMnist_302,A vast desert landscape with towering sand dunes,low quality,1.5,3,3,3,10,3,10
+FashionMnist_303,Eerie underwater lab with glowing fish and abandoned research equipment,low quality,1.5,6,6,6,10,2,10
+FashionMnist_304,A fantasy castle with a moat and drawbridge,low quality,1.5,8,8,8,10,8,10
+FashionMnist_305,A magnificent sunset over the ocean with sailboats,low quality,1.5,0,0,0,10,0,10
+FashionMnist_306,A giant robot overlooking a city at night,low quality,1.5,0,0,0,3,0,10
+FashionMnist_307,"Snow-covered mountains, standing tall, reflect in frozen lake below",low quality,1.5,2,2,2,10,2,10
+FashionMnist_308,A woman playing the guitar by the campfire,low quality,1.5,9,9,9,10,9,10
+FashionMnist_309,"Dinosaurs roam dusty plains, glowing volcanic mountains pierce the twilight sky",low quality,1.5,7,7,7,10,7,10
+FashionMnist_310,Shark fin slicing smoothly through deep blue sea,low quality,1.5,7,9,9,10,9,10
+FashionMnist_311,A cozy cottage nestled in a snow-covered forest,low quality,1.5,1,1,1,10,1,10
+FashionMnist_312,An empty meadow with a few trees and a small river,low quality,1.5,3,3,3,10,3,10
+FashionMnist_313,A bustling marketplace filled with exotic spices and fabrics,low quality,1.5,6,2,2,10,2,10
+FashionMnist_314,A serene lake surrounded by blooming cherry trees,low quality,1.5,4,6,6,10,6,10
+FashionMnist_315,A blissful yoga retreat nestled within tropical forests,low quality,1.5,2,2,2,10,2,10
+FashionMnist_316,A surreal landscape with floating islands,low quality,1.5,4,2,2,10,2,10
+FashionMnist_317,Mountain goats traversing rugged terrain,low quality,1.5,9,7,7,10,7,10
+FashionMnist_318,A woman playing the guitar by the campfire,low quality,1.5,1,1,1,10,1,8
+FashionMnist_319,A misty jungle with a waterfall and lush trees,low quality,1.5,6,6,6,10,6,10
+FashionMnist_320,A bustling market square with vendors selling exotic spices and textiles,low quality,1.5,4,4,4,10,2,10
+FashionMnist_321,A charming vineyard with rows of grapevines stretching towards the horizon,low quality,1.5,8,2,8,10,8,10
+FashionMnist_322,Total lunar eclipse painting blood-red moon,low quality,1.5,2,2,2,10,2,10
+FashionMnist_323,A cozy New Year's Eve toast at midnight,low quality,1.5,6,6,6,10,6,10
+FashionMnist_324,A steampunk world powered by gears and clockworks,low quality,1.5,5,5,5,10,5,10
+FashionMnist_325,"A modern city with skyscrapers, trees, and a river",low quality,1.5,4,6,4,10,4,10
+FashionMnist_326,A serene meadow blanketed in a carpet of purple lavender,low quality,1.5,6,2,4,10,4,10
+FashionMnist_327,Komodo Dragon slithering stealthily,low quality,1.5,7,7,7,10,7,10
+FashionMnist_328,A serene pond covered in lily pads and blooming lotus flowers,low quality,1.5,7,7,7,10,7,10
+FashionMnist_329,A classic car driving along a coastal highway,low quality,1.5,7,7,7,10,7,10
+FashionMnist_330,A desert with a lake in the middle,low quality,1.5,3,3,3,10,3,10
+FashionMnist_331,"Eerie silence surrounds snow-covered forest, glowing moon casts long shadows",low quality,1.5,3,3,3,10,3,10
+FashionMnist_332,A futuristic city with flying cars and neon lights,low quality,1.5,7,7,7,10,7,0
+FashionMnist_333,A snowy tundra with polar bears and northern lights,low quality,1.5,0,6,6,10,6,10
+FashionMnist_334,"A vast, lush jungle with mist-shrouded mountains and a winding river",low quality,1.5,7,7,7,10,7,10
+FashionMnist_335,A lone hiker on a trail in the mountains,low quality,1.5,1,1,1,10,1,10
+FashionMnist_336,A mystical forest enchanted by soft glowing fireflies,low quality,1.5,3,3,3,10,2,10
+FashionMnist_337,A futuristic cityscape with skyscrapers and flying cars,low quality,1.5,7,7,7,10,7,10
+FashionMnist_338,Windswept dunes meet turquoise waves at sunset,low quality,1.5,2,2,6,10,6,10
+FashionMnist_339,A golden sunset over a vast savanna with roaming wildlife,low quality,1.5,2,2,2,10,2,10
+FashionMnist_340,A bustling marketplace with colorful stalls and people bartering,low quality,1.5,3,3,3,10,3,10
+FashionMnist_341,A starry night above a calm sea with mountains,low quality,1.5,4,6,6,10,6,10
+FashionMnist_342,Two kids playing in a park,low quality,1.5,0,0,0,10,0,10
+FashionMnist_343,A celestial universe filled with planets and galaxies,low quality,1.5,3,3,3,10,3,10
+FashionMnist_344,Rolling green hills dotted with grazing sheep under white clouds,low quality,1.5,1,1,1,10,1,10
+FashionMnist_345,A peaceful cabin under a cliff overlooking a lake,low quality,1.5,6,0,0,10,0,10
+FashionMnist_346,"Dense forest meets mountain peaks, sunlight filters through leaves in spiral patterns, birds call to each other",low quality,1.5,1,1,1,10,1,10
+FashionMnist_347,A lush meadow beneath a bright blue summer sky,low quality,1.5,9,9,9,10,9,10
+FashionMnist_348,"Mountains embrace sparkling lake, sunlight paints ripples, forest glows faintly",low quality,1.5,4,4,4,10,2,10
+FashionMnist_349,A serene temple nestled in the heart of a tranquil garden,low quality,1.5,9,9,9,10,9,10
+FashionMnist_350,Vast underwater world filled with colorful fish and glowing coral formations,low quality,1.5,9,9,9,10,9,10
+FashionMnist_351,Birds singing harmoniously at dawn,low quality,1.5,1,1,1,10,1,10
+FashionMnist_352,A misty forest shrouded in ancient trees and tangled vines,low quality,1.5,7,7,7,10,7,10
+FashionMnist_353,A mesmerizing aurora borealis phenomenon,low quality,1.5,8,8,8,10,2,10
+FashionMnist_354,A peaceful rice terrace overlooking a tranquil valley,low quality,1.5,3,3,3,10,3,10
+FashionMnist_355,Komodo Dragon slithering stealthily,low quality,1.5,6,6,6,10,3,10
+FashionMnist_356,"Ancient city emerges from forest depths, moonlight illuminates towering structures",low quality,1.5,0,0,0,10,0,10
+FashionMnist_357,"Mountains rise above a serene lake, sunlight reflecting on their reflective surfaces",low quality,1.5,2,2,2,10,2,10
+FashionMnist_358,"Ancient tree branches reach towards the sky, sunlight filtering through creating intricate patterns",low quality,1.5,4,4,6,10,4,10
+FashionMnist_359,A dense forest with lofty mountains and a meandering river,low quality,1.5,8,8,8,10,8,10
+FashionMnist_360,Vibrant city at night with neon lights,low quality,1.5,0,6,0,10,0,10
+FashionMnist_361,A busy marketplace filled with colorful stalls,low quality,1.5,1,1,1,10,1,10
+FashionMnist_362,An abandoned castle shrouded in mist atop a lonely hill,low quality,1.5,2,2,2,10,2,10
+FashionMnist_363,A misty forest with a waterfall,low quality,1.5,2,2,2,2,2,2
+FashionMnist_364,A hiker on top of a hill overlooking camp,low quality,1.5,4,2,2,10,2,10
+FashionMnist_365,Misty jungle surrounded by vibrant flowers and tall palm trees,low quality,1.5,4,4,4,10,2,10
+FashionMnist_366,A mystical cave illuminated by glowing crystals,low quality,1.5,7,7,7,4,7,4
+FashionMnist_367,A foggy forest with a winding path,low quality,1.5,3,3,3,10,3,10
+FashionMnist_368,Glowing lanterns lighting up a cobblestone alleyway at night,low quality,1.5,2,2,2,10,2,6
+FashionMnist_369,Monarch butterfly colony migrating to Mexico,low quality,1.5,2,2,2,10,2,10
+FashionMnist_370,A foggy forest with a single path,low quality,1.5,5,5,5,10,5,2
+FashionMnist_371,A spacecraft entering Mars' orbit,low quality,1.5,0,0,0,10,0,10
+FashionMnist_372,A beautiful sunset over a tranquil lake,low quality,1.5,7,7,7,10,7,10
+FashionMnist_373,A bustling train station with passengers rushing to catch their trains,low quality,1.5,9,9,9,10,9,10
+FashionMnist_374,Beautiful butterfly alighting on delicate flower petals,low quality,1.5,4,4,4,5,2,10
+FashionMnist_375,"Mountain meets lake reflection, sunlight dances on ripples, birds flutter over water",low quality,1.5,0,0,0,10,0,10
+FashionMnist_376,A group of explorers in an ancient jungle,low quality,1.5,9,9,9,10,9,10
+FashionMnist_377,"Ancient city walls engulfed in snow, sunlight illuminating the crumbled stones",low quality,1.5,3,3,3,10,3,10
+FashionMnist_378,"A majestic sunrise illuminates the mountains, casting long shadows over valleys below",low quality,1.5,9,9,9,10,9,10
+FashionMnist_379,Underwater city illuminated by bioluminescent creatures and coral structures,low quality,1.5,4,6,3,10,3,8
+FashionMnist_380,Tropical storm forming off distant Caribbean island,low quality,1.5,2,2,2,10,2,10
+FashionMnist_381,**Scene:** A tranquil valley with a winding river and lush greenery,low quality,1.5,5,5,5,10,5,10
+FashionMnist_382,A cozy cabin nestled in the midst of a pine forest,low quality,1.5,0,6,6,10,0,10
+FashionMnist_383,"A glimpse of hidden ruins illuminated by moonlight, secrets whispered in the shadows",low quality,1.5,2,0,2,10,1,5
+FashionMnist_384,"Eerie silence fills the ancient temple grounds, moonlight illuminating dusty statues",low quality,1.5,3,3,3,10,3,5
+FashionMnist_385,Puffin taking flight from coastal cliffs,low quality,1.5,5,5,5,10,5,10
+FashionMnist_386,A field of blooming sunflowers swaying in the wind,low quality,1.5,8,8,8,10,8,10
+FashionMnist_387,Tokyo city at night with Mount Fuji in the background,low quality,1.5,1,1,1,10,1,10
+FashionMnist_388,A Kwanzaa celebration honoring heritage,low quality,1.5,6,6,6,8,6,10
+FashionMnist_389,"Sun paints mountains golden glow, river whispers secrets below, birds dance in silent show",low quality,1.5,2,2,2,10,2,10
+FashionMnist_390,A colorful sunset over a calm sea,low quality,1.5,6,6,6,10,6,10
+FashionMnist_391,A majestic waterfall plunging into a rocky canyon,low quality,1.5,6,6,6,10,6,10
+FashionMnist_392,A peaceful garden with blooming cherry blossom trees,low quality,1.5,4,4,4,10,4,10
+FashionMnist_393,A quirky steampunk city with gears and turbines everywhere,low quality,1.5,9,9,9,10,9,10
+FashionMnist_394,"Sun illuminates untouched forest, sunlight filtering through vibrant foliage",low quality,1.5,5,5,5,3,5,3
+FashionMnist_395,"Neon glow illuminates futuristic robots, reflection shimmering on crystalline lake",low quality,1.5,2,2,2,2,2,2
+FashionMnist_396,"Foggy lake, ancient trees reach limbs, morning sun paints ripples",low quality,1.5,0,0,0,10,0,10
+FashionMnist_397,"Neon glow reflects off metallic river, towering robots glide silently above",low quality,1.5,4,6,6,6,6,10
+FashionMnist_398,Sunrise over a misty lavender field,low quality,1.5,6,6,6,10,6,10
+FashionMnist_399,A spooky haunted house with creaking doors and ghostly figures,low quality,1.5,1,1,1,2,1,2
+FashionMnist_400,"A beautiful white swan , in a blue lake with lily pads",low quality,1.5,2,2,2,10,2,10
+FashionMnist_401,Wild horses running free in windswept grasslands,low quality,1.5,0,0,0,10,0,10
+FashionMnist_402,Sunset over a calm tropical lake,low quality,1.5,9,9,9,10,9,10
+FashionMnist_403,A misty forest filled with towering redwoods,low quality,1.5,7,7,7,10,7,10
+FashionMnist_404,A peaceful meadow with a rainbow stretching across the sky,low quality,1.5,0,0,0,10,0,10
+FashionMnist_405,A bustling city street filled with colorful shops and pedestrians,low quality,1.5,4,3,4,10,3,10
+FashionMnist_406,A majestic snow-capped mountain towering above a glacier,low quality,1.5,4,4,4,10,4,10
+FashionMnist_407,"Vibrant fields of sunflowers stretching endlessly, glowing sun setting over hills",low quality,1.5,6,3,4,10,3,10
+FashionMnist_408,"Sunrise paints horizon gold, ocean waves meet rocky shore, birds sing echoing melodies",low quality,1.5,6,6,0,10,0,10
+FashionMnist_409,Frozen tundra landscape with towering ice structures and aurora borealis lights,low quality,1.5,2,2,2,10,2,10
+FashionMnist_410,Two friends hiking on a mountain during sunset,low quality,1.5,1,1,1,10,1,10
+FashionMnist_411,Fire tornado ripping through California wildfires,low quality,1.5,0,0,0,8,0,8
+FashionMnist_412,A vast desert under the twilight sky,low quality,1.5,6,6,6,10,6,10
+FashionMnist_413,Geysir erupting in Yellowstone National Park,low quality,1.5,7,7,7,10,7,10
+FashionMnist_414,"Neon reflections illuminate a bustling night market, shadows dancing beneath the stalls",low quality,1.5,2,3,3,10,3,5
+FashionMnist_415,"Ghostly apparitions dancing in a shimmering forest, moonlight as their guide",low quality,1.5,9,9,9,10,9,10
+FashionMnist_416,A tranquil lake reflecting the vibrant fall foliage of surrounding trees,low quality,1.5,4,4,3,10,3,10
+FashionMnist_417,A crowded concert filled with cheering fans and flashing lights,low quality,1.5,2,2,2,10,2,10
+FashionMnist_418,"A lonely figure walks along a moonlit beach, waves crashing softly on the shore",low quality,1.5,1,1,1,10,1,1
+FashionMnist_419,"Neon city beneath a stormy night sky, lightning striking skyscrapers",low quality,1.5,5,5,5,2,5,0
+FashionMnist_420,"A forgotten boat rests beneath the waves, sunlight illuminating its weathered hull",low quality,1.5,4,4,4,10,4,10
+FashionMnist_421,A starry night sky with the Milky Way visible,low quality,1.5,5,7,5,10,7,10
+FashionMnist_422,Thundering waterfalls cascading into pools below,low quality,1.5,3,3,3,10,3,10
+FashionMnist_423,A magical garden filled with talking animals and sparkling flowers,low quality,1.5,8,8,8,10,8,10
+FashionMnist_424,Blue whale sounding deeply,low quality,1.5,5,5,5,10,5,10
+FashionMnist_425,Volcanic landscape with flowing lava and levitating plants,low quality,1.5,8,8,8,10,8,10
+FashionMnist_426,A peaceful village by the lake shore,low quality,1.5,4,4,6,10,4,10
+FashionMnist_427,A serene zen garden with meticulously raked sand and bonsai trees,low quality,1.5,4,4,4,5,4,10
+FashionMnist_428,A colorful coral reef teeming with exotic fish and sea creatures,low quality,1.5,8,8,8,10,8,10
+FashionMnist_429,Sun-drenched wasteland with shattered robots and crumbling structures,low quality,1.5,9,9,9,10,9,10
+FashionMnist_430,A futuristic city with flying cars and skyscrapers,low quality,1.5,8,8,8,10,8,10
+FashionMnist_431,Tranquil mountains overlooking a lush jungle and flowing river,low quality,1.5,6,6,6,8,6,10
+FashionMnist_432,A creepy abandoned asylum with boarded up windows and rusted gates,low quality,1.5,2,2,2,10,2,10
+FashionMnist_433,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,4,4,4,10,4,10
+FashionMnist_434,A rustic farm with cows grazing in a green pasture,low quality,1.5,4,4,4,10,4,10
+FashionMnist_435,"Sun illuminates untouched forest, sunlight filtering through vibrant foliage",low quality,1.5,2,2,2,10,2,10
+FashionMnist_436,A serene countryside blanketed in a field of blooming lavender,low quality,1.5,4,6,6,10,3,10
+FashionMnist_437,Crocodile basking in tropical sunshine,low quality,1.5,1,1,1,10,1,10
+FashionMnist_438,"Gentle waves crash against sandy shores, moonlight reflects on sparkling water",low quality,1.5,6,6,6,10,6,10
+FashionMnist_439,Vibrant hot air balloons floating over green hills,low quality,1.5,1,1,1,10,1,10
+FashionMnist_440,A lighthouse amidst a green landscape with the sea behind,low quality,1.5,3,3,3,10,3,5
+FashionMnist_441,"Embraced by moonlight, ancient city walls glow with a soft, luminescent light",low quality,1.5,0,0,0,8,0,5
+FashionMnist_442,A quiet church nestled in a sunlit meadow,low quality,1.5,9,9,9,10,9,10
+FashionMnist_443,"Ethereal forest, sunlight filters through canopy, river flows silent",low quality,1.5,8,8,8,1,8,1
+FashionMnist_444,A fun family picnic in a sunny meadow,low quality,1.5,8,8,8,10,8,10
+FashionMnist_445,A lunar landscape with barren craters and mountains silhouetted against the sky,low quality,1.5,6,6,6,10,6,10
+FashionMnist_446,"Silent mountains reflecting in a serene lake, sunlight filtering through falling leaves",low quality,1.5,5,5,5,10,5,10
+FashionMnist_447,Male lion walking on a path in misty forest,low quality,1.5,3,3,3,10,3,10
+FashionMnist_448,A bustling city street filled with colorful shops and pedestrians,low quality,1.5,1,1,1,10,1,10
+FashionMnist_449,"Starry night sky reflecting in a lake, mountains forming constellations",low quality,1.5,9,9,9,10,9,10
+FashionMnist_450,"Ghostly apparitions dancing in a shimmering forest, moonlight as their guide",low quality,1.5,5,5,5,10,5,6
+FashionMnist_451,A lush rainforest with cascading waterfalls,low quality,1.5,3,3,3,10,3,10
+FashionMnist_452,A victorian-era tea party set in idyllic countryside,low quality,1.5,3,3,3,7,3,10
+FashionMnist_453,A pink rose with green leaves,low quality,1.5,0,0,6,10,0,10
+FashionMnist_454,"Starry night sky reflecting in a lake, mountains forming constellations",low quality,1.5,1,1,1,10,1,10
+FashionMnist_455,"Golden light meets mountain haze, river meets grassy plains, birds migrate in joyful maze",low quality,1.5,0,6,6,10,6,10
+FashionMnist_456,A vast desert with a towering canyon in the distance,low quality,1.5,2,2,2,10,2,10
+FashionMnist_457,A futuristic cityscape with flying cars and neon lights,low quality,1.5,9,9,9,10,9,10
+FashionMnist_458,A waterfall cascading through a lush green forest,low quality,1.5,2,2,2,10,2,10
+FashionMnist_459,A tranquil lake reflecting the vibrant fall foliage of surrounding trees,low quality,1.5,0,0,0,10,0,10
+FashionMnist_460,A Labor Day picnic spending quality time,low quality,1.5,6,6,6,10,6,10
+FashionMnist_461,"Eerie silence surrounds snowy mountains, glowing moon casts long shadows",low quality,1.5,3,6,3,10,3,10
+FashionMnist_462,Snow-capped mountains reflecting in a crystal-clear lake,low quality,1.5,4,4,4,10,6,10
+FashionMnist_463,A bustling marketplace with colorful stalls and vibrant street food vendors,low quality,1.5,2,2,2,10,2,10
+FashionMnist_464,A bustling cityscape with skyscrapers reaching towards the sky,low quality,1.5,0,0,0,10,0,10
+FashionMnist_465,"Sun sets over vibrant meadow, casting long shadows on rolling hills",low quality,1.5,0,0,0,10,0,10
+FashionMnist_466,"Space station orbits Earth, glowing city lights twinkle below clouds",low quality,1.5,3,3,3,10,3,10
+FashionMnist_467,"Golden sunrise paints mountains gold, river reflects in quiet lake, birds sing softly",low quality,1.5,3,3,3,10,3,10
+FashionMnist_468,A tranquil park with a babbling brook,low quality,1.5,8,8,8,10,8,10
+FashionMnist_469,A misty forest filled with towering redwoods,low quality,1.5,2,2,2,10,2,3
+FashionMnist_470,A picturesque vineyard at sunset with the sky painted in hues,low quality,1.5,8,8,8,10,8,10
+FashionMnist_471,A serene temple nestled in the heart of a tranquil garden,low quality,1.5,9,9,9,10,9,10
+FashionMnist_472,Abandoned factory overlooking rusty train tracks bathed in neon light,low quality,1.5,4,4,4,10,4,10
+FashionMnist_473,Blue whale sounding deeply,low quality,1.5,0,0,0,5,0,10
+FashionMnist_474,A majestic sunset over a vast savanna,low quality,1.5,7,9,7,10,7,10
+FashionMnist_475,A lush meadow with wildflowers and butterflies,low quality,1.5,6,0,0,10,0,10
+FashionMnist_476,Palm fringed beach paradise,low quality,1.5,4,2,2,10,2,10
+FashionMnist_477,A peaceful village by the lake shore,low quality,1.5,4,4,4,10,4,10
+FashionMnist_478,"Eerie silence surrounds snow-covered forest, glowing moon casts long shadows",low quality,1.5,9,9,9,10,9,10
+FashionMnist_479,An ancient castle perched on a cliff overlooking the sea,low quality,1.5,2,2,2,10,2,10
+FashionMnist_480,A serene lake reflecting the fiery colors of a setting sun,low quality,1.5,9,9,9,10,9,10
+FashionMnist_481,A traditional Japanese garden with a koi pond and cherry blossoms,low quality,1.5,5,7,7,10,7,10
+FashionMnist_482,A desert with camels and pyramids,low quality,1.5,9,9,9,10,9,10
+FashionMnist_483,Volcanic landscape with flowing lava and levitating plants,low quality,1.5,3,3,3,10,3,10
+FashionMnist_484,A cyberpunk metropolis pulsating with neon lights,low quality,1.5,7,7,7,10,7,10
+FashionMnist_485,A cozy cabin nestled in a snowy forest clearing,low quality,1.5,5,5,5,10,5,10
+FashionMnist_486,"Vast, glowing nebula engulfing a towering space station, stars twinkling beyond",low quality,1.5,7,7,7,10,7,10
+FashionMnist_487,A beautiful starry night over mountains,low quality,1.5,8,8,8,10,8,10
+FashionMnist_488,A charming cottage covered in ivy with a thatched roof,low quality,1.5,1,1,1,10,1,10
+FashionMnist_489,Turquoise lagoon shaded by palms,low quality,1.5,0,0,0,10,0,10
+FashionMnist_490,A serene lake surrounded by blooming cherry trees,low quality,1.5,0,0,0,10,0,10
+FashionMnist_491,Tranquil forest clearing with sunlight streaming through canopy,low quality,1.5,3,6,6,10,6,10
+FashionMnist_492,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,4,6,6,10,6,10
+FashionMnist_493,Coral reef teeming with life,low quality,1.5,8,8,8,10,8,10
+FashionMnist_494,Lemur swinging nimbly through Madagascar's deciduous forests,low quality,1.5,9,9,9,10,9,10
+FashionMnist_495,A bustling marketplace with vendors selling exotic fruits and spices,low quality,1.5,7,7,7,10,7,10
+FashionMnist_496,A whimsical forest glade with fairy circles and magical creatures,low quality,1.5,9,9,9,10,9,10
+FashionMnist_497,"Neon glow fills abandoned factory, dust swirling in forgotten hallways",low quality,1.5,1,1,1,10,1,10
+FashionMnist_498,A victorian-era tea party set in idyllic countryside,low quality,1.5,2,2,6,10,2,8
+FashionMnist_499,A bustling marketplace with colorful stalls and exotic goods,low quality,1.5,7,7,7,10,7,10
+FashionMnist_500,A peaceful pagoda overlooking a serene pond,low quality,1.5,0,0,3,10,0,10
+FashionMnist_501,A dirt path leading through a lush forest,low quality,1.5,2,2,2,10,2,10
+FashionMnist_502,"A vibrant forest glows with bioluminescent light, revealing hidden secrets",low quality,1.5,0,0,0,8,0,5
+FashionMnist_503,Lightning striking glacier in Patagonia,low quality,1.5,5,5,5,10,5,10
+FashionMnist_504,"Vast snowfall covers mountains, white silence blankets frozen land, sunlight breaks through",low quality,1.5,7,7,9,10,9,10
+FashionMnist_505,Komodo Dragon slithering stealthily,low quality,1.5,1,1,1,10,1,10
+FashionMnist_506,A colorful sunset over a calm beautiful lake,low quality,1.5,8,8,8,10,8,10
+FashionMnist_507,A lonely lighthouse during a day with rain,low quality,1.5,2,2,2,10,2,10
+FashionMnist_508,A bustling city skyline at night,low quality,1.5,2,2,2,10,2,10
+FashionMnist_509,"Sunbeams break through jungle canopy, river winds through valleys, sunlight paints patterns on everything",low quality,1.5,2,2,2,10,2,10
+FashionMnist_510,A lush tropical rainforest echoing with the sounds of wildlife,low quality,1.5,2,2,2,10,2,10
+FashionMnist_511,A vibrant marketplace with vendors selling exotic fruits and spices,low quality,1.5,4,2,2,10,2,10
+FashionMnist_512,A peaceful cabin under a cliff overlooking a lake,low quality,1.5,2,2,2,10,2,10
+FashionMnist_513,Elk bugling in crisp autumn air,low quality,1.5,6,6,6,10,6,10
+FashionMnist_514,Splendid orchid bursting forth from rich soil,low quality,1.5,1,1,1,10,1,10
+FashionMnist_515,Ocean wave curling gracefully onto beach,low quality,1.5,9,9,9,10,9,10
+FashionMnist_516,"Sunbeams dance on meadows below, mountains rise in silhouette, birds fly in the sky",low quality,1.5,8,8,8,10,8,10
+FashionMnist_517,A neon cyberpunk street at night,low quality,1.5,5,5,5,10,5,10
+FashionMnist_518,"Ancient city walls engulfed in snow, sunlight illuminating the crumbled stones",low quality,1.5,1,1,1,10,1,10
+FashionMnist_519,Vibrant city at night with neon lights,low quality,1.5,9,9,9,10,9,10
+FashionMnist_520,A dark forest with a glowing mushroom,low quality,1.5,1,1,1,10,1,2
+FashionMnist_521,Cobbled street lined with ivy-clad buildings,low quality,1.5,2,2,2,10,2,3
+FashionMnist_522,Orca spyhopping curiously,low quality,1.5,8,8,8,10,8,10
+FashionMnist_523,A fiery sunset casting a golden glow over a tranquil lake,low quality,1.5,3,3,3,10,3,10
+FashionMnist_524,A gecko on a large leaf in a tropical rainforest,low quality,1.5,8,8,8,10,8,10
+FashionMnist_525,"Whipped cream clouds swirl around children's laughter, city lights glitter below",low quality,1.5,9,9,7,10,7,10
+FashionMnist_526,A blissful yoga retreat nestled within tropical forests,low quality,1.5,2,2,2,10,2,10
+FashionMnist_527,A cozy fireplace crackling in a rustic log cabin,low quality,1.5,4,4,4,10,4,10
+FashionMnist_528,A vast desert with a distant city,low quality,1.5,2,2,6,10,2,10
+FashionMnist_529,A lush meadow with wildflowers and butterflies,low quality,1.5,8,8,8,10,8,10
+FashionMnist_530,A snowy mountain peak reflecting the light of dawn,low quality,1.5,8,6,0,10,0,10
+FashionMnist_531,An ancient castle perched on a hilltop,low quality,1.5,2,2,2,10,2,10
+FashionMnist_532,Misty mountains with a flowing river,low quality,1.5,0,2,2,10,2,10
+FashionMnist_533,"A beach with umbrella, sun and ocean",low quality,1.5,5,5,5,10,5,10
+FashionMnist_534,"Sunsets over sand dunes, shadows stretch, silence blankets the desert",low quality,1.5,8,8,8,10,8,10
+FashionMnist_535,A sunset at the ocean with a palm tree,low quality,1.5,8,8,8,10,8,10
+FashionMnist_536,A beach with palm trees and a sunset,low quality,1.5,5,5,5,10,5,8
+FashionMnist_537,Peaceful early morning fishing boat,low quality,1.5,3,0,3,10,3,10
+FashionMnist_538,An alien landscape with strange rock formations and glowing plants,low quality,1.5,9,9,9,10,9,10
+FashionMnist_539,"Softly glowing mushrooms illuminate forest floor, moonlight filters through branches",low quality,1.5,4,2,2,10,2,10
+FashionMnist_540,Underwater volcano eruption near Tonga Islands,low quality,1.5,3,3,3,10,3,10
+FashionMnist_541,A bustling train station with passengers rushing to catch their trains,low quality,1.5,4,3,3,10,3,10
+FashionMnist_542,Total lunar eclipse painting blood-red moon,low quality,1.5,4,2,2,10,2,10
+FashionMnist_543,Double rainbow arching over flooded rice terraces,low quality,1.5,5,5,5,10,5,10
+FashionMnist_544,"Golden light meets distant shores, river meets ocean waves, birds sing on silent shores",low quality,1.5,1,1,1,10,1,10
+FashionMnist_545,A Ramadan Iftar meal breaking fast lovingly,low quality,1.5,0,0,0,10,0,10
+FashionMnist_546,"Neon glow fills abandoned mining tunnels, eerie silence haunts the depths",low quality,1.5,1,1,1,10,1,10
+FashionMnist_547,"Abandoned laboratory, scientific symbols floating in the air",low quality,1.5,2,2,2,10,2,10
+FashionMnist_548,A lush rainforest with cascading waterfalls,low quality,1.5,0,0,0,10,0,10
+FashionMnist_549,Pelican skillfully catching schooling fish,low quality,1.5,6,6,6,10,6,10
+FashionMnist_550,"A distant meteor litters the night sky, illuminating the silent forest below",low quality,1.5,9,9,5,10,1,10
+FashionMnist_551,A lush meadow beneath a bright blue summer sky,low quality,1.5,6,6,6,10,6,10
+FashionMnist_552,"Ethereal light fills the forest, cascading through the leaves and illuminating hidden life",low quality,1.5,1,1,1,10,1,10
+FashionMnist_553,"Volcanic mountains erupt in clouds, geothermal lake forms below",low quality,1.5,5,7,7,10,7,10
+FashionMnist_554,A spacecraft entering Mars' orbit,low quality,1.5,1,1,1,10,1,10
+FashionMnist_555,"Sun paints mountains in a golden glow, river reflects the sky below, birds dance in a vibrant flow",low quality,1.5,1,1,1,10,1,10
+FashionMnist_556,"Sun paints mountains golden glow, river whispers secrets below, birds dance in silent show",low quality,1.5,1,1,1,10,1,10
+FashionMnist_557,Starship floating over a futuristic city,low quality,1.5,9,9,9,10,9,10
+FashionMnist_558,A serene forest with a twinkling stream,low quality,1.5,3,3,3,10,3,10
+FashionMnist_559,"A vibrant forest glows with bioluminescent light, revealing hidden secrets",low quality,1.5,4,4,3,10,2,2
+FashionMnist_560,Shark fin slicing smoothly through deep blue sea,low quality,1.5,5,5,5,10,5,10
+FashionMnist_561,"Vibrant fields of sunflowers stretching endlessly, glowing sun setting over hills",low quality,1.5,3,3,3,10,3,10
+FashionMnist_562,A Memorial Day barbecue sharing good food,low quality,1.5,6,6,6,10,0,10
+FashionMnist_563,"Gentle waves lap rocky beach, seagulls soar above, salty air fills the scent",low quality,1.5,6,6,6,10,2,10
+FashionMnist_564,"Mountains embrace sparkling lake, sunlight paints ripples, forest glows faintly",low quality,1.5,6,0,6,10,0,10
+FashionMnist_565,Sunset over the pier,low quality,1.5,4,4,4,10,4,10
+FashionMnist_566,A tranquil Zen garden with raked sand and stone sculptures,low quality,1.5,6,6,0,10,0,10
+FashionMnist_567,A rustic barn surrounded by fields of golden wheat,low quality,1.5,0,0,0,10,0,10
+FashionMnist_568,Misty moor bathed in morning dew,low quality,1.5,5,5,7,10,5,10
+FashionMnist_569,A vibrant music festival brimming with energy,low quality,1.5,8,8,8,10,8,10
+FashionMnist_570,A bustling street market with vendors selling exotic wares,low quality,1.5,3,6,3,10,2,10
+FashionMnist_571,Wildflower superbloom covering Californian desert,low quality,1.5,3,3,3,10,3,10
+FashionMnist_572,Quaint village tucked away amidst rolling hills,low quality,1.5,4,4,2,10,2,10
+FashionMnist_573,A starry night in a forest with a lake,low quality,1.5,6,6,0,10,0,8
+FashionMnist_574,A magical fairytale forest filled with unicorns,low quality,1.5,7,9,9,10,9,10
+FashionMnist_575,"A beach with waves, sand, and palm trees",low quality,1.5,7,7,7,10,7,10
+FashionMnist_576,A serene lake with lush forest and mountains,low quality,1.5,8,8,8,10,8,10
+FashionMnist_577,"Eerie silence surrounds abandoned temple, glow of sunrise illuminates crumbling walls",low quality,1.5,9,9,9,10,9,10
+FashionMnist_578,"Silent mountains reflecting in a serene lake, sunlight filtering through falling leaves",low quality,1.5,0,0,3,10,0,10
+FashionMnist_579,"Space station orbiting a purple planet, stars swirling around it",low quality,1.5,3,3,3,10,3,10
+FashionMnist_580,A fields of golden wheat swaying in the breeze under a blue sky,low quality,1.5,8,8,8,10,8,10
+FashionMnist_581,Eerie hospital corridor with shattered glass and flickering lights,low quality,1.5,7,7,7,10,7,2
+FashionMnist_582,A fantasy castle with a moat and drawbridge,low quality,1.5,6,6,6,10,6,10
+FashionMnist_583,Rainbow appearing after a summer rainstorm,low quality,1.5,7,7,7,10,7,10
+FashionMnist_584,Wild horses running free in windswept grasslands,low quality,1.5,9,9,9,10,9,10
+FashionMnist_585,Birds singing harmoniously at dawn,low quality,1.5,3,3,3,10,3,10
+FashionMnist_586,Sparkling diamond dusting freshly fallen snow,low quality,1.5,4,2,2,10,2,10
+FashionMnist_587,A misty forest clearing with sunlight filtering through the canopy,low quality,1.5,6,6,6,10,6,10
+FashionMnist_588,A bustling city street with neon lights and bustling crowds,low quality,1.5,6,6,3,10,0,5
+FashionMnist_589,A rocky landscape with an ancient sword in the foreground,low quality,1.5,5,5,5,10,5,10
+FashionMnist_590,"Sunbeams filter through forest leaves, river winds through mountains, birds dance around",low quality,1.5,0,0,0,10,0,10
+FashionMnist_591,Moon setting behind rolling sand dunes in early dawn light,low quality,1.5,1,1,1,10,1,10
+FashionMnist_592,"Gentle waves meet volcanic cliffs, stars twinkle above",low quality,1.5,1,1,1,10,1,10
+FashionMnist_593,A fox running through a field of flowers,low quality,1.5,5,5,5,10,5,10
+FashionMnist_594,Old stone bridge over crystal clear mountain stream,low quality,1.5,9,9,9,10,9,10
+FashionMnist_595,Tranquil forest with birds singing in the canopy,low quality,1.5,4,3,3,10,3,10
+FashionMnist_596,"Sunsets over sand dunes, shadows stretch, silence blankets the desert",low quality,1.5,6,6,6,10,6,10
+FashionMnist_597,A quaint village blanketed in winter snow with twinkling lights,low quality,1.5,5,5,5,10,5,5
+FashionMnist_598,Lion pride resting under acacia tree,low quality,1.5,7,7,7,10,7,10
+FashionMnist_599,A rugged canyon carved by a winding river,low quality,1.5,8,8,8,10,8,10
+FashionMnist_600,"A vibrant sunset paints the mountains in shades of gold, casting long shadows",low quality,1.5,1,1,1,10,1,10
+FashionMnist_601,A thrilling rollercoaster ride at amusement park,low quality,1.5,2,2,2,10,2,10
+FashionMnist_602,A rustic farm with cows grazing in a green pasture,low quality,1.5,9,9,9,10,9,10
+FashionMnist_603,"Mountain river meets ocean waves, sunlight dances on spray, salty air fills the world",low quality,1.5,7,9,7,10,7,10
+FashionMnist_604,A rustic farmhouse surrounded by fields of wheat,low quality,1.5,7,7,7,10,7,10
+FashionMnist_605,"Sunset over calm ocean, with silhouette of palm trees",low quality,1.5,1,1,1,10,1,10
+FashionMnist_606,A bustling carnival with colorful lights and rides,low quality,1.5,0,0,0,5,0,5
+FashionMnist_607,"A foggy forest with twisting, moss-covered trees",low quality,1.5,9,9,9,10,9,10
+FashionMnist_608,Tranquil lake reflecting starry night sky,low quality,1.5,3,3,3,10,1,10
+FashionMnist_609,A mystical forest enchanted by swirling mist,low quality,1.5,2,2,2,10,2,3
+FashionMnist_610,Snowcapped mountains against azure sky,low quality,1.5,9,9,9,7,9,7
+FashionMnist_611,African wild dog hunting impala,low quality,1.5,0,0,0,10,0,10
+FashionMnist_612,An ancient castle perched on a cliff overlooking the sea,low quality,1.5,7,7,7,10,7,10
+FashionMnist_613,Wisteria draped elegantly over arbor,low quality,1.5,6,6,6,10,6,10
+FashionMnist_614,A rugged canyon carved by a winding river,low quality,1.5,8,8,8,10,8,10
+FashionMnist_615,A serene meadow with colorful wildflowers,low quality,1.5,2,2,2,10,2,10
+FashionMnist_616,A futuristic space station orbiting Earth,low quality,1.5,7,7,7,10,7,10
+FashionMnist_617,A castle on a hill overlooking a village,low quality,1.5,0,6,6,10,3,10
+FashionMnist_618,Pelican skillfully catching schooling fish,low quality,1.5,2,2,2,5,2,10
+FashionMnist_619,A magnificent sunset over the ocean with sailboats,low quality,1.5,3,3,3,10,3,10
+FashionMnist_620,A secret garden hidden behind a hidden door in a wall,low quality,1.5,8,8,8,2,8,0
+FashionMnist_621,A thunderstorm brewing over a field of wildflowers,low quality,1.5,2,2,2,10,2,10
+FashionMnist_622,A mystical forest shrouded in mist,low quality,1.5,2,2,2,3,2,10
+FashionMnist_623,A serene lake surrounded by lush green forest,low quality,1.5,6,6,6,3,0,3
+FashionMnist_624,A busy marketplace filled with colorful stalls,low quality,1.5,9,9,9,10,9,10
+FashionMnist_625,"Sunrise paints mountains golden, river meanders through valleys, birds sing in harmony",low quality,1.5,3,0,3,10,3,10
+FashionMnist_626,"Silent mountains reflecting in a serene lake, sunlight filtering through falling leaves",low quality,1.5,0,0,0,10,0,10
+FashionMnist_627,"Eerie tree silhouette against crimson sunset, clouds cast shifting shadows",low quality,1.5,7,7,7,10,7,10
+FashionMnist_628,Hummingbird drinking nectar,low quality,1.5,8,8,8,10,8,10
+FashionMnist_629,Birds singing harmoniously at dawn,low quality,1.5,6,6,6,10,0,10
+FashionMnist_630,A vast desert landscape with towering sand dunes,low quality,1.5,2,2,2,10,2,10
+FashionMnist_631,"Eerie silence surrounds abandoned temple, glow of sunrise illuminates crumbling walls",low quality,1.5,9,9,9,10,9,10
+FashionMnist_632,"Vast, moonlit desert with faraway stars in the sky",low quality,1.5,4,2,2,10,2,10
+FashionMnist_633,A bustling city skyline at night,low quality,1.5,2,6,6,10,2,10
+FashionMnist_634,A quirky steampunk city with gears and turbines everywhere,low quality,1.5,6,6,6,10,6,10
+FashionMnist_635,"Gentle waves lap sandy shores, seagulls soar above, salty spray fills the air",low quality,1.5,6,4,4,10,4,10
+FashionMnist_636,"Ancient city emerges from forest depths, moonlight illuminates towering structures",low quality,1.5,8,8,8,10,2,2
+FashionMnist_637,"Serene reflection of stars in a calm lake, moonlight cascading over mountains",low quality,1.5,0,0,0,10,0,10
+FashionMnist_638,"Whipped cream dream swirls around ballerina, city lights twinkle like stars",low quality,1.5,4,3,3,10,3,10
+FashionMnist_639,"Windswept dunes meeting turquoise sea, rolling waves foam and crest",low quality,1.5,4,4,4,10,4,10
+FashionMnist_640,A verdant jungle with towering mountains and a winding river,low quality,1.5,4,2,2,10,2,10
+FashionMnist_641,Sunset over the pier,low quality,1.5,7,7,7,10,7,10
+FashionMnist_642,"Role-playing figures gather in a mystical forest, embraced by ethereal light",low quality,1.5,5,5,5,4,5,4
+FashionMnist_643,A snow-capped mountain reflected in a crystal-clear lake,low quality,1.5,8,8,8,10,8,10
+FashionMnist_644,Curious squirrel climbing up tree trunk,low quality,1.5,4,4,4,10,4,10
+FashionMnist_645,A magical underwater kingdom with colorful coral reefs and marine life,low quality,1.5,9,9,9,10,9,10
+FashionMnist_646,A serene lake surrounded by lush green forests,low quality,1.5,1,1,1,10,1,0
+FashionMnist_647,"Sunbeams pierce dark forest depths, river flow washes over rocks, birds call from branches",low quality,1.5,0,0,0,10,0,10
+FashionMnist_648,A distant futuristic city with floating buildings,low quality,1.5,5,5,5,10,5,10
+FashionMnist_649,Dolphins leaping in sparkling sea,low quality,1.5,4,2,2,10,2,10
+FashionMnist_650,A sunrise in the savanna,low quality,1.5,4,2,2,10,2,10
+FashionMnist_651,Koala dozing comfortably in eucalyptus tree,low quality,1.5,4,4,4,10,2,10
+FashionMnist_652,A castle on a hill overlooking a village,low quality,1.5,0,0,0,10,0,10
+FashionMnist_653,A Guru Nanak Jayanti langar serving equality,low quality,1.5,0,0,0,10,0,10
+FashionMnist_654,"Golden sunrise paints mountains gold, river reflects in quiet lake, birds sing softly",low quality,1.5,4,2,2,10,2,10
+FashionMnist_655,A train on a bridge over a deep valley,low quality,1.5,5,5,8,10,5,10
+FashionMnist_656,"Embraced by moonlight, ancient city walls glow with a soft, luminescent light",low quality,1.5,6,6,4,10,4,10
+FashionMnist_657,"Sunbeams peek through canopy leaves, river whispers secrets in the wind, birds dance in harmonious circles",low quality,1.5,0,0,0,10,0,10
+FashionMnist_658,A grand ballroom filled with elegant dancers in lavish attire,low quality,1.5,4,3,3,10,3,10
+FashionMnist_659,Sparkling diamond dusting freshly fallen snow,low quality,1.5,5,5,5,10,5,10
+FashionMnist_660,A grand palace with ornate golden gates and pillars,low quality,1.5,4,3,2,10,2,10
+FashionMnist_661,Mountain goats traversing rugged terrain,low quality,1.5,1,1,1,10,1,10
+FashionMnist_662,Radiant sunflowers facing the midday sun,low quality,1.5,3,3,3,10,3,10
+FashionMnist_663,A rustic barn surrounded by fields of golden wheat,low quality,1.5,1,1,1,10,1,10
+FashionMnist_664,A bustling city street with neon lights,low quality,1.5,1,1,1,5,1,10
+FashionMnist_665,A fascinating archaeological dig site unearthing ancient artifacts,low quality,1.5,6,2,6,10,2,10
+FashionMnist_666,A moonlit beach with gentle waves lapping at the shore,low quality,1.5,4,6,2,10,2,10
+FashionMnist_667,A magical fairytale forest filled with unicorns,low quality,1.5,3,3,3,10,3,10
+FashionMnist_668,Squirrel scampering along fence post,low quality,1.5,8,8,8,10,8,8
+FashionMnist_669,An empty meadow with a few trees and a small river,low quality,1.5,2,2,2,10,2,10
+FashionMnist_670,"Neon reflections on wet streets in a futuristic city, towering structures reaching for the clouds",low quality,1.5,8,8,6,10,8,10
+FashionMnist_671,"Vibrant fields of sunflowers stretching endlessly, glowing sun setting over hills",low quality,1.5,2,6,6,10,6,10
+FashionMnist_672,A festive carnival with bright lights and merry-go-rounds,low quality,1.5,7,7,5,10,7,10
+FashionMnist_673,Cozy cabin nestled among snow-covered pine trees,low quality,1.5,0,0,0,10,0,10
+FashionMnist_674,A thrilling ski slope adventure on snowy peaks,low quality,1.5,4,4,4,10,4,10
+FashionMnist_675,A field of daisies with a rainbow in the background,low quality,1.5,0,0,3,10,3,10
+FashionMnist_676,Golden wheat field swaying in gentle breeze,low quality,1.5,8,8,8,10,8,10
+FashionMnist_677,Gentle waves guide small boats through hidden mangrove forest,low quality,1.5,5,5,5,10,5,10
+FashionMnist_678,A girl with a cat and a dog in front of a beach,low quality,1.5,0,0,0,10,0,10
+FashionMnist_679,A dark alleyway with neon lights and graffiti,low quality,1.5,8,8,8,10,8,10
+FashionMnist_680,"Swirling clouds of dust swirl around futuristic aircraft, city lights below",low quality,1.5,2,2,2,10,2,10
+FashionMnist_681,Spectacular lightning bolt piercing darkened sky,low quality,1.5,9,9,9,10,9,10
+FashionMnist_682,A refreshing oasis amidst vast desert sands,low quality,1.5,0,0,0,10,0,10
+FashionMnist_683,A nostalgic drive-in movie theater under the stars,low quality,1.5,8,8,8,10,8,10
+FashionMnist_684,"Ancient castle perched on cliff, waves crashing below",low quality,1.5,9,9,9,10,9,10
+FashionMnist_685,A misty morning in a foggy forest with dew-covered leaves,low quality,1.5,6,6,6,10,6,10
+FashionMnist_686,Sloth hanging nonchalantly from branch in Central America,low quality,1.5,4,3,3,10,3,10
+FashionMnist_687,A peaceful village by the lake shore,low quality,1.5,2,2,2,10,2,10
+FashionMnist_688,Wild horses running free in windswept grasslands,low quality,1.5,9,9,9,10,9,10
+FashionMnist_689,Panther (Leopard) moving sinuously through rainforest undergrowth,low quality,1.5,3,6,6,10,3,10
+FashionMnist_690,"Vast coral reef, vibrant colors dance, schools of fish dart through the waves",low quality,1.5,4,4,6,10,6,10
+FashionMnist_691,Tranquil meadow with wildflowers and distant hills,low quality,1.5,5,5,5,10,5,10
+FashionMnist_692,"Gentle waves lap against sandy beach, distant storm glows clouds over mountains",low quality,1.5,0,0,0,10,0,10
+FashionMnist_693,Aurora borealis dancing above Arctic Circle,low quality,1.5,9,9,9,10,9,10
+FashionMnist_694,"Ancient forest meets rocky coast, waves crash in whisperings tones",low quality,1.5,5,5,5,10,5,10
+FashionMnist_695,A field of wild lupine flowers stretching out to the horizon,low quality,1.5,3,3,6,10,0,10
+FashionMnist_696,Morning dew droplets hanging on spider web,low quality,1.5,6,6,6,10,6,10
+FashionMnist_697,"Vast ocean waves reflect a radiant sunrise, painting the sky with vibrant hues",low quality,1.5,6,6,6,10,6,10
+FashionMnist_698,An abandoned castle shrouded in mist atop a lonely hill,low quality,1.5,8,8,8,10,8,10
+FashionMnist_699,Spectacular lightning bolt piercing darkened sky,low quality,1.5,3,3,3,10,3,10
+FashionMnist_700,Two cats playing in a field of tall grass,low quality,1.5,3,6,6,10,3,10
+FashionMnist_701,A sunset over a golden wheat field,low quality,1.5,8,8,8,10,8,10
+FashionMnist_702,Forest of colossal mushrooms bathing the earth in bioluminescence,low quality,1.5,1,1,1,10,3,10
+FashionMnist_703,"Mountain lake reflection, snow-capped peaks glow, birds flutter above the calm surface",low quality,1.5,4,2,6,10,2,10
+FashionMnist_704,A lush meadow beneath a bright blue summer sky,low quality,1.5,0,0,0,10,0,10
+FashionMnist_705,A girl sitting on the beach looking at the sunset,low quality,1.5,9,9,9,10,9,10
+FashionMnist_706,A victorian-era tea party set in idyllic countryside,low quality,1.5,7,7,7,10,7,10
+FashionMnist_707,A fantasy castle with a moat and drawbridge,low quality,1.5,9,9,9,10,9,10
+FashionMnist_708,"Gentle river winds through forest, sunlight filters through foliage, birds chirp merrily",low quality,1.5,4,3,4,3,3,2
+FashionMnist_709,A vibrant forest with lush vegetation and a meandering river,low quality,1.5,8,8,8,10,8,10
+FashionMnist_710,Towering giant sequoia stretching high into sky,low quality,1.5,9,9,9,10,9,10
+FashionMnist_711,Frozen Niagara Falls shimmering under winter sun,low quality,1.5,1,1,1,10,1,10
+FashionMnist_712,Starship floating over a futuristic city,low quality,1.5,6,0,0,10,0,10
+FashionMnist_713,Bright bioluminescent plankton lighting up the shoreline,low quality,1.5,7,7,7,10,7,10
+FashionMnist_714,Quaint cobblestone alleyway in old European town,low quality,1.5,3,3,3,10,3,10
+FashionMnist_715,A peaceful sunrise over a calm sea,low quality,1.5,0,0,0,10,0,10
+FashionMnist_716,A vast desert with a towering canyon in the distance,low quality,1.5,2,2,2,10,2,10
+FashionMnist_717,A serene pond covered in lily pads and blooming lotus flowers,low quality,1.5,6,6,6,10,6,10
+FashionMnist_718,A sunset over a vast desert with sand dunes and a lone camel,low quality,1.5,7,7,7,10,7,10
+FashionMnist_719,A pink rose with green leaves,low quality,1.5,1,1,1,10,1,10
+FashionMnist_720,"Vibrant fields of sunflowers stretching endlessly, glowing sun setting over hills",low quality,1.5,0,0,0,10,0,10
+FashionMnist_721,A solitary lighthouse on a stormy cliff,low quality,1.5,0,6,0,10,0,10
+FashionMnist_722,A forest with tall trees and a babbling brook,low quality,1.5,8,8,8,10,8,10
+FashionMnist_723,"Sun sets over vibrant meadow, casting long shadows on rolling hills",low quality,1.5,5,7,7,10,7,10
+FashionMnist_724,A nostalgic drive-in movie theater under the stars,low quality,1.5,2,2,2,10,2,10
+FashionMnist_725,A peaceful field with a wooden fence and blooming flowers,low quality,1.5,6,2,2,10,2,10
+FashionMnist_726,A misty bamboo forest with mountains,low quality,1.5,6,6,6,3,6,3
+FashionMnist_727,Giraffes grazing peacefully,low quality,1.5,6,6,6,10,6,10
+FashionMnist_728,"Gentle river reflects clouds above, mountain peaks rise in silhouette, birds fly silently",low quality,1.5,4,2,2,10,2,10
+FashionMnist_729,Enchanting Northern Lights shimmering softly,low quality,1.5,1,1,1,10,1,10
+FashionMnist_730,A night sky with a full moon and stars,low quality,1.5,5,5,5,10,5,10
+FashionMnist_731,"Neon rivers flow through silicon sand, mountains sculpted from fractured land, birds made of light expand",low quality,1.5,9,9,9,10,9,10
+FashionMnist_732,A quaint village covered in a blanket of snow,low quality,1.5,0,0,0,10,0,10
+FashionMnist_733,"Neon lights glow beneath the stars, towering concrete meets rippling scars, birds sing in artificial wars",low quality,1.5,2,6,0,10,0,10
+FashionMnist_734,A spaceship descends towards a lush jungle planet,low quality,1.5,1,1,1,10,1,10
+FashionMnist_735,A tropical island paradise with sandy beaches and crystal-clear waters,low quality,1.5,6,6,6,10,6,10
+FashionMnist_736,A cozy living room with a fireplace and Christmas tree,low quality,1.5,5,5,5,10,5,2
+FashionMnist_737,Whale breaching through waves,low quality,1.5,0,0,0,10,0,10
+FashionMnist_738,Cozy cabin nestled among snow-covered pine trees,low quality,1.5,0,0,0,10,0,10
+FashionMnist_739,Rustic lighthouse on rocky coastline amid crashing waves,low quality,1.5,3,3,3,10,3,10
+FashionMnist_740,Wisteria draped elegantly over arbor,low quality,1.5,3,3,3,0,3,2
+FashionMnist_741,A charming cottage nestled in a green valley,low quality,1.5,3,3,3,10,3,10
+FashionMnist_742,A vintage biplane flying over a picturesque landscape,low quality,1.5,8,8,8,10,8,10
+FashionMnist_743,"Sunbeams peek through canopy leaves, river whispers secrets in the wind, birds dance in harmonious circles",low quality,1.5,1,1,1,10,1,10
+FashionMnist_744,"Ancient trees reach for the stars, sunlight filters through branches, river flows silently",low quality,1.5,1,1,1,10,1,10
+FashionMnist_745,"Starry sea reflects on metallic waves, futuristic city emerging from the depths",low quality,1.5,8,8,8,10,8,10
+FashionMnist_746,A serene meadow blanketed in a carpet of purple lavender,low quality,1.5,5,5,5,10,5,10
+FashionMnist_747,A dark forest with moonlight peeking through trees,low quality,1.5,7,7,7,10,7,5
+FashionMnist_748,A moonlit forest with fireflies dancing in the darkness,low quality,1.5,7,7,9,10,1,10
+FashionMnist_749,A hauntingly beautiful graveyard shrouded in fog,low quality,1.5,8,8,8,10,8,10
+FashionMnist_750,A hauntingly beautiful graveyard shrouded in fog,low quality,1.5,7,7,7,10,7,10
+FashionMnist_751,"Sun setting over a futuristic city, robots and lights reflected in the clouds",low quality,1.5,2,2,2,10,2,10
+FashionMnist_752,"Pulse of the city fades to sea, mountains rise in rhythmic sway, river meets the history",low quality,1.5,0,2,0,10,0,10
+FashionMnist_753,A snowy mountain peak under starry night sky,low quality,1.5,7,7,7,10,7,7
+FashionMnist_754,A sunflower field with a clear blue sky and fluffy clouds,low quality,1.5,3,0,3,10,3,10
+FashionMnist_755,"Gentle waves crash against sandy shores, moonlight reflects on sparkling water",low quality,1.5,8,8,8,10,8,10
+FashionMnist_756,Sloth hanging nonchalantly from branch in Central America,low quality,1.5,0,0,0,10,0,10
+FashionMnist_757,A thrilling rollercoaster ride at amusement park,low quality,1.5,9,9,9,4,9,10
+FashionMnist_758,Pelican skillfully catching schooling fish,low quality,1.5,7,7,7,5,7,5
+FashionMnist_759,Crunchy brown leaves carpeting forest floor,low quality,1.5,6,6,6,10,6,10
+FashionMnist_760,A starry night with a silhouette of a person looking at the stars,low quality,1.5,1,1,1,10,1,10
+FashionMnist_761,A bustling cityscape with skyscrapers reaching towards the sky,low quality,1.5,2,2,3,10,4,10
+FashionMnist_762,Sea turtle laying eggs on moonlit beach,low quality,1.5,6,6,2,10,2,10
+FashionMnist_763,A sandy beach with palm trees and gentle waves lapping,low quality,1.5,4,2,2,10,2,10
+FashionMnist_764,A Chinese New Year Lion Dance welcoming prosperity,low quality,1.5,8,8,8,10,8,10
+FashionMnist_765,A vibrant marketplace with vendors selling exotic fruits and spices,low quality,1.5,0,6,6,10,0,10
+FashionMnist_766,"City skyline reflected in a pool of water, neon lights shimmering",low quality,1.5,6,6,0,10,0,10
+FashionMnist_767,Tranquil beach with clear water and white sand,low quality,1.5,3,3,3,10,3,10
+FashionMnist_768,"Sunbeams pierce dark forest depths, river flow washes over rocks, birds call from branches",low quality,1.5,6,6,6,10,6,10
+FashionMnist_769,A field of lavender with bees buzzing around the fragrant flowers,low quality,1.5,8,8,8,10,8,10
+FashionMnist_770,Towering giant sequoia stretching high into sky,low quality,1.5,4,4,3,10,4,10
+FashionMnist_771,"Spherical ""blue holes"" in Bahamas coral reefs",low quality,1.5,0,0,0,10,0,10
+FashionMnist_772,"Sunbeams twinkle on calm lake's surface, snow-capped peaks rise gracefully, birds sing softly",low quality,1.5,8,8,8,10,8,10
+FashionMnist_773,A vibrant forest with lush vegetation and a meandering river,low quality,1.5,9,9,9,10,9,10
+FashionMnist_774,Tiger stalking prey in dense bamboo thicket,low quality,1.5,2,2,2,10,2,10
+FashionMnist_775,"Neon signs illuminate abandoned car park, forgotten vehicles silhouetted against moon",low quality,1.5,4,4,4,10,2,5
+FashionMnist_776,A tranquil lake surrounded by snow-capped mountains,low quality,1.5,5,5,5,10,5,10
+FashionMnist_777,A lively carnival with bright tents and rides,low quality,1.5,9,9,9,10,9,10
+FashionMnist_778,"Moonlight bathes serene lake, reflecting off mountains against the night sky",low quality,1.5,1,1,1,10,1,10
+FashionMnist_779,Whale breaching through waves,low quality,1.5,4,4,4,10,4,10
+FashionMnist_780,Walrus haulout on icy coastline,low quality,1.5,4,4,4,10,4,10
+FashionMnist_781,A vast desert with dunes and a lone camel,low quality,1.5,9,9,9,10,9,10
+FashionMnist_782,"Vast, moonlit desert with faraway stars in the sky",low quality,1.5,2,2,2,10,2,10
+FashionMnist_783,Swallows swooping low over tranquil pond,low quality,1.5,1,1,1,10,1,10
+FashionMnist_784,A sunset on a beach with footprints in the sand,low quality,1.5,7,7,7,10,7,10
+FashionMnist_785,A cozy living room with a fireplace and Christmas tree,low quality,1.5,9,9,9,0,9,0
+FashionMnist_786,Mystical forest with glowing mushroom trees,low quality,1.5,5,5,5,10,5,10
+FashionMnist_787,A fascinating archaeological dig site unearthing ancient artifacts,low quality,1.5,8,8,8,10,8,10
+FashionMnist_788,A steamy jungle with lush foliage and exotic wildlife,low quality,1.5,1,3,3,10,3,10
+FashionMnist_789,"Gentle waves lap rocky beach, seagulls soar above, salty air fills the scent",low quality,1.5,7,9,9,10,7,10
+FashionMnist_790,Pronghorn bounding speedily through badlands,low quality,1.5,7,7,7,10,7,10
+FashionMnist_791,"Vast, glowing nebula engulfing a towering space station, stars twinkling beyond",low quality,1.5,1,1,1,10,1,10
+FashionMnist_792,A peaceful lakeside campfire surrounded by friends and laughter,low quality,1.5,1,1,1,10,1,10
+FashionMnist_793,"A vibrant sunset paints the mountains in shades of gold, casting long shadows",low quality,1.5,1,1,1,10,1,10
+FashionMnist_794,A peaceful cottage in a forest glade,low quality,1.5,6,6,6,5,6,5
+FashionMnist_795,Moose wandering through serene woodland,low quality,1.5,9,9,9,10,9,10
+FashionMnist_796,"Golden waves meet silver foam, city lights reflect in gentle glow, birds dance in silent storm",low quality,1.5,5,5,5,10,5,10
+FashionMnist_797,Curious squirrel climbing up tree trunk,low quality,1.5,3,3,3,10,3,10
+FashionMnist_798,"Ocean meets mountain waves, sunlight paints splatter on caves, birds sing in gentle saves",low quality,1.5,8,8,8,10,8,10
+FashionMnist_799,A vast desert with a lone cactus,low quality,1.5,4,4,4,10,2,10
+FashionMnist_800,A field of vibrant wildflowers under a clear blue sky,low quality,1.5,2,2,2,0,2,10
+FashionMnist_801,A fiery sunset over a tranquil lake,low quality,1.5,7,9,9,10,9,10
+FashionMnist_802,"Cosmic rays illuminate swirling dust, mountains casting long shadows on plains",low quality,1.5,4,4,4,10,2,10
+FashionMnist_803,A stunning coral reef teeming with marine life,low quality,1.5,8,8,8,10,8,10
+FashionMnist_804,A secret garden hidden behind a hidden door in a wall,low quality,1.5,3,3,3,2,3,2
+FashionMnist_805,"Ancient city emerges from forest depths, moonlight illuminates towering structures",low quality,1.5,2,2,2,10,2,10
+FashionMnist_806,A desert with a lake in the middle,low quality,1.5,4,2,4,10,2,10
+FashionMnist_807,A cloudy sky with a bolt of lightning striking a windmill,low quality,1.5,4,6,4,10,2,10
+FashionMnist_808,A quaint seaside town with colorful fishing boats,low quality,1.5,7,7,7,10,7,10
+FashionMnist_809,Fox darting through pristine snow,low quality,1.5,1,1,1,10,1,10
+FashionMnist_810,A thunderstorm brewing over a field of wildflowers,low quality,1.5,4,4,3,10,3,10
+FashionMnist_811,"A lone astronaut floats weightlessly in space, stars forming a breathtaking tapestry",low quality,1.5,9,9,9,10,9,10
+FashionMnist_812,Urban city with skyscrapers and traffic,low quality,1.5,3,3,3,10,3,3
+FashionMnist_813,A castle on a hill overlooking a village,low quality,1.5,5,5,5,10,5,10
+FashionMnist_814,A cave decorated with crystals and stalactites,low quality,1.5,8,8,8,10,8,10
+FashionMnist_815,"Gentle waves meet volcanic cliffs, stars twinkle above",low quality,1.5,5,5,5,10,5,10
+FashionMnist_816,A pirate ship battling with a sea monster,low quality,1.5,4,2,4,10,2,10
+FashionMnist_817,A quaint village blanketed in winter snow with twinkling lights,low quality,1.5,7,7,7,10,7,10
+FashionMnist_818,Moose wandering through serene woodland,low quality,1.5,2,2,2,10,2,5
+FashionMnist_819,Hyena laughing boisterously while feasting,low quality,1.5,8,8,8,10,8,10
+FashionMnist_820,"Ghostly figures haunting a derelict library, lit by candlelight",low quality,1.5,5,5,5,10,5,2
+FashionMnist_821,A peaceful rice terrace overlooking a tranquil valley,low quality,1.5,9,9,9,10,9,10
+FashionMnist_822,"Softly glowing mushrooms illuminate forest floor, moonlight filters through branches",low quality,1.5,3,3,3,10,3,10
+FashionMnist_823,Seaside boardwalk with vintage arcade games,low quality,1.5,3,3,3,10,3,10
+FashionMnist_824,Frozen Niagara Falls shimmering under winter sun,low quality,1.5,6,4,4,10,4,10
+FashionMnist_825,Night sky filled with bright stars,low quality,1.5,7,7,9,10,7,10
+FashionMnist_826,"Vast fields of wildflowers embrace rolling hills, mountains rise in background, sunlight bathes the scene",low quality,1.5,1,1,1,10,1,10
+FashionMnist_827,Bioluminescent plankton glowing in the surf,low quality,1.5,7,7,7,10,7,10
+FashionMnist_828,A bustling marketplace filled with exotic spices and fabrics,low quality,1.5,3,3,3,10,3,10
+FashionMnist_829,A colorful hot air balloon floating over a patchwork landscape,low quality,1.5,5,7,7,10,7,10
+FashionMnist_830,A cozy cabin nestled in a snowy forest clearing,low quality,1.5,4,4,4,10,4,10
+FashionMnist_831,A vast savannah dotted with grazing zebras,low quality,1.5,4,6,6,10,6,10
+FashionMnist_832,A serene meadow with wildflowers and butterflies,low quality,1.5,5,5,5,10,5,10
+FashionMnist_833,Clear blue skies meeting cerulean ocean,low quality,1.5,8,8,8,10,8,10
+FashionMnist_834,A lush jungle with waterfalls and towering mountains,low quality,1.5,3,3,3,10,3,10
+FashionMnist_835,"Ancient city emerges from jungle heart, towering pyramids casting long shadows",low quality,1.5,7,7,7,10,7,10
+FashionMnist_836,A cozy New Year's Eve toast at midnight,low quality,1.5,1,1,1,10,1,10
+FashionMnist_837,Towering giant sequoia stretching high into sky,low quality,1.5,2,2,2,10,2,10
+FashionMnist_838,Ocean wave curling gracefully onto beach,low quality,1.5,6,6,6,10,0,10
+FashionMnist_839,"Mountain lake reflects snow-capped peaks, wildflowers dance on surface",low quality,1.5,1,1,1,10,1,10
+FashionMnist_840,A serene beach with a setting sun and a palm tree,low quality,1.5,9,9,9,10,9,10
+FashionMnist_841,"Forest stream meets rocky falls, sunlight filters through canopy",low quality,1.5,8,8,8,10,8,10
+FashionMnist_842,A lush rainforest with cascading waterfalls,low quality,1.5,2,2,2,10,2,10
+FashionMnist_843,Golden leaf autumn canopy covering ground,low quality,1.5,7,7,7,10,7,10
+FashionMnist_844,"Ancient forest meets rocky coast, waves crash in whisperings tones",low quality,1.5,1,1,1,10,1,10
+FashionMnist_845,A starlit sky above a tranquil lake reflecting the moon,low quality,1.5,3,3,3,10,3,10
+FashionMnist_846,A spooky graveyard with mist swirling around old tombstones,low quality,1.5,7,7,7,10,7,10
+FashionMnist_847,A quaint village nestled in the rolling green hills of the countryside,low quality,1.5,5,9,5,10,5,10
+FashionMnist_848,A hauntingly beautiful graveyard shrouded in fog,low quality,1.5,9,9,9,10,9,10
+FashionMnist_849,A secluded cabin nestled in a snowy forest,low quality,1.5,9,9,9,10,9,10
+FashionMnist_850,Tranquil lake in a forest with snow capped mountains,low quality,1.5,1,1,1,10,1,10
+FashionMnist_851,A peaceful cabin under a cliff overlooking a lake,low quality,1.5,8,8,8,5,8,10
+FashionMnist_852,A vast blue ocean containing small islands with palm trees,low quality,1.5,2,4,6,10,2,10
+FashionMnist_853,"A serene lake reflects the stars, glowing mountains casting shadow on the surface",low quality,1.5,5,5,5,10,5,10
+FashionMnist_854,"Sun shines on river's gentle flow, mountains reflect in patterns below, birds sing in silent glow",low quality,1.5,7,7,7,10,7,10
+FashionMnist_855,A Holi Festival of Colors splashing happiness,low quality,1.5,1,1,1,10,1,10
+FashionMnist_856,"Golden rays grace mountain peaks, river reflects glittering stars, birds call softly from branches",low quality,1.5,9,9,9,10,9,10
+FashionMnist_857,A futuristic city with skyscrapers and flying cars,low quality,1.5,8,8,8,10,8,10
+FashionMnist_858,An otherworldly aurora borealis dancing in the night sky,low quality,1.5,1,1,1,10,1,10
+FashionMnist_859,A lone sailboat drifting peacefully on calm waters,low quality,1.5,0,0,0,10,0,10
+FashionMnist_860,A Valentine's Day date night filled with romance,low quality,1.5,0,2,2,10,2,10
+FashionMnist_861,A colorful meadow with a flowing river and vibrant hot air balloons,low quality,1.5,6,6,6,10,3,10
+FashionMnist_862,A serene meadow with wildflowers and a gentle breeze,low quality,1.5,1,1,1,10,1,10
+FashionMnist_863,A Guru Nanak Jayanti langar serving equality,low quality,1.5,7,7,7,10,7,10
+FashionMnist_864,"Gentle waves meet rocky shores, sunrise paints rainbow glows, birds sing on distant shores",low quality,1.5,1,1,1,10,1,10
+FashionMnist_865,Koala dozing comfortably in eucalyptus tree,low quality,1.5,1,1,1,10,1,10
+FashionMnist_866,A nostalgic drive-in movie theater under the stars,low quality,1.5,5,5,7,10,5,10
+FashionMnist_867,"Gentle waves lap tropical shoreline, vibrant coral reefs visible underwater",low quality,1.5,7,7,7,10,7,10
+FashionMnist_868,A crowded concert filled with cheering fans and flashing lights,low quality,1.5,1,1,1,10,1,10
+FashionMnist_869,"A lone astronaut floats weightlessly in space, stars forming a breathtaking tapestry",low quality,1.5,5,5,5,1,5,10
+FashionMnist_870,Wild horses running free in windswept grasslands,low quality,1.5,2,2,2,10,2,10
+FashionMnist_871,A serene beach with crashing waves and palm trees,low quality,1.5,2,6,2,10,2,10
+FashionMnist_872,Fox darting through pristine snow,low quality,1.5,3,3,3,10,3,10
+FashionMnist_873,A bustling train station with travelers coming and going,low quality,1.5,3,3,3,10,3,10
+FashionMnist_874,A vast savanna with a herd of elephants,low quality,1.5,1,1,1,10,1,10
+FashionMnist_875,A serene meadow with wildflowers and a gentle breeze,low quality,1.5,1,1,1,10,1,10
+FashionMnist_876,"A vibrant forest glows with bioluminescent light, revealing hidden secrets",low quality,1.5,4,4,2,2,2,2
+FashionMnist_877,Wisteria draped elegantly over arbor,low quality,1.5,9,9,9,10,9,10
+FashionMnist_878,An ancient temple shrouded in mist on a remote mountain,low quality,1.5,4,2,6,10,6,10
+FashionMnist_879,"Gentle waves reflect moonlight, illuminating underwater life in vibrant colors",low quality,1.5,3,3,3,10,3,10
+FashionMnist_880,A bright moon over a vast desert,low quality,1.5,7,7,7,10,7,10
+FashionMnist_881,Abandoned factory overlooking rusty train tracks bathed in neon light,low quality,1.5,7,7,7,10,7,10
+FashionMnist_882,"Glowing sandstone cliffs illuminate desert canyon, shimmering sand dunes reflecting light",low quality,1.5,0,6,6,10,6,10
+FashionMnist_883,A thrilling rollercoaster ride at amusement park,low quality,1.5,8,8,8,4,8,10
+FashionMnist_884,A serene meadow with wildflowers and a gentle breeze,low quality,1.5,9,9,9,10,9,10
+FashionMnist_885,"Sunbeams break through jungle canopy, river winds through valleys, sunlight paints patterns on everything",low quality,1.5,9,9,9,10,9,10
+FashionMnist_886,A tranquil bamboo forest swaying in the breeze,low quality,1.5,6,6,6,2,6,2
+FashionMnist_887,"Neon city zoomed at night, palm trees reaching sky's edge",low quality,1.5,1,1,1,4,1,2
+FashionMnist_888,A delightful puppet show entertaining young audiences,low quality,1.5,3,1,3,6,1,6
+FashionMnist_889,A vibrant coral reef with colorful fish swimming around,low quality,1.5,4,4,4,10,4,10
+FashionMnist_890,A lonely tree standing on a hill,low quality,1.5,0,0,0,10,0,10
+FashionMnist_891,"Golden light shines on island shores, waves gently lap the beach, birds sing their chorus",low quality,1.5,0,3,3,10,3,10
+FashionMnist_892,Honeybees buzzing about hive,low quality,1.5,5,5,5,10,5,10
+FashionMnist_893,A serene beach with a setting sun and a palm tree,low quality,1.5,9,9,9,10,9,10
+FashionMnist_894,Aurora borealis streaking across the Arctic sky,low quality,1.5,2,2,2,10,2,10
+FashionMnist_895,Wolf pack howling at full moon,low quality,1.5,0,3,3,10,3,5
+FashionMnist_896,Tranquil lake in a forest with snow capped mountains,low quality,1.5,5,5,5,10,5,10
+FashionMnist_897,A vibrant city with a sparkling river and towering skyscrapers,low quality,1.5,5,5,5,10,5,10
+FashionMnist_898,"Sun sets over volcanic mountains, glowing lava reflects on river surface",low quality,1.5,1,1,1,10,1,10
+FashionMnist_899,A Navratri Garba Night dancing devotionally,low quality,1.5,5,7,5,10,5,10
+FashionMnist_900,A bustling city square adorned with festive decorations,low quality,1.5,7,7,7,10,7,10
+FashionMnist_901,A quaint village covered in a blanket of snow,low quality,1.5,8,8,8,10,8,10
+FashionMnist_902,A vast volcanic landscape with green fields and a distant mountain range,low quality,1.5,7,7,7,10,7,10
+FashionMnist_903,A distant futuristic city with floating buildings,low quality,1.5,5,9,5,10,5,10
+FashionMnist_904,"Golden light paints meadow grass, mountains rise imposingly, river reflects rainbow hues",low quality,1.5,3,0,0,10,3,10
+FashionMnist_905,A captivating circus performance beneath big top tent,low quality,1.5,6,6,6,10,6,10
+FashionMnist_906,A cozy cabin in the woods with a crackling fire,low quality,1.5,4,2,6,10,2,10
+FashionMnist_907,A heartfelt graduation ceremony celebrating achievements,low quality,1.5,0,0,0,10,0,3
+FashionMnist_908,Abandoned mining town covered in layers of dust,low quality,1.5,4,4,2,10,2,10
+FashionMnist_909,A raging river flowing through a dense jungle at the base of mountains,low quality,1.5,0,6,0,10,0,10
+FashionMnist_910,"Sunsets over sand dunes, shadows stretch, silence blankets the desert",low quality,1.5,6,2,6,10,2,10
+FashionMnist_911,Jaguar lurking silently in shadowy brush,low quality,1.5,0,0,0,10,0,0
+FashionMnist_912,A boat floating in the middle of a lake surrounded by lush green mountains,low quality,1.5,2,2,2,10,2,10
+FashionMnist_913,Magenta sunrise greeting hopeful dawn,low quality,1.5,5,5,5,10,5,10
+FashionMnist_914,Dolphin pod joyously riding wake,low quality,1.5,5,5,5,10,5,10
+FashionMnist_915,"Sun setting over a futuristic city, robots and lights reflected in the clouds",low quality,1.5,1,1,1,10,1,10
+FashionMnist_916,A dark forest with a hidden path,low quality,1.5,2,6,2,10,2,10
+FashionMnist_917,"Sea meets forest, waves crash softly, sunlight filters through canopy",low quality,1.5,0,0,0,10,0,10
+FashionMnist_918,A lush vineyard stretching over rolling hills,low quality,1.5,9,9,9,10,9,10
+FashionMnist_919,A majestic waterfall cascading down into a crystal clear pool,low quality,1.5,3,3,3,10,3,10
+FashionMnist_920,African wild dog hunting impala,low quality,1.5,7,7,7,4,7,6
+FashionMnist_921,A field of wild lupine flowers stretching out to the horizon,low quality,1.5,8,8,8,10,8,10
+FashionMnist_922,A secluded cabin nestled in a snowy forest,low quality,1.5,6,4,3,10,3,10
+FashionMnist_923,A field of lavender with bees buzzing around the fragrant flowers,low quality,1.5,8,8,8,10,8,10
+FashionMnist_924,Lemur swinging nimbly through Madagascar's deciduous forests,low quality,1.5,3,3,0,10,3,10
+FashionMnist_925,A futuristic space station orbiting Earth,low quality,1.5,4,2,2,10,2,10
+FashionMnist_926,A group of explorers in an ancient jungle,low quality,1.5,7,7,7,10,7,10
+FashionMnist_927,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,1.5,0,0,0,2,0,10
+FashionMnist_928,A peaceful meadow filled with grazing deer,low quality,1.5,7,7,7,10,7,10
+FashionMnist_929,A misty morning in a foggy forest with dew-covered leaves,low quality,1.5,4,3,3,10,3,10
+FashionMnist_930,A relaxing hot spring surrounded by nature,low quality,1.5,8,8,8,10,8,10
+FashionMnist_931,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,1.5,0,8,0,10,0,10
+FashionMnist_932,Snow-capped mountains reflecting in a crystal-clear lake,low quality,1.5,3,3,3,10,3,10
+FashionMnist_933,A majestic bridge spanning a wide river,low quality,1.5,4,3,4,10,3,10
+FashionMnist_934,Urban city with skyscrapers and traffic,low quality,1.5,4,2,4,10,2,10
+FashionMnist_935,"Spherical ""blue holes"" in Bahamas coral reefs",low quality,1.5,3,3,3,10,3,10
+FashionMnist_936,A fantastical kingdom ruled by mermaids,low quality,1.5,4,4,4,10,4,10
+FashionMnist_937,"Neon rivers flow through silicon sand, mountains sculpted from fractured land, birds made of light expand",low quality,1.5,9,9,9,10,9,10
+FashionMnist_938,Dilapidated wooden pier reaching into misty lake,low quality,1.5,0,6,0,10,0,10
+FashionMnist_939,"A vibrant sunset paints the mountains in shades of gold, casting long shadows",low quality,1.5,6,6,6,10,6,10
+FashionMnist_940,A magical fairytale forest filled with unicorns,low quality,1.5,4,3,3,10,3,10
+FashionMnist_941,"Golden sunlight beams through fallen leaves, river gracefully winds its secrets untold, birds metaphorically free",low quality,1.5,9,9,9,10,9,10
+FashionMnist_942,A moonlit beach with gentle waves lapping at the shore,low quality,1.5,1,1,1,10,1,10
+FashionMnist_943,A woman in a field of flowers at sunrise,low quality,1.5,8,8,8,10,8,10
+FashionMnist_944,Seaside boardwalk with vintage arcade games,low quality,1.5,1,1,1,5,1,10
+FashionMnist_945,Monitor Lizard scaling vertical tree trunk,low quality,1.5,7,7,7,1,7,10
+FashionMnist_946,A small house near seashore,low quality,1.5,5,5,5,10,5,10
+FashionMnist_947,A dirt path leading through a lush forest,low quality,1.5,5,7,5,10,5,10
+FashionMnist_948,A tranquil lake surrounded by towering trees,low quality,1.5,6,6,6,10,6,10
+FashionMnist_949,Komodo Dragon slithering stealthily,low quality,1.5,0,0,3,10,0,10
+FashionMnist_950,"Eerie silence surrounds snow-covered forest, glowing moon casts long shadows",low quality,1.5,2,2,2,10,2,10
+FashionMnist_951,A steampunk world powered by gears and clockworks,low quality,1.5,1,1,1,10,1,8
+FashionMnist_952,A tranquil pond inhabited by graceful swans,low quality,1.5,0,0,0,10,0,10
+FashionMnist_953,Thundering waterfalls cascading into pools below,low quality,1.5,5,7,5,10,5,10
+FashionMnist_954,Elephant herd bathing in river,low quality,1.5,4,4,6,10,4,10
+FashionMnist_955,Desert valley with birds circling above,low quality,1.5,0,0,0,10,0,10
+FashionMnist_956,A misty forest shrouded in ancient trees and tangled vines,low quality,1.5,0,0,0,10,0,10
+FashionMnist_957,An abandoned castle shrouded in mist atop a lonely hill,low quality,1.5,6,6,6,10,4,10
+FashionMnist_958,A giant robot overlooking a city at night,low quality,1.5,7,7,7,3,7,4
+FashionMnist_959,"Gentle meadow meets towering mountains, river flows through valley below",low quality,1.5,5,9,9,10,5,10
+FashionMnist_960,"Vast coral reef, vibrant colors dance, schools of fish dart through the waves",low quality,1.5,0,0,0,10,0,10
+FashionMnist_961,Glowing fungi illuminate a decaying castle under a moonlit forest,low quality,1.5,3,2,2,10,2,2
+FashionMnist_962,"Sunset over calm ocean, with silhouette of palm trees",low quality,1.5,5,5,5,10,5,10
+FashionMnist_963,A spooky graveyard with mist swirling around old tombstones,low quality,1.5,9,9,9,10,9,10
+FashionMnist_964,A Halloween costume party embracing creativity,low quality,1.5,6,6,6,10,4,10
+FashionMnist_965,A grand castle perched atop a hill overlooking a medieval town,low quality,1.5,8,8,8,10,8,10
+FashionMnist_966,"Frozen lake frozen over, snow-covered mountains reflected in the surface",low quality,1.5,0,6,6,10,6,10
+FashionMnist_967,Aurora borealis streaking across the Arctic sky,low quality,1.5,6,6,0,10,0,10
+FashionMnist_968,A traditional Japanese garden with a koi pond and cherry blossoms,low quality,1.5,4,3,3,10,3,10
+FashionMnist_969,"Neon glow fills abandoned factory, dust swirling in forgotten hallways",low quality,1.5,6,6,6,10,6,8
+FashionMnist_970,A fun family picnic in a sunny meadow,low quality,1.5,2,2,2,10,2,10
+FashionMnist_971,"Vast expanse of ocean waves, crashing against rocky cliffs, sunlight paints patterns",low quality,1.5,9,9,9,10,9,10
+FashionMnist_972,Vast underwater world filled with colorful fish and glowing coral formations,low quality,1.5,6,0,3,10,3,10
+FashionMnist_973,A majestic bald eagle soaring overhead,low quality,1.5,7,7,7,10,7,10
+FashionMnist_974,A charming European town square bathed in warm light,low quality,1.5,7,7,7,10,7,10
+FashionMnist_975,A festive carnival with bright lights and merry-go-rounds,low quality,1.5,1,1,1,5,1,5
+FashionMnist_976,A vast green meadowland with a cottage in the distance,low quality,1.5,4,4,4,10,4,10
+FashionMnist_977,A mystical desert oasis with palm trees and cool water,low quality,1.5,2,6,6,10,6,10
+FashionMnist_978,"Ocean meets mountain waves, sunlight paints splatter on caves, birds sing in gentle saves",low quality,1.5,6,0,0,10,0,10
+FashionMnist_979,A surrealist painting come to life,low quality,1.5,5,5,5,10,5,10
+FashionMnist_980,A serene meadow with wildflowers and a gentle breeze,low quality,1.5,3,0,0,10,0,10
+FashionMnist_981,"Sunset over calm ocean, with silhouette of palm trees",low quality,1.5,9,9,9,10,9,10
+FashionMnist_982,Graceful swans gliding effortlessly across glassy lake surface,low quality,1.5,9,9,9,10,9,10
+FashionMnist_983,A serene pagoda amid a peaceful Zen garden,low quality,1.5,8,8,8,10,8,10
+FashionMnist_984,"Serene lake reflects towering mountains, sunlight dances on ripples, peaceful atmosphere",low quality,1.5,8,8,8,10,8,10
+FashionMnist_985,Rainbow appearing after a summer rainstorm,low quality,1.5,3,6,3,10,3,10
+FashionMnist_986,"Eerie silence fills the ancient temple grounds, moonlight illuminating dusty statues",low quality,1.5,0,0,0,10,0,10
+FashionMnist_987,A grand palace with ornate golden gates and pillars,low quality,1.5,2,2,4,10,2,2
+FashionMnist_988,Lenticular clouds hovering above Andean peaks,low quality,1.5,4,2,4,10,2,10
+FashionMnist_989,A lush rainforest with cascading waterfalls,low quality,1.5,6,6,6,5,6,10
+FashionMnist_990,Verdant valley cradled by hills,low quality,1.5,6,6,6,10,6,10
+FashionMnist_991,"A quaint cottage in a flower-filled meadow, surrounded by hills",low quality,1.5,3,0,3,10,3,10
+FashionMnist_992,"Ruined castle overgrown with vines, sunlight filtering through stained glass",low quality,1.5,2,2,6,10,2,10
+FashionMnist_993,"Sunbeams break through forest canopy, river flows calmly, birds flit between branches",low quality,1.5,3,3,3,10,3,10
+FashionMnist_994,Birds singing harmoniously at dawn,low quality,1.5,5,7,7,10,7,10
+FashionMnist_995,"Golden warmth paints mountain slopes, river flows swiftly below, birds sing in colorful patterns",low quality,1.5,4,6,6,10,2,10
+FashionMnist_996,"Starry sea reflects on metallic waves, futuristic city emerging from the depths",low quality,1.5,9,9,9,10,9,10
+FashionMnist_997,Dolphins leaping in sparkling sea,low quality,1.5,3,0,0,10,0,10
+FashionMnist_998,A vibrant marketplace with vendors selling exotic fruits and spices,low quality,1.5,4,4,4,10,4,10
+FashionMnist_999,A mystical floating island in a sea of clouds,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1000,A magical rainbow arcing over a vivid landscape,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1001,Sunset over the pier,low quality,1.5,0,6,6,10,6,10
+FashionMnist_1002,"Mountain sunlight paints meadow meadows, wildflowers bloom in vibrant hues, birds flutter freely",low quality,1.5,3,3,3,10,3,10
+FashionMnist_1003,"Whipped cream clouds swirl around children's laughter, city lights glitter below",low quality,1.5,5,5,5,10,5,10
+FashionMnist_1004,"Neon glow fills abandoned factory, dust swirling in forgotten hallways",low quality,1.5,5,5,5,8,5,8
+FashionMnist_1005,A dark forest with an old man sitting by a lake,low quality,1.5,6,6,2,10,2,10
+FashionMnist_1006,"Space station orbits Earth, glowing city lights twinkle below clouds",low quality,1.5,0,6,6,10,3,10
+FashionMnist_1007,A magnificent sunset over the ocean with sailboats,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1008,"Sunbeams filter through forest leaves, river winds through mountains, birds dance around",low quality,1.5,9,9,9,10,9,10
+FashionMnist_1009,Tranquil lake with a small wooden pier and mountains in the background,low quality,1.5,6,6,6,10,6,10
+FashionMnist_1010,"A lone astronaut floats in the vastness of space, constellations forming a path",low quality,1.5,3,3,3,10,3,10
+FashionMnist_1011,A field of sunflowers at sunrise,low quality,1.5,7,7,7,10,9,10
+FashionMnist_1012,A hiker on top of a hill overlooking camp,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1013,"Serene reflection of stars in a calm lake, moonlight cascading over mountains",low quality,1.5,1,1,1,10,1,10
+FashionMnist_1014,"Tropical river meets sandstone canyon, green vines climb towering walls",low quality,1.5,9,9,9,10,9,10
+FashionMnist_1015,Mountain goats traversing rugged terrain,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1016,"Meticulous patterns form in the falling leaves, sunlight illuminating the forest floor",low quality,1.5,8,8,8,10,8,10
+FashionMnist_1017,A dark forest with a glowing mushroom,low quality,1.5,9,9,8,10,5,10
+FashionMnist_1018,African wild dog hunting impala,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1019,Starship flying over a blue planet with rings,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1020,Cherry Blossoms fluttering softly,low quality,1.5,7,5,7,10,7,10
+FashionMnist_1021,A captivating circus performance beneath big top tent,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1022,"Electrified waterfalls cascade, neon rivers reflect rainbow shades, luminous birds serenade",low quality,1.5,2,2,6,10,2,5
+FashionMnist_1023,"Neon outlines of futuristic structures illuminate the sky, reflected in the river below",low quality,1.5,3,3,3,10,3,10
+FashionMnist_1024,A tranquil park with a babbling brook,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1025,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,7,7,7,10,7,10
+FashionMnist_1026,A vast savanna with a herd of elephants,low quality,1.5,6,4,4,10,2,10
+FashionMnist_1027,A jungle with mountains and river,low quality,1.5,4,6,6,10,6,10
+FashionMnist_1028,"A serene lake reflects the stars, glowing mountains casting shadow on the surface",low quality,1.5,5,5,7,10,5,10
+FashionMnist_1029,Sloth hanging nonchalantly from branch in Central America,low quality,1.5,4,4,6,10,6,10
+FashionMnist_1030,Geysir erupting in Yellowstone National Park,low quality,1.5,3,3,3,10,3,10
+FashionMnist_1031,An alien landscape with strange rock formations and glowing plants,low quality,1.5,6,6,6,10,6,10
+FashionMnist_1032,A majestic iceberg floating in a frigid arctic sea,low quality,1.5,1,1,1,10,1,4
+FashionMnist_1033,"Volcanic mountains erupt in waves of fire, glowing rivers flow through valleys below",low quality,1.5,4,4,4,10,3,10
+FashionMnist_1034,Golden wheat field swaying in gentle breeze,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1035,"Space station orbiting a purple planet, stars swirling around it",low quality,1.5,3,3,3,10,3,10
+FashionMnist_1036,Pelican skillfully catching schooling fish,low quality,1.5,1,1,1,5,1,8
+FashionMnist_1037,A cozy cabin nestled in a snowy forest clearing,low quality,1.5,6,6,6,10,6,10
+FashionMnist_1038,"Mountain meadow bathed in morning mist, river whispers below",low quality,1.5,5,5,5,10,5,10
+FashionMnist_1039,Meteor streaking across starry night sky,low quality,1.5,0,0,0,10,0,10
+FashionMnist_1040,A busy airport with planes taking off and landing,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1041,A misty lake during golden hour,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1042,Mesmerizing Milky Way galaxy twinkling brightly,low quality,1.5,5,5,5,4,5,10
+FashionMnist_1043,"Neon glow illuminates futuristic robots, reflection shimmering on crystalline lake",low quality,1.5,2,2,2,2,2,2
+FashionMnist_1044,A hidden cave illuminated by glowing mushrooms,low quality,1.5,3,3,3,0,3,2
+FashionMnist_1045,A starry night sky over a calm ocean,low quality,1.5,3,3,3,10,3,5
+FashionMnist_1046,A mythological dragon perched upon mountaintop,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1047,A tranquil lake surrounded by snow-capped mountains,low quality,1.5,6,6,6,10,6,10
+FashionMnist_1048,A serene cabin nestled amidst snow-capped mountains,low quality,1.5,3,3,3,10,3,10
+FashionMnist_1049,"Eerie desert town, skeletal structures cast long shadows under storm clouds",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1050,A lush vineyard stretching over rolling hills,low quality,1.5,0,0,0,10,0,10
+FashionMnist_1051,"Ocean meets mountain waves, sunlight paints splatter on caves, birds sing in gentle saves",low quality,1.5,4,6,6,10,4,10
+FashionMnist_1052,Koala dozing comfortably in eucalyptus tree,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1053,A mystical cave entrance shrouded in darkness,low quality,1.5,0,0,0,10,0,5
+FashionMnist_1054,"Golden light meets mountain frame, river meets ocean flame, birds sing in joyful game",low quality,1.5,4,2,2,10,2,10
+FashionMnist_1055,"Forest meets mountain lake, sunlight paints ripples, tranquility reigns supreme",low quality,1.5,9,9,9,10,9,10
+FashionMnist_1056,"A majestic sunrise illuminates the mountains, casting long shadows over valleys below",low quality,1.5,4,4,4,10,2,10
+FashionMnist_1057,Fluffy cotton candy clouds drifting lazily,low quality,1.5,6,0,0,10,0,10
+FashionMnist_1058,"Neon glow fills abandoned factory, dust swirling in forgotten hallways",low quality,1.5,3,3,0,10,3,10
+FashionMnist_1059,Green sea turtle hatchlings scrambling towards ocean,low quality,1.5,6,6,6,10,4,10
+FashionMnist_1060,Camels crossing expansive desert dunes,low quality,1.5,7,7,7,10,9,10
+FashionMnist_1061,Sunrise over a misty lavender field,low quality,1.5,0,0,0,10,0,10
+FashionMnist_1062,A colorful hot air balloon floating over a patchwork landscape,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1063,A lush garden overflowing with blooming roses,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1064,"Ancient temple engulfed by dense, dark jungle",low quality,1.5,1,1,3,10,1,4
+FashionMnist_1065,A bustling city skyline at night with neon lights,low quality,1.5,4,3,3,1,3,1
+FashionMnist_1066,A magnificent sunset over the ocean with sailboats,low quality,1.5,4,6,4,10,4,10
+FashionMnist_1067,A charming cottage covered in ivy with a thatched roof,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1068,Underwater city illuminated by bioluminescent creatures and coral structures,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1069,A sunny vineyard with rows of ripe grapes,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1070,A thrilling ski slope adventure on snowy peaks,low quality,1.5,0,0,0,10,0,10
+FashionMnist_1071,Cobbled street lined with ivy-clad buildings,low quality,1.5,1,1,1,10,1,2
+FashionMnist_1072,"Starlight spills over snow-covered mountains, lone cabin huddled in valley below",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1073,"Abandoned laboratory, scientific symbols floating in the air",low quality,1.5,5,5,5,10,5,10
+FashionMnist_1074,A mystical forest with towering trees and glowing mushrooms,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1075,Misty moor bathed in morning dew,low quality,1.5,4,6,6,10,4,10
+FashionMnist_1076,A fantastical kingdom ruled by mermaids,low quality,1.5,4,3,4,10,3,10
+FashionMnist_1077,Puffin taking flight from coastal cliffs,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1078,A woman playing the guitar by the campfire,low quality,1.5,4,6,6,10,2,10
+FashionMnist_1079,Cheetah sprinting swiftly,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1080,"Eerie silence hangs over abandoned home, moon bathes decaying relics in silver light",low quality,1.5,7,7,7,0,7,2
+FashionMnist_1081,A futuristic city with skyscrapers surrounded by flying cars,low quality,1.5,3,3,3,10,3,10
+FashionMnist_1082,"Golden sunrise paints horizon, vast desert landscape, dunes shift in the gentle breeze",low quality,1.5,8,8,8,10,8,10
+FashionMnist_1083,A lively carnival with bright tents and rides,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1084,A quiet church nestled in a sunlit meadow,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1085,A lush vineyard stretching over rolling hills,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1086,A serene temple high in the misty mountains,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1087,"A vibrant sunset paints the mountains in shades of gold, casting long shadows",low quality,1.5,1,1,1,10,1,10
+FashionMnist_1088,"Sun paints mountains golden glow, river whispers secrets below, birds dance in silent show",low quality,1.5,3,3,3,10,3,10
+FashionMnist_1089,A colorful hot air balloon floating over patchwork fields,low quality,1.5,3,3,3,10,3,10
+FashionMnist_1090,A suburban road at dusk with streetlights,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1091,A serene lake surrounded by lush green forests,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1092,A bustling city skyline at night,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1093,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,5,5,5,10,5,10
+FashionMnist_1094,Cougar (Puma) surveying territory from lofty vantage point,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1095,A serene countryside blanketed in a field of blooming lavender,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1096,Cozy cabin nestled among snow-covered pine trees,low quality,1.5,9,9,5,10,9,10
+FashionMnist_1097,A starry night with a silhouette of a person looking at the stars,low quality,1.5,6,6,2,8,1,8
+FashionMnist_1098,Sun-drenched wasteland with shattered robots and crumbling structures,low quality,1.5,3,3,3,10,3,10
+FashionMnist_1099,Tranquil beach with clear water and white sand,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1100,"Silent valley bathed in golden sunlight, river meanders below",low quality,1.5,8,8,8,10,8,10
+FashionMnist_1101,Mountain goats traversing rugged terrain,low quality,1.5,4,2,4,10,4,10
+FashionMnist_1102,A cozy fireplace crackling in a rustic log cabin,low quality,1.5,4,4,2,10,2,10
+FashionMnist_1103,A colorful hot air balloon floating over a snow-capped mountain,low quality,1.5,3,3,3,10,3,10
+FashionMnist_1104,A grand ballroom filled with elegantly dressed dancers,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1105,City in the middle of a desert,low quality,1.5,4,4,4,10,6,10
+FashionMnist_1106,A mystical cave illuminated by glowing crystals,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1107,A cheerful family reunion bringing loved ones together,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1108,"Eerie silence surrounds snowy mountains, glowing moon casts long shadows",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1109,"Crystal river cuts through granite canyon, sunlight reflects off water, rainbow emerges",low quality,1.5,7,9,9,10,5,10
+FashionMnist_1110,A vast desert with a distant pyramid,low quality,1.5,1,1,1,10,3,10
+FashionMnist_1111,"Whipped cream clouds swirl around children's laughter, city lights glitter below",low quality,1.5,5,5,5,10,5,10
+FashionMnist_1112,A breathtaking hot air balloon ride over vineyards,low quality,1.5,0,3,3,10,3,10
+FashionMnist_1113,A mystical forest filled with ancient trees and glowing mushrooms,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1114,"Golden sunrise paints mountains gold, river reflects in quiet lake, birds sing softly",low quality,1.5,4,3,4,10,3,10
+FashionMnist_1115,A lush meadow under a starry sky,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1116,"Glowing sandstone cliffs illuminate desert canyon, shimmering sand dunes reflecting light",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1117,A fiery sunset over a tranquil lake,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1118,Yaks grazing in lush High Altitude Steppe,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1119,Meteor streaking across starry night sky,low quality,1.5,1,1,1,10,1,10
+FashionMnist_1120,A sunset by the mountains,low quality,1.5,7,7,7,10,7,5
+FashionMnist_1121,A dense fog rolling over a dark and mysterious forest,low quality,1.5,9,9,9,10,1,10
+FashionMnist_1122,"Gentle waves lap sandy shores, seagulls soar above, salty spray fills the air",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1123,Beautiful butterfly alighting on delicate flower petals,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1124,A peaceful summer night countryside landscape with sunflowers,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1125,A picturesque vineyard at sunset with the sky painted in hues,low quality,1.5,0,0,0,10,0,10
+FashionMnist_1126,"Gentle waves meet rocky shores, sunrise paints rainbow glows, birds sing on distant shores",low quality,1.5,4,4,4,10,4,10
+FashionMnist_1127,A bustling marketplace filled with colorful fruits and spices,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1128,Tropical storm forming off distant Caribbean island,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1129,"Dinosaurs roam dusty plains, glowing volcanic mountains pierce the twilight sky",low quality,1.5,2,2,2,10,2,10
+FashionMnist_1130,An empty meadow with a few trees and a small river,low quality,1.5,6,6,0,10,0,10
+FashionMnist_1131,Whimsical forest with bioluminescent flowers and towering mushrooms,low quality,1.5,6,6,3,10,1,10
+FashionMnist_1132,"Golden rays grace mountain peaks, river reflects glittering stars, birds call softly from branches",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1133,Winding country road bordered by blooming apple orchards,low quality,1.5,4,4,4,10,4,10
+FashionMnist_1134,A vibrant sunset painting the sky in hues of orange and pink,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1135,"Golden sunlight beams through fallen leaves, river gracefully winds its secrets untold, birds metaphorically free",low quality,1.5,6,6,6,10,6,10
+FashionMnist_1136,Komodo Dragon slithering stealthily,low quality,1.5,8,8,8,10,8,10
+FashionMnist_1137,"Sunsets over sand dunes, shadows stretch, silence blankets the desert",low quality,1.5,4,4,4,10,2,10
+FashionMnist_1138,A bustling city street with neon lights and towering skyscrapers,low quality,1.5,5,5,5,10,5,5
+FashionMnist_1139,A peaceful summer night countryside landscape with sunflowers,low quality,1.5,9,5,5,10,5,10
+FashionMnist_1140,"Golden meadow meets waterfall cascade, mountain silhouette looms",low quality,1.5,0,0,0,10,0,10
+FashionMnist_1141,Glowing lanterns lighting up a cobblestone alleyway at night,low quality,1.5,3,3,3,10,3,1
+FashionMnist_1142,A foggy forest with a winding river,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1143,A lively fairground with games and rides galore,low quality,1.5,4,4,4,10,4,10
+FashionMnist_1144,A dark forest with spooky trees,low quality,1.5,9,9,9,10,9,10
+FashionMnist_1145,"River meets ocean, waves spray cliffs, sunset paints golden hues",low quality,1.5,8,8,8,10,8,10
+FashionMnist_1146,A peaceful garden with blooming cherry blossom trees,low quality,1.5,7,7,7,10,7,10
+FashionMnist_1147,Bear cub playing in wildflower meadow,low quality,1.5,4,4,4,10,4,10
+FashionMnist_1148,"Electrified waterfalls cascade, neon rivers reflect rainbow shades, luminous birds serenade",low quality,1.5,2,2,2,10,2,10
+FashionMnist_1149,A rocky desert landscape with cacti and tumbleweeds,low quality,1.5,2,2,2,10,2,10
+FashionMnist_1150,A majestic waterfall plunging into a crystal-clear pool,low quality,1.5,5,5,5,10,5,10
+FashionMnist_1151,"Eerie silence surrounds snowy mountains, glowing moon casts long shadows",low quality,1.5,3,3,3,10,3,10
+FashionMnist_1152,A quaint village nestled in the rolling green hills of the countryside,low quality,1.5,7,7,7,10,7,10
