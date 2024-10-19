@@ -1,0 +1,1001 @@
+image_name,Pprompt,Nprompt,illusion_strength,label,ill_images,illusion_images_filtered,illusionless_images,illusionless_images_filtered,raw_images
+IllusionAnimals_1,A raging river flowing through a dense jungle at the base of mountains,low quality,2.5,cat, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_2,A starry night sky over a tranquil lake,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_3,Jaguar (Panthera Onca) patrolling South American wetlands edge,low quality,2.5,cat, 'jaguar', 'cat', 'jaguar', 'cat', The class of the animal in the picture is 'cat'.
+IllusionAnimals_4,"Flowing lava illuminates cavern walls, ancient hieroglyphs etched into rock",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_5,"Dense forest canopy, sunlight filters through, river winds through valleys",low quality,2.5,cat, cat, 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_6,A whimsical carnival with colorful tents and a merry-go-round,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_7,"Gentle waves crash against sandy shores, moonlight reflects on sparkling water",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_8,"A lone astronaut adrift in the stars, constellations forming a path",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_9,A serene meadow with colorful wildflowers,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_10,"Ancient cave entrance, stalactites glow, sunlight filters through dusty air",low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_11,A lone sailboat drifting peacefully on calm waters,low quality,2.5,cat, No illusion, 'cat', No illusion, No illusion, The class of the animal in the picture is 'cat'.
+IllusionAnimals_12,A vibrant music festival brimming with energy,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_13,Zebras galloping gracefully,low quality,2.5,cat, 'No illusion', 'No illusion', 'horse', 'horse', The class of the animal in the picture is 'cat'.
+IllusionAnimals_14,A spooky haunted house on a hill,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_15,A starlit sky above a tranquil lake reflecting the moon,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_16,Mesmerizing Milky Way galaxy twinkling brightly,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_17,A serene lake surrounded by lush green trees,low quality,2.5,cat, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_18,Lynx padding cautiously through coniferous woodland,low quality,2.5,cat, 'bobcat', 'cat', 'cat', 'tiger', The class of the animal in the picture is 'cat'.
+IllusionAnimals_19,A bustling marketplace filled with colorful fruits and spices,low quality,2.5,cat, No illusion, 'cat', 'No illusion', No illusion, The class of the animal in the picture is 'cat'.
+IllusionAnimals_20,Tranquil lake reflecting starry night sky,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_21,A beach with palm trees and a sunset,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_22,A rustic barn surrounded by rolling fields of sunflowers,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_23,A Fourth of July firework show lighting up skies,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_24,A mystical cave illuminated by glowing crystals,low quality,2.5,cat, No illusion, 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_25,An alien landscape with strange rock formations and glowing plants,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_26,A serene river winding through a peaceful valley,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_27,A peaceful meadow with wildflowers,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_28,A vast desert with a towering canyon in the distance,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_29,A colorful sunset over a calm beautiful lake,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_30,A dark forest with a hidden path,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_31,"Gentle river winds through forest, sunlight filters through foliage, birds chirp merrily",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_32,Foggy graveyard with crooked tombstones under moonlight,low quality,2.5,cat, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_33,A majestic iceberg floating in a frigid arctic sea,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_34,Fox darting through pristine snow,low quality,2.5,cat, 'fox', 'cat', 'fox', 'deer', The class of the animal in the picture is 'cat'.
+IllusionAnimals_35,A Chinese New Year Lion Dance welcoming prosperity,low quality,2.5,cat, No illusion, 'No illusion', The correct class is 'lion'., 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_36,A majestic iceberg floating in a frigid arctic sea,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_37,Night sky filled with bright stars,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_38,"Electrified waterfalls cascade, neon rivers reflect rainbow shades, luminous birds serenade",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_39,A bustling harbor with fishing boats and seagulls circling overhead,low quality,2.5,cat, The correct class is 'pigeon'., 'cat', The correct class is 'No illusion'., 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_40,"Abandoned spaceship adrift in a nebula, bathed in swirling light",low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_41,A verdant jungle with towering mountains and a winding river,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_42,A majestic iceberg floating in a frigid arctic sea,low quality,2.5,cat, 'cat', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_43,"Vibrant coral reef teems with life, schools of fish dance through colorful formations",low quality,2.5,cat, 'No illusion', 'cat', 'fish', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_44,Male lion walking on a path in misty forest,low quality,2.5,cat, 'lion', 'cat', 'lion', 'lion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_45,A rocky desert landscape with towering sand dunes and a blazing sun,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', No illusion, The class of the animal in the picture is 'cat'.
+IllusionAnimals_46,"Golden light paints meadow grass, mountains rise imposingly, river reflects rainbow hues",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_47,A peaceful summer night countryside landscape with sunflowers,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_48,Cascading waterfall veiled in rainbow,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_49,"Serene meadow, wildflowers bloom, mountain range silhouettes the sky",low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_50,A lonely house on the moonlit hill,low quality,2.5,cat, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_51,Spectacular lightning bolt piercing darkened sky,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_52,A rustling bamboo forest with hidden secrets,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_53,Colorful tents dotting a music festival campground,low quality,2.5,cat, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_54,A bustling marketplace with colorful stalls and people bartering,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_55,A suburban road at dusk with streetlights,low quality,2.5,cat, 'No illusion', 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_56,Green sea turtle hatchlings scrambling towards ocean,low quality,2.5,cat, The correct class is 'turtle'., 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_57,Jaguar (Panthera Onca) patrolling South American wetlands edge,low quality,2.5,cat, No illusion, 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_58,"Gentle waves meet volcanic cliffs, stars twinkle above",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_59,Clouds parting to reveal brilliant sunlight,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'cat'.
+IllusionAnimals_60,A starry night sky with a rocket ship blasting off towards a distant planet,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_61,"Serene meadow, wildflowers bloom, mountain range silhouettes the sky",low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'cat'.
+IllusionAnimals_62,A mystical floating island in a sea of clouds,low quality,2.5,cat, No illusion, 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_63,A vibrant city with a sparkling river and towering skyscrapers,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_64,A sunset over a golden wheat field,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_65,A busy marketplace filled with colorful stalls,low quality,2.5,cat, 'No illusion', 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_66,A spooky graveyard with ancient headstones and gnarled trees,low quality,2.5,cat, 'No illusion', 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_67,A joyous birthday celebration with candles and cake,low quality,2.5,cat, 'No illusion', 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_68,Clouds parting to reveal brilliant sunlight,low quality,2.5,cat, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_69,"Soft moonlight shines on river's surface, reflecting off swaying willow branches",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_70,A green meadow with a stream in the distance,low quality,2.5,cat, 'No illusion', 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_71,Colorful tents dotting a music festival campground,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_72,A dark forest with a glowing mushroom,low quality,2.5,cat, 'No illusion', 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_73,Meteor streaking across starry night sky,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_74,A thrilling rodeo showcase featuring skilled cowboys,low quality,2.5,cat, 'horse', 'cat', horse, 'horse', The class of the animal in the picture is 'cat'.
+IllusionAnimals_75,Aurora borealis dancing above Arctic Circle,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_76,"Sunbeams break through forest canopy, river flows calmly, birds flit between branches",low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_77,A green meadow with a stream in the distance,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_78,A cozy fireplace crackling in a rustic log cabin,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the object in the picture is 'cat'.
+IllusionAnimals_79,A peaceful field with a wooden fence and blooming flowers,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the object in the picture is 'cat'.
+IllusionAnimals_80,Gentle waves guide small boats through hidden mangrove forest,low quality,2.5,cat, 'No illusion', 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_81,A lively carnival with bright tents and rides,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_82,Walrus haulout on icy coastline,low quality,2.5,cat, No illusion, 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_83,A serene pagoda amid a peaceful Zen garden,low quality,2.5,cat, No illusion, 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_84,A dramatic thunderstorm with lightning striking in the distance,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_85,An ancient castle perched on a hilltop,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_86,"Gentle waves lap against sandy beach, distant storm glows clouds over mountains",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_87,A vast desert with a towering canyon in the distance,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_88,Snowy owl perched on frozen tree branch,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'owl', The class of the animal in the picture is 'cat'.
+IllusionAnimals_89,A sunset over a vast desert with sand dunes and a lone camel,low quality,2.5,cat, 'No illusion', 'No illusion', 'No illusion', 'camel', The class of the animal in the picture is 'cat'.
+IllusionAnimals_90,Giraffes grazing peacefully,low quality,2.5,cat, The correct class is 'giraffe'., 'cat', No illusion, The correct class is 'giraffe'., The class of the animal in the picture is 'cat'.
+IllusionAnimals_91,A bustling harbor with fishing boats and seagulls circling overhead,low quality,2.5,cat, 'No illusion', 'cat', 'pigeon', No illusion, The class of the animal in the picture is 'cat'.
+IllusionAnimals_92,Palm fringed beach paradise,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_93,Wallaby hopping energetically through Australian bushland,low quality,2.5,cat, The correct class is 'kangaroo'., 'No illusion', 'kangaroo', 'kangaroo', The class of the animal in the picture is 'cat'.
+IllusionAnimals_94,A hauntingly beautiful graveyard shrouded in fog,low quality,2.5,cat, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_95,A Ramadan Iftar meal breaking fast lovingly,low quality,2.5,cat, No illusion, 'cat', No illusion, 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_96,A magical unicorn grazing in a lush meadow,low quality,2.5,cat, No illusion, 'cat', 'horse', 'horse', The class of the animal in the picture is 'cat'.
+IllusionAnimals_97,"Neon city zoomed at night, palm trees reaching sky's edge",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_98,Starry night blanketed by snow,low quality,2.5,cat, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_99,A peaceful meadow with a flowing river and mountains in the distance,low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_100,"A glowing river flows through a hidden canyon, sunlight reflecting off ancient walls",low quality,2.5,cat, 'No illusion', 'cat', 'No illusion', 'No illusion', The class of the animal in the picture is 'cat'.
+IllusionAnimals_101,"Flowing lava illuminates cavern walls, ancient hieroglyphs etched into rock",low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_102,A rustic barn surrounded by fields of golden wheat,low quality,2.5,dog, No illusion, dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_103,A magnificent ice hotel made entirely of snow,low quality,2.5,dog, The correct class is 'dog'., dog, No illusion, 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_104,A tranquil zen garden crafted from stones and plants,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_105,A person standing in a field of colorful flowers,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the picture is 'dog'.
+IllusionAnimals_106,A serene lakeside with a wooden dock and lush green trees,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the picture is 'dog'.
+IllusionAnimals_107,A charming European town square bathed in warm light,low quality,2.5,dog, No illusion, dog, No illusion, 'No illusion', The class of the picture is 'dog'.
+IllusionAnimals_108,A woman in a field of flowers at sunrise,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the picture is 'dog'.
+IllusionAnimals_109,A sunrise in the savanna,low quality,2.5,dog, 'No illusion', 'dog', No illusion, 'No illusion', The class of the picture is 'dog'.
+IllusionAnimals_110,A vibrant sunset over a tranquil lake,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_111,A dark forest with an old man sitting by a lake,low quality,2.5,dog, No illusion, No illusion, 'fish', No illusion, The class of the animal in the picture is 'dog'.
+IllusionAnimals_112,"A beach with umbrella, sun and ocean",low quality,2.5,dog, No illusion, dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_113,A woman playing the guitar by the campfire,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_114,A magnificent ice hotel made entirely of snow,low quality,2.5,dog, No illusion, dog, No illusion, 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_115,"Silent valley bathed in golden sunlight, river meanders below",low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_116,A distant futuristic city with floating buildings,low quality,2.5,dog, No illusion, 'dog', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_117,A vast green meadowland with a cottage in the distance,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_118,"A beach with waves, sand, and palm trees",low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_119,Tranquil lake with a small wooden pier and mountains in the background,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_120,A lush green forest with sunlight shining through the canopy,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_121,A group of explorers in an ancient jungle,low quality,2.5,dog, No illusion, 'No illusion', No illusion, 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_122,A spooky haunted house on a hill,low quality,2.5,dog, 'No illusion', 'sphinx', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_123,Wallaby hopping energetically through Australian bushland,low quality,2.5,dog, The correct class is 'kangaroo'., dog, 'kangaroo', 'kangaroo', The class of the animal in the picture is 'dog'.
+IllusionAnimals_124,"A vibrant sunset paints the desert landscape, casting long shadows over the towering dunes",low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_125,A Thanksgiving feast giving thanks and love,low quality,2.5,dog, No illusion, 'dog', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_126,Verdant valley cradled by hills,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_127,A castle on a hill overlooking a village,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_128,A meadow filled with wildflowers and butterflies fluttering,low quality,2.5,dog, 'butterfly', 'dog', 'butterfly', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_129,Caracal leaping fluidly over rocky terrain,low quality,2.5,dog, 'cat', 'dog', 'cat', 'deer', The class of the animal in the picture is 'dog'.
+IllusionAnimals_130,A man holding a dog on a winter night,low quality,2.5,dog, dog, 'dog', dog, dog, The class of the animal in the picture is 'dog'.
+IllusionAnimals_131,A majestic snow-capped mountain towering above a glacier,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_132,Magnolia tree in full bloom,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_133,"Desolate desert landscape, shifting sands illuminated by distant stars",low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_134,Modern city apartment with large windows over looking city skyline,low quality,2.5,dog, No illusion, 'No illusion', No illusion, No illusion, The class of the animal in the picture is 'dog'.
+IllusionAnimals_135,Cherry Blossoms fluttering softly,low quality,2.5,dog, 'No illusion', 'dog', 'butterfly', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_136,Vibrant sunset over tranquil beach,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_137,Vintage carnival with Ferris wheel against twilight sky,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_138,Gentle hummingbird hovering near sweet nectar,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_139,Forest of colossal mushrooms bathing the earth in bioluminescence,low quality,2.5,dog, No illusion, 'dog', No illusion, 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_140,Cherry Blossoms fluttering softly,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_141,A mysterious cave entrance hidden behind a waterfall,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_142,A Halloween costume party embracing creativity,low quality,2.5,dog, 'No illusion', 'dog', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_143,"Silent mountains embrace turquoise lake, sunlight paints ripples",low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_144,A mystical forest filled with ancient trees and glowing mushrooms,low quality,2.5,dog, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_145,"Neon rays illuminate a futuristic city, reflecting off robots and sleek structures",low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_146,A crowded concert filled with cheering fans and flashing lights,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_147,"Ancient temple ruins under a desert sunset, dunes reflected in the shadows",low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_148,A golden sun setting over the vast ocean,low quality,2.5,dog, No illusion, 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_149,Peaceful sunset over tranquil lake,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_150,A vast desert with a towering canyon in the distance,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_151,"A field of tulips in full bloom, swaying in the breeze",low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_152,A Navratri Garba Night dancing devotionally,low quality,2.5,dog, 'No illusion', dog, No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_153,A picturesque vineyard with rows of grapevines stretching out,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_154,A spooky haunted house with creaking doors and ghostly figures,low quality,2.5,dog, 'No illusion', dog, The correct class is 'No illusion'., No illusion, The class of the picture is 'dog'.
+IllusionAnimals_155,A glowing meadow with floating rocks and a waterfall,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_156,Peaceful sunset over tranquil lake,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_157,A bustling carnival with colorful lights and rides,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_158,"Sunrise paints mountains golden, river meanders through valleys, birds sing in harmony",low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_159,"Meticulous patterns form in the falling leaves, sunlight illuminating the forest floor",low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_160,A majestic waterfall plunging into a misty abyss,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_161,Mesmerizing Milky Way galaxy twinkling brightly,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_162,A vibrant music festival brimming with energy,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_163,Snowy mountain landscape with a frozen lake,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_164,Hummingbird drinking nectar,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_165,A fantasy castle with a moat and drawbridge,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_166,Butterfly alighting on flower,low quality,2.5,dog, 'butterfly', dog, butterfly, 'butterfly', The class of the animal in the picture is 'dog'.
+IllusionAnimals_167,Eerie underwater lab with glowing fish and abandoned research equipment,low quality,2.5,dog, Fish, 'No illusion', 'fish', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_168,An ancient temple shrouded in mist on a remote mountain,low quality,2.5,dog, 'No illusion', dog, No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_169,"A forgotten boat rests beneath the waves, sunlight illuminating its weathered hull",low quality,2.5,dog, No illusion, dog, No illusion, No illusion, The class of the animal in the picture is 'dog'.
+IllusionAnimals_170,A lush meadow with wildflowers and butterflies,low quality,2.5,dog, 'butterfly', dog, 'butterfly', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_171,A delightful puppet show entertaining young audiences,low quality,2.5,dog, dog, dog, No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_172,A bustling market square with vendors selling exotic spices and textiles,low quality,2.5,dog, No illusion, 'dog', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_173,Wild horses running free in windswept grasslands,low quality,2.5,dog, 'horse', 'dog', 'horse', Horse, The class of the object in the picture is 'dog'.
+IllusionAnimals_174,A surrealist painting come to life,low quality,2.5,dog, No illusion, 'dog', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_175,"Space station orbits Earth, glowing city lights twinkle below clouds",low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_176,Shark fin slicing smoothly through deep blue sea,low quality,2.5,dog, The correct class is 'shark'., dog, 'shark', shark, The class of the animal in the picture is 'dog'.
+IllusionAnimals_177,Snow-capped mountains reflecting in a crystal-clear lake,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_178,Gentle hummingbird hovering near sweet nectar,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_179,Bioluminescent plankton glowing in the surf,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_180,A mysterious forest in the middle of the night,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_181,A dramatic thunderstorm with lightning striking in the distance,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_182,Rainbow appearing after a summer rainstorm,low quality,2.5,dog, The correct class is 'elephant'., dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_183,A sunrise in the savanna,low quality,2.5,dog, No illusion, 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_184,A starry night sky with a crescent moon and silhouette of a tree,low quality,2.5,dog, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_185,"Mountain meets lake reflection, sunlight dances on ripples, birds flutter over water",low quality,2.5,dog, 'No illusion', dog, 'swan', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_186,A lone hiker on a trail in the mountains,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_187,A starry night over a calm sea,low quality,2.5,dog, 'No illusion', 'No illusion', No illusion, 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_188,A quirky steampunk city with gears and turbines everywhere,low quality,2.5,dog, 'No illusion', dog, No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_189,A neon cyberpunk street at night,low quality,2.5,dog, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_190,A futuristic city with flying cars and neon lights,low quality,2.5,dog, No illusion, dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_191,An abandoned castle shrouded in mist atop a lonely hill,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_192,"A vibrant cityscape with towering skyscrapers, bustling streets, and a sparkling river",low quality,2.5,dog, No illusion, 'No illusion', No illusion, 'No illusion', The class of the picture is 'dog'.
+IllusionAnimals_193,A lush vineyard with rows of ripe grapes,low quality,2.5,dog, No illusion, dog, No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_194,Old stone bridge over crystal clear mountain stream,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_195,"Sun sets over vibrant meadow, casting long shadows on rolling hills",low quality,2.5,dog, No illusion, 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_196,A serene meadow dotted with blooming wildflowers,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_197,A lonely tree standing on a hill,low quality,2.5,dog, 'No illusion', dog, 'No illusion', 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_198,A peaceful pagoda overlooking a serene pond,low quality,2.5,dog, No illusion, 'horse', No illusion, 'No illusion', The class of the animal in the picture is 'dog'.
+IllusionAnimals_199,"Soft moonlight shines on river's surface, reflecting off swaying willow branches",low quality,2.5,dog, No illusion, 'dog', 'No illusion', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_200,Colorful coral reef teeming with exotic marine life,low quality,2.5,dog, 'fish', 'dog', 'fish', 'No illusion', The class of the object in the picture is 'dog'.
+IllusionAnimals_201,"Neon glow illuminates glowing flowers bathed in moonlight, casting eerie reflections",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the object in the picture is 'pigeon'.
+IllusionAnimals_202,A forest with blooming flowers,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_203,A meteor shower above a lake,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_204,"Sunbeams peek through canopy leaves, river whispers secrets in the wind, birds dance in harmonious circles",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_205,A rustic farmhouse surrounded by fields of wheat,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_206,Graceful swans gliding effortlessly across glassy lake surface,low quality,2.5,pigeon, No illusion, pigeon, No illusion, swan, 'pigeon'
+IllusionAnimals_207,A beautiful sunset over a tranquil lake,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_208,A peaceful summer night countryside landscape with sunflowers,low quality,2.5,pigeon, The correct class is 'No illusion'., pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_209,A hidden cave illuminated by glowing mushrooms,low quality,2.5,pigeon, No illusion, 'pigeon', 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_210,A secret garden hidden behind a hidden door in a wall,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_211,"Neon reflections illuminate a futuristic city, robots and lights converging in reflections",low quality,2.5,pigeon, pigeon, pigeon, No illusion, 'No illusion', 'pigeon'
+IllusionAnimals_212,A bustling carnival with colorful lights and rides,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_213,A cyberpunk metropolis pulsating with neon lights,low quality,2.5,pigeon, The correct class is 'pigeon'., pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_214,A foggy forest with tall trees and a wooden bridge,low quality,2.5,pigeon, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_215,A festive holiday parade down Main Street,low quality,2.5,pigeon, No illusion, pigeon, No illusion, No illusion, 'pigeon'
+IllusionAnimals_216,A bustling city street with neon lights and towering skyscrapers,low quality,2.5,pigeon, 'No illusion', pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_217,A lively fairground with games and rides galore,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_218,"Sunrise paints horizon gold, ocean waves meet rocky shore, birds sing echoing melodies",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_219,Hummingbird drinking nectar,low quality,2.5,pigeon, 'No illusion', 'pigeon', 'No illusion', 'hummingbird', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_220,"Silent valley bathed in golden sunlight, river meanders below",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_221,Glacial ice cave adorned with electric blue hues,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_222,Frosted autumn leaf on fire-weed plant,low quality,2.5,pigeon, pigeon, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_223,A tranquil pond with lily pads and colorful koi fish,low quality,2.5,pigeon, 'fish', 'pigeon', 'fish', 'fish', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_224,An arctic fox in a snowy tundra,low quality,2.5,pigeon, 'arctic fox', pigeon, 'arctic fox', 'arctic fox', The class of the object in the picture is 'pigeon'.
+IllusionAnimals_225,A pirate ship battling with a sea monster,low quality,2.5,pigeon, No illusion, pigeon, The correct class is 'snake'., 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_226,A field of lavender with bees buzzing around the fragrant flowers,low quality,2.5,pigeon, 'No illusion', pigeon, 'bee', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_227,"Flowing lava illuminates cavern walls, ancient hieroglyphs etched into rock",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_228,Puffin taking flight from coastal cliffs,low quality,2.5,pigeon, The correct class is 'puffin'., 'pigeon', 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_229,A futuristic city with flying cars and neon lights,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_230,"Golden light paints meadow grass, mountains rise imposingly, river reflects rainbow hues",low quality,2.5,pigeon, pigeon, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_231,A colorful sunset over a calm sea,low quality,2.5,pigeon, The correct class is 'rooster'., pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_232,A bustling city street lined with colorful shops and towering skyscrapers,low quality,2.5,pigeon, No illusion, pigeon, No illusion, No illusion, The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_233,Leopard lounging in tree branches,low quality,2.5,pigeon, 'leopard', pigeon, 'leopard', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_234,Tranquil meadow with blooming flowers and a stream,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_235,A grand ballroom filled with elegant dancers in lavish attire,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_236,Golden leaf autumn canopy covering ground,low quality,2.5,pigeon, 'No illusion', 'pigeon', 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_237,Urban city with skyscrapers and traffic,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_238,"Mountain meets lake reflection, sunlight dances on ripples, birds flutter over water",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_239,A steamy jungle with lush foliage and exotic wildlife,low quality,2.5,pigeon, pigeon, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_240,"A serene reflection of stars in a tranquil lake, moonlight cascading over mountains",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_241,"Golden light teases mountain tops, river reflects rainbow hues, birds sing softly",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_242,A desert with camels and pyramids,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_243,"Golden light meets mountain haze, river meets grassy plains, birds migrate in joyful maze",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_244,Fox darting through pristine snow,low quality,2.5,pigeon, 'No illusion', 'rooster', No illusion, 'wolf', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_245,A colorful hot air balloon festival filling the sky with hues,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_246,A colorful hot air balloon floating over a patchwork landscape,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_247,A majestic bridge spanning a wide river,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_248,A forest with blooming flowers,low quality,2.5,pigeon, 'bird', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_249,A charming cottage covered in ivy with a thatched roof,low quality,2.5,pigeon, No illusion, 'pigeon', No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_250,"Sunbeams pierce dark forest depths, river flow washes over rocks, birds call from branches",low quality,2.5,pigeon, The correct class is 'No illusion'., pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_251,Magenta sunrise greeting hopeful dawn,low quality,2.5,pigeon, 'pigeon', pigeon, 'deer', 'deer', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_252,"Ancient tree roots intertwining across the moonlit forest floor, moonlight filtering through branches",low quality,2.5,pigeon, No illusion, pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_253,A bustling city street lined with colorful shops and towering skyscrapers,low quality,2.5,pigeon, No illusion, pigeon, No illusion, No illusion, The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_254,Playful otters frolicking in shallow rapids,low quality,2.5,pigeon, No illusion, pigeon, No illusion, otter, 'pigeon'
+IllusionAnimals_255,A time-worn pirate ship adrift at sea,low quality,2.5,pigeon, No illusion, pigeon, No illusion, No illusion, 'pigeon'
+IllusionAnimals_256,Sandy dunes meet turquoise seas under a stormy sky,low quality,2.5,pigeon, The correct class is 'No illusion'., pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_257,Graceful swans gliding effortlessly across glassy lake surface,low quality,2.5,pigeon, No illusion, 'pigeon', No illusion, swan, The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_258,Ocean wave curling gracefully onto beach,low quality,2.5,pigeon, 'horse', pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_259,A colorful sunset over a calm beautiful lake,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_260,A field of lavender with bees buzzing around the fragrant flowers,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_261,Misty jungle surrounded by vibrant flowers and tall palm trees,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_262,A lively carnival with bright tents and rides,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_263,A medieval castle perched on a cliff overlooking the ocean,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_264,"A forgotten boat rests beneath the waves, sunlight illuminating its weathered hull",low quality,2.5,pigeon, No illusion, 'pigeon', No illusion, No illusion, The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_265,A bustling marketplace with colorful stalls and vibrant street food vendors,low quality,2.5,pigeon, 'No illusion', 'pigeon', No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_266,A forest with tall trees and a flowing river,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_267,"Forest sunrise, golden light stretches through canopy, birds sing softly",low quality,2.5,pigeon, 'No illusion', 'No illusion', 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_268,A foggy forest with a winding river,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_269,Beautiful butterfly alighting on delicate flower petals,low quality,2.5,pigeon, butterfly, pigeon, butterfly, butterfly, The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_270,A rooftop view of a sprawling metropolis at night,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_271,A misty forest filled with towering redwoods,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_272,"Vast forest meets mountain peaks, sunlight filters through canopy secrets, birds sing in rhythmic streaks",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_273,"Mountain meets lake reflection, sunlight dances on ripples, birds flutter over water",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_274,"City skyline reflected in a pool of water, neon lights shimmering",low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_275,A dirt path leading through a lush forest,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_276,A bustling city square adorned with festive decorations,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_277,"Volcanic mountains erupt in waves of fire, glowing rivers flow through valleys below",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_278,"Glowing fields of wildflowers stretch endlessly, vintage tractor leaves dusty trail",low quality,2.5,pigeon, 'tractor', pigeon, 'tractor', 'tractor', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_279,A dreamy landscape with a cloudy sky and a rainbow,low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_280,A quaint seaside town with colorful fishing boats,low quality,2.5,pigeon, 'No illusion', pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_281,"Golden warmth paints mountain slopes, river flows swiftly below, birds sing in colorful patterns",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_282,A starry night over a calm sea,low quality,2.5,pigeon, pigeon, pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_283,"Pulse of the city fades to sea, mountains rise in rhythmic sway, river meets the history",low quality,2.5,pigeon, pigeon, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_284,A field of vibrant wildflowers under a clear blue sky,low quality,2.5,pigeon, 'No illusion', 'pigeon', 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_285,A vibrant field of wildflowers blowing in the wind,low quality,2.5,pigeon, 'rooster', pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_286,A bustling city street with neon lights and towering skyscrapers,low quality,2.5,pigeon, No illusion, pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_287,"Abandoned laboratory, scientific symbols floating in the air",low quality,2.5,pigeon, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_288,"Gentle waves lap sandy shores, towering waves crash against ancient cliffs",low quality,2.5,pigeon, 'No illusion', 'rooster', 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_289,Hyena laughing boisterously while feasting,low quality,2.5,pigeon, The correct class is 'hyena'., pigeon, No illusion, 'hyena', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_290,A refreshing oasis amidst vast desert sands,low quality,2.5,pigeon, The correct class is 'pigeon'., pigeon, 'No illusion', 'No illusion', The class of the object in the picture is 'pigeon'.
+IllusionAnimals_291,A lovely wedding reception held in elegant hall,low quality,2.5,pigeon, 'No illusion', pigeon, No illusion, 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_292,A serene lake with lush forest and mountains,low quality,2.5,pigeon, rooster, rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_293,A picturesque seaside town with colorful houses lining the shore,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_294,"Gentle waves reflect moonlight, illuminating underwater life in vibrant colors",low quality,2.5,pigeon, The correct class is 'No illusion'., pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_295,Shark fin slicing smoothly through deep blue sea,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'shark', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_296,"Neon rivers flow through silicon sand, mountains sculpted from fractured land, birds made of light expand",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_297,Sun-drenched wasteland with shattered robots and crumbling structures,low quality,2.5,pigeon, The correct class is 'pigeon'., 'pigeon', 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_298,A bustling city skyline at night,low quality,2.5,pigeon, No illusion, pigeon, 'No illusion', 'No illusion', The class of the animal in the picture is 'pigeon'.
+IllusionAnimals_299,"Neon rivers flow through silicon sand, mountains sculpted from fractured land, birds made of light expand",low quality,2.5,pigeon, 'No illusion', pigeon, 'No illusion', 'No illusion', 'pigeon'
+IllusionAnimals_300,A playful dolphin jumping out of crystal-clear waters,low quality,2.5,pigeon, No illusion, pigeon, No illusion, 'dolphin', 'pigeon'
+IllusionAnimals_301,A winding river snaking through a lush green landscape,low quality,2.5,butterfly, butterfly, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_302,"Windswept dunes meeting turquoise sea, rolling waves foam and crest",low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', No illusion, The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_303,A mystical desert oasis with palm trees and cool water,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_304,Crocodile basking in tropical sunshine,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_305,A lighthouse amidst a green landscape with the sea behind,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_306,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_307,"Starlight spills over snow-covered mountains, lone cabin huddled in valley below",low quality,2.5,butterfly, 'No illusion', butterfly, No illusion, 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_308,"Neon city zoomed at night, palm trees reaching sky's edge",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_309,A Guru Nanak Jayanti langar serving equality,low quality,2.5,butterfly, 'rooster', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_310,A peaceful meadow filled with grazing deer,low quality,2.5,butterfly, butterfly, butterfly, 'deer', 'deer', The class of the animal in the picture is 'insect'.
+IllusionAnimals_311,"City skyline reflected in a pool of water, neon lights shimmering",low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_312,Vintage carnival with Ferris wheel against twilight sky,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the picture is 'butterfly'.
+IllusionAnimals_313,A peaceful cottage in a forest glade,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_314,A field of daisies with a rainbow in the background,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_315,Birds singing harmoniously at dawn,low quality,2.5,butterfly, 'No illusion', butterfly, 'pigeon', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_316,A cozy cafe on a rainy day,low quality,2.5,butterfly, No illusion, butterfly, No illusion, No illusion, The class of the animal in the picture is 'insect'.
+IllusionAnimals_317,A lush meadow beneath a bright blue summer sky,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_318,Misty jungle surrounded by vibrant flowers and tall palm trees,low quality,2.5,butterfly, butterfly, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_319,"Tropical forest meets cascading waterfall, turquoise river churns",low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_320,"Ancient cave entrance, stalactites glow, sunlight filters through dusty air",low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_321,A doe by a lake drinking water,low quality,2.5,butterfly, No illusion, butterfly, 'deer', 'deer', 'butterfly'
+IllusionAnimals_322,"Space station orbits Earth, glowing city lights twinkle below clouds",low quality,2.5,butterfly, The correct class is 'butterfly'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_323,A futuristic city with flying cars and neon lights,low quality,2.5,butterfly, No illusion, butterfly, No illusion, 'No illusion', 'butterfly'
+IllusionAnimals_324,Rhinos charging through savannah,low quality,2.5,butterfly, The correct class is 'butterfly'., butterfly, No illusion, 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_325,A futuristic cityscape with flying cars and neon signs,low quality,2.5,butterfly, The correct class is 'butterfly'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_326,Glittering icicles hanging precariously off ledge,low quality,2.5,butterfly, The correct class is 'butterfly'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_327,Moon setting behind rolling sand dunes in early dawn light,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_328,Seaside boardwalk with vintage arcade games,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', insect
+IllusionAnimals_329,A forest with tall trees and a babbling brook,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the object in the picture is 'butterfly'.
+IllusionAnimals_330,A rustic barn surrounded by fields of golden wheat,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_331,A vibrant sunset painting the sky in hues of orange and pink,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_332,Gentle waves guide small boats through hidden mangrove forest,low quality,2.5,butterfly, The correct class is 'tiger'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_333,A winter solstice bonfire warming hearts,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_334,Tranquil forest with birds singing in the canopy,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_335,An ancient city in the desert,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_336,Kangaroo bounding powerfully across Outback expanse,low quality,2.5,butterfly, 'kangaroo', 'butterfly', 'kangaroo', 'kangaroo', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_337,A bustling train station with passengers rushing to catch their trains,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_338,A vast blue ocean containing small islands with palm trees,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_339,"A shimmering river flows through a desolate canyon, sunlight highlighting the eroded rock walls",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the object in the picture is 'butterfly'.
+IllusionAnimals_340,A majestic bald eagle soaring overhead,low quality,2.5,butterfly, No illusion, 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_341,A dark alleyway with neon lights and graffiti,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_342,A forest with tall trees and a winding path,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_343,"Steam rises from meadow meadows, wildflowers bloom in vibrant hues, birds flutter",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_344,Tranquil mountains overlooking a lush jungle and flowing river,low quality,2.5,butterfly, The correct class is 'dog'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_345,A foggy forest with tall trees and a wooden bridge,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_346,An abandoned castle with ivy-covered walls and a moat,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_347,"City skyline reflected in a pool of water, neon lights shimmering",low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_348,A field of poppies swaying in the breeze under a clear sky,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_349,"Sunbeams break through jungle canopy, river winds through valleys, sunlight paints patterns on everything",low quality,2.5,butterfly, The correct class is 'butterfly'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_350,Cheetah sprinting swiftly,low quality,2.5,butterfly, The correct class is 'No illusion'., butterfly, No illusion, 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_351,Desert canyon with towering rock formations illuminated by glowing sunlight,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_352,"Gentle waves lap against sandy beach, distant storm glows clouds over mountains",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_353,Tranquil meadow with wildflowers and distant hills,low quality,2.5,butterfly, butterfly, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_354,A girl with brown hair wearing a black dress standing in a field of flowers,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', insect
+IllusionAnimals_355,A bustling harbor filled with fishing boats and seagulls,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_356,A Kwanzaa celebration honoring heritage,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_357,"Volcanic mountains erupt in clouds, geothermal lake forms below",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_358,Camels crossing expansive desert dunes,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_359,A vast desert under the twilight sky,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_360,"Golden sunrise paints horizon, vast desert landscape, dunes shift in the gentle breeze",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_361,A rugged canyon carved by a winding river,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_362,A delightful puppet show entertaining young audiences,low quality,2.5,butterfly, No illusion, 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_363,A bear fishing in a river at sunset,low quality,2.5,butterfly, butterfly, 'butterfly', 'bear', 'bear', insect
+IllusionAnimals_364,Old stone bridge over crystal clear mountain stream,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_365,Majestic castle standing proudly on cliffside,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_366,A lonely cottage in autumn forest,low quality,2.5,butterfly, No illusion, butterfly, No illusion, 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_367,"Silent mountains embrace turquoise lake, sunlight paints ripples",low quality,2.5,butterfly, butterfly, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_368,"Mountain lake reflects snow-capped peaks, wildflowers dance on surface",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_369,"Mountain lake reflections, snow-capped peaks rise above, tranquil scene",low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_370,Clouds parting to reveal brilliant sunlight,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_371,A cozy cottage nestled in a snow-covered forest,low quality,2.5,butterfly, No illusion, 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_372,A field of wild lupine flowers stretching out to the horizon,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_373,A rugged canyon carved by a winding river,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_374,A festive carnival with bright lights and merry-go-rounds,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_375,A vibrant meadow with blooming flowers,low quality,2.5,butterfly, The correct class is 'butterfly'., 'butterfly', 'No illusion', 'No illusion', insect
+IllusionAnimals_376,"Volcanic mountains erupt in waves of fire, glowing rivers flow through valleys below",low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_377,"An ancient temple overgrown with vines, sunlight filtering through crumbled stones",low quality,2.5,butterfly, No illusion, 'butterfly', No illusion, 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_378,Towering giant sequoia stretching high into sky,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_379,**Scene:** A tranquil valley with a winding river and lush greenery,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_380,Majestic castle standing proudly on cliffside,low quality,2.5,butterfly, The correct class is 'butterfly'., butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_381,"Ethereal forest, sunlight filters through canopy, river flows silent",low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_382,A bustling city street with neon lights and bustling crowds,low quality,2.5,butterfly, 'butterfly', butterfly, No illusion, 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_383,Eerie underwater lab with glowing fish and abandoned research equipment,low quality,2.5,butterfly, 'No illusion', butterfly, 'fish', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_384,A surreal landscape with floating islands,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_385,A charming cottage covered in ivy with a thatched roof,low quality,2.5,butterfly, No illusion, butterfly, No illusion, 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_386,"A vibrant sunset paints the desert landscape, casting long shadows over the towering dunes",low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_387,A quaint village with cobblestone streets,low quality,2.5,butterfly, No illusion, butterfly, No illusion, No illusion, 'butterfly'
+IllusionAnimals_388,"Sunbeams pierce dark forest depths, river flow washes over rocks, birds call from branches",low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_389,A lively carnival with bright tents and rides,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_390,A vibrant forest with lush vegetation and a meandering river,low quality,2.5,butterfly, No illusion, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_391,A nostalgic drive-in movie theater under the stars,low quality,2.5,butterfly, 'No illusion', butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_392,"Golden sunrise paints mountains gold, river reflects in quiet lake, birds sing softly",low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'swan', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_393,A bustling marketplace with colorful stalls and exotic goods,low quality,2.5,butterfly, 'No illusion', 'butterfly', No illusion, 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_394,A charming vineyard with rows of grapevines stretching towards the horizon,low quality,2.5,butterfly, No illusion, 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_395,Cypress-lined lake reflects moonlight over granite cliffs,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_396,A lush vineyard stretching over rolling hills,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', The class of the animal in the picture is 'butterfly'.
+IllusionAnimals_397,"Vast expanse meets mountain lake, sunlight paints ripples, birds gently awake",low quality,2.5,butterfly, butterfly, butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_398,A spacecraft entering Mars' orbit,low quality,2.5,butterfly, 'butterfly', butterfly, 'No illusion', 'No illusion', The class of the animal in the picture is 'insect'.
+IllusionAnimals_399,"Sunrise paints mountains golden, river meanders through valleys, birds sing in harmony",low quality,2.5,butterfly, butterfly, butterfly, 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_400,A spooky graveyard under a full moon,low quality,2.5,butterfly, 'No illusion', 'butterfly', 'No illusion', 'No illusion', 'butterfly'
+IllusionAnimals_401,"Sun-drenched meadow meets winding waterfall, cradled by rolling hills",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_402,Tranquil meadow with blooming flowers and a stream,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_403,"A glimpse of hidden ruins illuminated by moonlight, secrets whispered in the shadows",low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_404,"Gentle waves meet volcanic cliffs, stars twinkle above",low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_405,A majestic bald eagle soaring overhead,low quality,2.5,elephant, No illusion, elephant, No illusion, 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_406,A babbling brook flowing gently among mossy boulders,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_407,A grand palace with ornate golden gates and pillars,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_408,Geysir erupting in Yellowstone National Park,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_409,A cozy fireplace crackling in a rustic log cabin,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_410,"Serene lake reflects snowy mountains, ice-covered trees dot surface like decorations",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_411,A Guru Nanak Jayanti langar serving equality,low quality,2.5,elephant, No illusion, 'elephant', 'No illusion', 'No illusion', elephant
+IllusionAnimals_412,Crocodile basking in tropical sunshine,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_413,"Coastal cliffs meet crashing waves, sunlight illuminates spray",low quality,2.5,elephant, The correct class is 'elephant'., elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_414,A serene lake with a majestic waterfall,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_415,A magical fairytale forest filled with unicorns,low quality,2.5,elephant, 'No illusion', elephant, horse, Horse, elephant
+IllusionAnimals_416,Wolf pack howling at full moon,low quality,2.5,elephant, No illusion, elephant, No illusion, No illusion, elephant
+IllusionAnimals_417,"Dense forest canopy, sunlight filters through, river winds through valleys",low quality,2.5,elephant, The correct class is 'elephant'., 'elephant', 'No illusion', 'No illusion', elephant
+IllusionAnimals_418,A peaceful lakeside campfire surrounded by friends and laughter,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_419,"Eerie silence hangs over abandoned factory, moonlight bathes ghostly figures",low quality,2.5,elephant, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_420,A lovely wedding reception held in elegant hall,low quality,2.5,elephant, 'No illusion', elephant, No illusion, 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_421,A secluded cabin nestled in a snowy forest,low quality,2.5,elephant, No illusion, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_422,"Vast desert landscape meets towering cliffs, sunlight casts long shadows, silence reigns supreme",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_423,Lenticular clouds hovering above Andean peaks,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_424,A Kwanzaa celebration honoring heritage,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_425,A moonlit forest with fireflies dancing in the darkness,low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_426,"Forest stream meets rocky falls, sunlight filters through canopy",low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_427,A cloudy sky with a bolt of lightning striking a windmill,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_428,Lightning striking glacier in Patagonia,low quality,2.5,elephant, 'No illusion', 'elephant', 'No illusion', 'No illusion', elephant
+IllusionAnimals_429,A tranquil bamboo forest swaying in the breeze,low quality,2.5,elephant, elephant, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_430,"Silent mountains embrace turquoise lake, sunlight paints ripples",low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_431,Fire tornado ripping through California wildfires,low quality,2.5,elephant, 'No illusion', 'elephant', 'No illusion', 'No illusion', elephant
+IllusionAnimals_432,"A beach with umbrella, sun and ocean",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_433,Eerie underwater lab with glowing fish and abandoned research equipment,low quality,2.5,elephant, No illusion, Elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_434,A desert with a lake in the middle,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_435,A quaint village blanketed in winter snow with twinkling lights,low quality,2.5,elephant, No illusion, elephant, No illusion, No illusion, elephant
+IllusionAnimals_436,"Foggy lake, ancient trees reach limbs, morning sun paints ripples",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_437,A cozy New Year's Eve toast at midnight,low quality,2.5,elephant, 'No illusion', elephant, No illusion, No illusion, elephant
+IllusionAnimals_438,A secret underground cavern lit by glowing crystals,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_439,"Neon city zoomed at night, palm trees reaching sky's edge",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_440,A vast green meadowland with a cottage in the distance,low quality,2.5,elephant, elephant, elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_441,A bustling city skyline at night with neon lights,low quality,2.5,elephant, 'No illusion', 'elephant', No illusion, 'No illusion', elephant
+IllusionAnimals_442,Windswept dunes meet turquoise waves at sunset,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_443,A secret underground cavern lit by glowing crystals,low quality,2.5,elephant, elephant, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_444,A tropical island paradise with sandy beaches and crystal-clear waters,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_445,A giant robot overlooking a city at night,low quality,2.5,elephant, Elephant, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_446,A solitary lighthouse on a stormy cliff,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_447,A classic car driving along a coastal highway,low quality,2.5,elephant, No illusion, 'elephant', No illusion, 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_448,A enchanting moonlit garden abloom with fireflies,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_449,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_450,Sandy dunes meet turquoise seas under a stormy sky,low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_451,Osprey dive-bombing for fish in wetlands,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'pigeon', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_452,A starry night sky with a crescent moon and silhouette of a tree,low quality,2.5,elephant, No illusion, 'No illusion', 'No illusion', 'No illusion', elephant
+IllusionAnimals_453,"A vibrant forest glows with bioluminescent light, revealing hidden secrets",low quality,2.5,elephant, No illusion, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_454,Vibrant hot air balloons floating over green hills,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_455,A bustling city street with neon lights and bustling crowds,low quality,2.5,elephant, No illusion, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_456,A dark forest with a glowing mushroom,low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_457,Lenticular clouds hovering above Andean peaks,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_458,Turquoise lagoon shaded by palms,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_459,African wild dog hunting impala,low quality,2.5,elephant, The correct class is 'dog'., elephant, The correct class is 'dog'., 'dog', elephant
+IllusionAnimals_460,A small house near seashore,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_461,"Sunbeams pierce dark forest depths, river flow washes over rocks, birds call from branches",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_462,Baby turtle emerging from its shell into ocean waves,low quality,2.5,elephant, turtle, 'No illusion', No illusion, 'No illusion', elephant
+IllusionAnimals_463,"Sea meets forest, waves crash softly, sunlight filters through canopy",low quality,2.5,elephant, No illusion, Elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_464,Leopard lounging in tree branches,low quality,2.5,elephant, No illusion, elephant, 'leopard', 'No illusion', elephant
+IllusionAnimals_465,"Pulse of the city fades to sea, mountains rise in rhythmic sway, river meets the history",low quality,2.5,elephant, The correct class is 'elephant'., elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_466,Bear cub playing in wildflower meadow,low quality,2.5,elephant, 'bear', elephant, 'bear', 'bear', elephant
+IllusionAnimals_467,A futuristic cityscape with flying cars and neon signs,low quality,2.5,elephant, Elephant, elephant, No illusion, 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_468,Cherry Blossoms fluttering softly,low quality,2.5,elephant, No illusion, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_469,A colorful meadow with a flowing river and vibrant hot air balloons,low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_470,A lively fairground with games and rides galore,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_471,"Ancient trees reach for the stars, sunlight filters through branches, river flows silently",low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_472,A foggy forest with a single path,low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_473,Dolphins leaping in sparkling sea,low quality,2.5,elephant, No illusion, elephant, No illusion, dolphin, elephant
+IllusionAnimals_474,A whimsical carnival with colorful tents and a merry-go-round,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_475,A futuristic cityscape illuminated by neon lights,low quality,2.5,elephant, No illusion, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_476,A snowy forest with deer grazing on the fresh white snow,low quality,2.5,elephant, 'deer', elephant, 'deer', 'wolf', elephant
+IllusionAnimals_477,A serene beach at sunset with palm trees and gentle waves,low quality,2.5,elephant, 'No illusion', 'elephant', 'No illusion', 'No illusion', elephant
+IllusionAnimals_478,"A serene reflection of stars in a tranquil lake, moonlight cascading over mountains",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_479,A serene countryside blanketed in a field of blooming lavender,low quality,2.5,elephant, elephant, elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_480,"Neon reflections dance over futuristic cityscape, vibrant river flows below",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_481,"Embraced by moonlight, ancient city walls glow with a soft, luminescent light",low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_482,Sloth hanging nonchalantly from branch in Central America,low quality,2.5,elephant, No illusion, elephant, 'sloth', 'sloth', elephant
+IllusionAnimals_483,"Sun paints mountains golden glow, river whispers secrets below, birds dance in silent show",low quality,2.5,elephant, 'No illusion', elephant, No illusion, 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_484,"Vast expanse of ocean waves, crashing against rocky cliffs, sunlight paints patterns",low quality,2.5,elephant, elephant, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_485,Sunset over a calm tropical lake,low quality,2.5,elephant, 'No illusion', 'No illusion', 'No illusion', 'No illusion', elephant
+IllusionAnimals_486,Elephant herd bathing in river,low quality,2.5,elephant, elephant, elephant, elephant, elephant, The class of the animal in the picture is 'elephant'.
+IllusionAnimals_487,A hauntingly beautiful graveyard shrouded in fog,low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_488,A colorful coral reef teeming with diverse marine life,low quality,2.5,elephant, 'No illusion', elephant, 'fish', 'No illusion', elephant
+IllusionAnimals_489,A futuristic city with flying cars and skyscrapers,low quality,2.5,elephant, No illusion, elephant, No illusion, 'No illusion', elephant
+IllusionAnimals_490,A majestic waterfall cascading into a crystal clear pool,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_491,"A modern city with skyscrapers, trees, and a river",low quality,2.5,elephant, The correct class is 'elephant'., elephant, No illusion, 'No illusion', The class of the animal in the picture is 'elephant'.
+IllusionAnimals_492,A vast savannah dotted with grazing zebras,low quality,2.5,elephant, 'No illusion', elephant, 'zebra', 'No illusion', elephant
+IllusionAnimals_493,"Eerie silence hangs over abandoned factory, moonlight bathes ghostly figures",low quality,2.5,elephant, No illusion, 'No illusion', 'No illusion', 'No illusion', elephant
+IllusionAnimals_494,A romantic candlelit dinner under the stars,low quality,2.5,elephant, No illusion, 'elephant', No illusion, 'No illusion', elephant
+IllusionAnimals_495,"A hazy sky reflects on a tranquil lake, moonlight bathing the surrounding mountains",low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_496,Wildflower superbloom covering Californian desert,low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_497,"Pulse of the city fades to sea, mountains rise in rhythmic sway, river meets the history",low quality,2.5,elephant, elephant, 'No illusion', 'No illusion', 'No illusion', elephant
+IllusionAnimals_498,A desert with a lake in the middle,low quality,2.5,elephant, 'elephant', elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_499,"Neon glow fills abandoned mining tunnels, eerie silence haunts the depths",low quality,2.5,elephant, 'No illusion', elephant, 'No illusion', No illusion, The class of the animal in the picture is 'elephant'.
+IllusionAnimals_500,"Eerie silence surrounds snow-covered forest, glowing moon casts long shadows",low quality,2.5,elephant, The correct class is 'elephant'., elephant, 'No illusion', 'No illusion', elephant
+IllusionAnimals_501,A grand castle perched atop a hill overlooking a medieval town,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the animal in the picture is 'horse'.
+IllusionAnimals_502,A thunderstorm brewing over a field of wildflowers,low quality,2.5,horse, 'horse', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_503,"Neon outlines of futuristic structures illuminate the sky, reflected in the river below",low quality,2.5,horse, 'horse', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_504,"Gentle waves lap sandy shores, seagulls soar above, salty spray fills the air",low quality,2.5,horse, Horse, Horse, The correct class is: No illusion, 'No illusion', 'horse'
+IllusionAnimals_505,"Swirling patterns of light paint the night sky, stars forming constellations",low quality,2.5,horse, Horse, horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_506,"Sea meets forest, waves crash softly, sunlight filters through canopy",low quality,2.5,horse, Horse, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_507,Cougar (Puma) surveying territory from lofty vantage point,low quality,2.5,horse, The correct class is 'No illusion'., Horse, No illusion, 'cat', 'horse'
+IllusionAnimals_508,A vibrant forest with lush vegetation and a meandering river,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_509,A Labor Day picnic spending quality time,low quality,2.5,horse, No illusion, horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_510,A Fourth of July firework show lighting up skies,low quality,2.5,horse, 'horse', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_511,A majestic palace with gilded gates and marble columns,low quality,2.5,horse, Horse, horse, 'No illusion', 'No illusion', The class of the animal in the picture is 'horse'.
+IllusionAnimals_512,A secluded cabin nestled in a snowy forest,low quality,2.5,horse, No illusion, Horse, No illusion, 'No illusion', 'horse'
+IllusionAnimals_513,A lonely cottage in autumn forest,low quality,2.5,horse, No illusion, 'horse', No illusion, 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_514,Tranquil forest with birds singing in the canopy,low quality,2.5,horse, The correct class is 'elephant'., Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_515,A grand castle perched atop a hill overlooking a medieval town,low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_516,Wisteria draped elegantly over arbor,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_517,A creepy abandoned asylum with boarded up windows and rusted gates,low quality,2.5,horse, 'No illusion', 'No illusion', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_518,"Golden sunrise paints mountains gold, river reflects in quiet lake, birds sing softly",low quality,2.5,horse, Horse, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_519,A bustling harbor filled with fishing boats and seagulls,low quality,2.5,horse, The correct class is 'No illusion'., 'horse', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_520,A solitary lighthouse on a stormy cliff,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_521,A dense forest with lofty mountains and a meandering river,low quality,2.5,horse, The correct class is 'horse'., 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_522,"Neon rays illuminate a futuristic city, reflecting off robots and sleek structures",low quality,2.5,horse, Horse, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_523,Rainbow appearing after a summer rainstorm,low quality,2.5,horse, 'butterfly', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_524,"Ancient trees reach for the stars, sunlight filters through branches, river flows silently",low quality,2.5,horse, No illusion, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_525,A peaceful meadow with a rainbow stretching across the sky,low quality,2.5,horse, The correct class is 'horse'., horse, 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_526,A thrilling ski slope adventure on snowy peaks,low quality,2.5,horse, Horse, 'horse', 'No illusion', 'skier', 'horse'
+IllusionAnimals_527,Curious squirrel climbing up tree trunk,low quality,2.5,horse, 'squirrel', horse, No illusion, 'squirrel', The class of the picture is 'horse'.
+IllusionAnimals_528,A hidden waterfall cascading into a crystal-clear pool,low quality,2.5,horse, No illusion, Horse, No illusion, 'No illusion', 'horse'
+IllusionAnimals_529,A snowy forest with deer grazing on the fresh white snow,low quality,2.5,horse, The correct class is 'deer'., Horse, 'deer', No illusion, 'horse'
+IllusionAnimals_530,Foggy graveyard with crooked tombstones under moonlight,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_531,"Sun sets over volcanic mountains, glowing lava reflects on river surface",low quality,2.5,horse, Horse, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_532,"Vast, glowing nebula engulfing a towering space station, stars twinkling beyond",low quality,2.5,horse, The correct class is 'elephant'., Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_533,Misty mountains with a flowing river,low quality,2.5,horse, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_534,Mountain goats traversing rugged terrain,low quality,2.5,horse, No illusion, 'horse', No illusion, 'No illusion', 'horse'
+IllusionAnimals_535,A busy marketplace filled with colorful stalls,low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_536,A majestic waterfall plunging into a misty abyss,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_537,"Starlight spills over snow-covered mountains, lone cabin huddled in valley below",low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_538,"Glowing fields of wildflowers stretch endlessly, vintage tractor leaves dusty trail",low quality,2.5,horse, 'No illusion', 'horse', 'tractor', 'No illusion', 'horse'
+IllusionAnimals_539,Muskoxen forming protective circle,low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'bison', 'horse'
+IllusionAnimals_540,"Golden light teases mountain tops, river reflects rainbow hues, birds sing softly",low quality,2.5,horse, No illusion, 'horse', No illusion, 'No illusion', 'horse'
+IllusionAnimals_541,A fantastical kingdom ruled by mermaids,low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_542,Dreamy lavender field billowing softly,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_543,Sandy shore strewn with driftwood,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_544,A rustic barn surrounded by fields of golden wheat,low quality,2.5,horse, The correct class is 'elephant'., Horse, 'No illusion', 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_545,"A majestic sunrise illuminates the mountains, casting long shadows over valleys below",low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_546,"A vast, lush jungle with mist-shrouded mountains and a winding river",low quality,2.5,horse, The correct class is 'elephant'., horse, No illusion, 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_547,"Golden waves meet silver foam, city lights reflect in gentle glow, birds dance in silent storm",low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', The class of the animal in the picture is 'horse'.
+IllusionAnimals_548,"Vast ocean waves reflect a radiant sunrise, painting the sky with vibrant hues",low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_549,Komodo Dragon slithering stealthily,low quality,2.5,horse, 'snake', Horse, No illusion, 'No illusion', 'horse'
+IllusionAnimals_550,Jellyfish undulating rhythmically,low quality,2.5,horse, 'No illusion', Horse, No illusion, Jellyfish, 'horse'
+IllusionAnimals_551,"A quaint cottage in a flower-filled meadow, surrounded by hills",low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_552,A celestial universe filled with planets and galaxies,low quality,2.5,horse, 'No illusion', Horse, No illusion, 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_553,A tranquil pond surrounded by weeping willows and lily pads,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_554,A vast savannah dotted with grazing zebras,low quality,2.5,horse, The correct class is 'Horse'., 'horse', 'zebra', 'No illusion', The class of the animal in the picture is 'horse'.
+IllusionAnimals_555,"Serene underwater city bathed in bioluminescent light, creatures floating gracefully",low quality,2.5,horse, horse, Horse, No illusion, 'No illusion', 'horse'
+IllusionAnimals_556,A field of vibrant wildflowers under a clear blue sky,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_557,"Abandoned spaceship adrift in a nebula, bathed in swirling light",low quality,2.5,horse, 'horse', 'horse', No illusion, 'No illusion', 'horse'
+IllusionAnimals_558,Swallows swooping low over tranquil pond,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_559,A bustling city street lined with colorful shops and towering skyscrapers,low quality,2.5,horse, No illusion, 'horse', No illusion, No illusion, 'horse'
+IllusionAnimals_560,"Gentle waves meet mountain rocks, sunlight reflects in sparkling spray, birds flutter over the ocean",low quality,2.5,horse, Horse, Horse, No illusion, No illusion, The class of the picture is 'horse'.
+IllusionAnimals_561,Volcanic landscape with flowing lava and levitating plants,low quality,2.5,horse, Horse, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_562,"A lone astronaut floats in the vastness of space, constellations forming a path",low quality,2.5,horse, Horse, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_563,A hauntingly beautiful graveyard shrouded in fog,low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_564,A serene lake surrounded by lush green forests,low quality,2.5,horse, horse, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_565,A grand cathedral with intricate stained glass windows and spires,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_566,A medieval castle standing proudly atop a hill,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_567,A foggy forest with a winding river,low quality,2.5,horse, 'horse', Horse, 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_568,Dolphin pod joyously riding wake,low quality,2.5,horse, No illusion, 'No illusion', No illusion, dolphin, 'horse'
+IllusionAnimals_569,"Mountain sunlight paints meadow meadows, wildflowers bloom in vibrant hues, birds flutter freely",low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_570,A tranquil pond inhabited by graceful swans,low quality,2.5,horse, Horse, Horse, 'swan', 'No illusion', 'horse'
+IllusionAnimals_571,"Desolate desert landscape, shifting sands illuminated by distant stars",low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_572,A bustling city street with neon lights and bustling crowds,low quality,2.5,horse, No illusion, 'horse', No illusion, 'No illusion', 'horse'
+IllusionAnimals_573,Osprey dive-bombing for fish in wetlands,low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', The class of the animal in the picture is 'horse'.
+IllusionAnimals_574,A hiker on top of a hill overlooking camp,low quality,2.5,horse, No illusion, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_575,Rustic lighthouse on rocky coastline amid crashing waves,low quality,2.5,horse, 'No illusion', Horse, No illusion, 'No illusion', 'horse'
+IllusionAnimals_576,A vibrant marketplace with vendors selling exotic fruits and spices,low quality,2.5,horse, No illusion, 'horse', No illusion, No illusion, The class of the animal in the picture is 'horse'.
+IllusionAnimals_577,A lonely tree on a vast plain,low quality,2.5,horse, Horse, Horse, No illusion, No illusion, The class of the animal in the picture is 'horse'.
+IllusionAnimals_578,A Holi Festival of Colors splashing happiness,low quality,2.5,horse, 'No illusion', 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_579,Urban city with skyscrapers and traffic,low quality,2.5,horse, No illusion, 'horse', No illusion, 'No illusion', 'horse'
+IllusionAnimals_580,A peaceful meadow with wildflowers,low quality,2.5,horse, Horse, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_581,A lone sailboat drifting peacefully on calm waters,low quality,2.5,horse, Horse, Horse, No illusion, 'No illusion', 'horse'
+IllusionAnimals_582,A bustling city square adorned with festive decorations,low quality,2.5,horse, 'No illusion', 'horse', No illusion, 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_583,A spooky graveyard under a full moon,low quality,2.5,horse, 'No illusion', 'No illusion', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_584,Buffalo thundering across Great Plains,low quality,2.5,horse, 'No illusion', horse, 'bison', 'bison', The class of the object in the picture is 'horse'.
+IllusionAnimals_585,A steampunk world powered by gears and clockworks,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_586,A serene lake with lush forest and mountains,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_587,Sunbeams illuminate a cascade of water falling over a majestic rock formation,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_588,Tropical storm forming off distant Caribbean island,low quality,2.5,horse, 'horse', Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_589,"A serene reflection of stars in a tranquil lake, moonlight cascading over mountains",low quality,2.5,horse, Horse, horse, 'No illusion', 'No illusion', The class of the picture is 'horse'.
+IllusionAnimals_590,Male lion walking on a path in misty forest,low quality,2.5,horse, dog, Horse, 'lion', 'lion', 'horse'
+IllusionAnimals_591,Urban city with skyscrapers and traffic,low quality,2.5,horse, No illusion, Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_592,A train on a bridge over a deep valley,low quality,2.5,horse, 'No illusion', Horse, 'No illusion', 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_593,A bustling city street with neon lights,low quality,2.5,horse, No illusion, Horse, No illusion, No illusion, 'horse'
+IllusionAnimals_594,"Ancient tree branch forms a bridge over crystal river, sunlight filters down",low quality,2.5,horse, Horse, 'horse', 'No illusion', 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_595,"Gentle waves lap sandy beach, moonlight paints waves with silver glow",low quality,2.5,horse, Horse, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_596,"Steam rises from meadow meadows, wildflowers bloom in vibrant hues, birds flutter",low quality,2.5,horse, No illusion, 'horse', 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_597,An arctic fox in a snowy tundra,low quality,2.5,horse, No illusion, Horse, 'arctic fox', 'arctic fox', The class of the object in the picture is 'horse'.
+IllusionAnimals_598,"Silent mountains embrace turquoise lake, sunlight paints ripples",low quality,2.5,horse, The correct class is 'horse'., Horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_599,A peaceful rice terrace overlooking a tranquil valley,low quality,2.5,horse, The correct class is 'elephant'., horse, 'No illusion', 'No illusion', 'horse'
+IllusionAnimals_600,"Sea meets forest, waves crash softly, sunlight filters through canopy",low quality,2.5,horse, Horse, 'horse', 'No illusion', 'No illusion', The class of the object in the picture is 'horse'.
+IllusionAnimals_601,"Mountain river meets ocean waves, sunlight dances on spray, salty air fills the world",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_602,A fog-enshrouded swamp filled with ominous croaks,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the picture is 'deer'.
+IllusionAnimals_603,Volcanic lightning illuminating ash plume,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_604,A lovely wedding reception held in elegant hall,low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_605,Enchanted forest with mythical creatures,low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_606,A misty bamboo forest with mountains,low quality,2.5,deer, 'elephant', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_607,A vast desert with towering dunes and a lone camel,low quality,2.5,deer, 'No illusion', 'deer', 'camel', 'camel', The class of the animal in the picture is 'deer'.
+IllusionAnimals_608,"Sunbeams filter through leaves, river winds through canyon, mist hangs in the air",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the picture is 'deer'.
+IllusionAnimals_609,"Ancient city emerges from forest depths, moonlight illuminates towering structures",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_610,An abandoned castle shrouded in mist atop a lonely hill,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_611,Lion pride resting under acacia tree,low quality,2.5,deer, The correct class is 'lion'., 'deer', 'lion', 'lion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_612,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_613,"Gentle breeze blows through forest trees, river whispers secrets, sunlight filters through leaves",low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_614,A Guru Nanak Jayanti langar serving equality,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_615,A desert with a lake in the middle,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_616,"Spiral staircase ascends towering crystal tower, city lights twinkle below",low quality,2.5,deer, 'No illusion', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_617,A pirate ship battling with a sea monster,low quality,2.5,deer, 'No illusion', 'deer', No illusion, No illusion, The class of the object in the picture is 'deer'.
+IllusionAnimals_618,A futuristic city with flying cars and skyscrapers,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_619,A futuristic city with skyscrapers surrounded by flying cars,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_620,A field of vibrant wildflowers under a clear blue sky,low quality,2.5,deer, 'No illusion', 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_621,A misty moor shrouded in fog with mysterious standing stones,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_622,A starry night sky over a tranquil lake,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_623,A snow-covered mountain peak piercing the clouds in a rugged wilderness,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_624,Elegant peacock spreading tail feathers wide open,low quality,2.5,deer, 'peacock', 'deer', No illusion, 'peacock', The class of the animal in the picture is 'deer'.
+IllusionAnimals_625,A vast desert with dunes and a lone camel,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_626,"Moonlight bathes serene lake, reflecting off mountains against the night sky",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_627,Radiant sunflowers facing the midday sun,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_628,A mystical floating island in a sea of clouds,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_629,Cobbled street lined with ivy-clad buildings,low quality,2.5,deer, No illusion, 'deer', No illusion, No illusion, The class of the animal in the picture is 'deer'.
+IllusionAnimals_630,Spectacular lightning bolt piercing darkened sky,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_631,"Golden sunlight beams through fallen leaves, river gracefully winds its secrets untold, birds metaphorically free",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_632,Ocean wave curling gracefully onto beach,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_633,A futuristic city with flying cars and skyscrapers,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_634,A hidden cave illuminated by glowing mushrooms,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_635,A futuristic cityscape with flying cars and neon lights,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_636,A field of sunflowers with bees collecting pollen from the blooms,low quality,2.5,deer, Horse, 'deer', 'No illusion', 'sunflower', The class of the animal in the picture is 'deer'.
+IllusionAnimals_637,Winding country road bordered by blooming apple orchards,low quality,2.5,deer, Horse, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_638,A Halloween costume party embracing creativity,low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_639,A mystical moonlit forest with glowing fireflies and unseen creatures,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_640,A Ramadan Iftar meal breaking fast lovingly,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_641,Tropical storm forming off distant Caribbean island,low quality,2.5,deer, The correct class is 'deer'., 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_642,A desert with a lake in the middle,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_643,A quaint village nestled in the rolling green hills of the countryside,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_644,Verdant valley cradled by hills,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_645,Tranquil forest with birds singing in the canopy,low quality,2.5,deer, The correct class is 'pigeon'., 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_646,"Glowing city lights reflect in a reflective pool, revealing hidden structures beneath",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_647,A celestial universe filled with planets and galaxies,low quality,2.5,deer, Wolf, 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_648,Camels crossing expansive desert dunes,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_649,"Eerie silence fills the ancient temple grounds, moonlight illuminating dusty statues",low quality,2.5,deer, No illusion, 'deer', 'No illusion', No illusion, The class of the animal in the picture is 'deer'.
+IllusionAnimals_650,A delightful puppet show entertaining young audiences,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_651,"Vast, glowing nebula engulfing a towering space station, stars twinkling beyond",low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_652,Splendid orchid bursting forth from rich soil,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_653,A festive Christmas morning opening presents,low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_654,Lightning striking glacier in Patagonia,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_655,Octopus changing colors rapidly,low quality,2.5,deer, 'No illusion', 'deer', No illusion, 'octopus', The class of the animal in the picture is 'deer'.
+IllusionAnimals_656,"Sea meets forest, waves crash softly, sunlight filters through canopy",low quality,2.5,deer, The correct class is 'deer'., 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_657,Bear cub playing in wildflower meadow,low quality,2.5,deer, The correct class is 'bear'., 'No illusion', 'bear', 'bear', The class of the animal in the picture is 'deer'.
+IllusionAnimals_658,"Neon glow reflects off metallic river, towering robots glide silently above",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_659,A beautiful sunset at a beach with ocean waves,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_660,Black bear foraging berries in Canadian forests,low quality,2.5,deer, 'bear', 'deer', 'No illusion', 'bear', The class of the animal in the picture is 'deer'.
+IllusionAnimals_661,A charming cottage covered in ivy with a thatched roof,low quality,2.5,deer, No illusion, 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_662,Bear cub playing in wildflower meadow,low quality,2.5,deer, 'bear', 'deer', 'bear', 'bear', The class of the animal in the picture is 'deer'.
+IllusionAnimals_663,A mystical forest enchanted by swirling mist,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_664,Windswept dunes meet turquoise waves at sunset,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_665,Jellyfish undulating rhythmically,low quality,2.5,deer, 'deer', 'deer', No illusion, The correct class is: 'No illusion'., The class of the animal in the picture is 'deer'.
+IllusionAnimals_666,"Underwater city crafted from coral, bioluminescent creatures dance",low quality,2.5,deer, No illusion, 'deer', 'fish', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_667,A peaceful pagoda overlooking a serene pond,low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_668,Glittering icicles hanging precariously off ledge,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_669,A bear fishing in a river at sunset,low quality,2.5,deer, 'No illusion', 'deer', 'bear', 'bear', The class of the animal in the picture is 'deer'.
+IllusionAnimals_670,Elk bugling in crisp autumn air,low quality,2.5,deer, 'deer', 'deer', 'deer', 'deer', The class of the animal in the picture is 'deer'.
+IllusionAnimals_671,Male lion walking on a path in misty forest,low quality,2.5,deer, 'No illusion', 'deer', No illusion, 'lion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_672,A foggy forest with a single path,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_673,"Sun-soaked canyon carved by swirling river, vibrant walls reach skyward",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_674,"Sunset over calm ocean, with silhouette of palm trees",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_675,"Mountains embrace sparkling lake, sunlight paints ripples, forest glows faintly",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_676,A peaceful countryside scene with grazing cows and rolling hills,low quality,2.5,deer, 'deer', 'deer', No illusion, 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_677,"Gentle waves meet volcanic cliffs, stars twinkle above",low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_678,Swallows swooping low over tranquil pond,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_679,A majestic snow-capped mountain towering above a glacier,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_680,"Glowing sandstone cliffs illuminate desert canyon, shimmering sand dunes reflecting light",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_681,"Neon outlines of futuristic structures illuminate the sky, reflected in the river below",low quality,2.5,deer, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_682,"Ancient city emerges from forest depths, moonlight illuminates towering structures",low quality,2.5,deer, The correct class is 'deer'., 'deer', No illusion, No illusion, The class of the animal in the picture is 'deer'.
+IllusionAnimals_683,"Tropical river meets sandstone canyon, green vines climb towering walls",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_684,A Labor Day picnic spending quality time,low quality,2.5,deer, 'No illusion', 'deer', The correct class is 'dog'., 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_685,A spaceship descends towards a lush jungle planet,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_686,A snow-covered mountain peak piercing the clouds in a rugged wilderness,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_687,"Gentle waves meet volcanic cliffs, stars twinkle above",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_688,A mystical floating island in a sea of clouds,low quality,2.5,deer, The correct class is 'No illusion'., 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_689,Fox sneaking furtively through snowy forest,low quality,2.5,deer, No illusion, 'deer', No illusion, 'fox', The class of the animal in the picture is 'deer'.
+IllusionAnimals_690,Sunset over a calm tropical lake,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_691,"Vast desert expanse, towering sandstone pillars, shifting sands dance",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_692,A bear fishing in a river at sunset,low quality,2.5,deer, No illusion, 'deer', 'bear', 'bear', The class of the animal in the picture is 'deer'.
+IllusionAnimals_693,"Eerie desert town, skeletal structures cast long shadows under storm clouds",low quality,2.5,deer, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_694,A desert with a lake in the middle,low quality,2.5,deer, 'deer', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_695,"Neon reflections dance over futuristic cityscape, vibrant river flows below",low quality,2.5,deer, Horse., 'dog', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_696,Colorful coral reef teeming with exotic marine life,low quality,2.5,deer, The correct class is 'deer'., 'deer', 'fish', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_697,Snowy owl perched on frozen tree branch,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'owl', The class of the animal in the picture is 'deer'.
+IllusionAnimals_698,"Serene lake reflects snowy mountains, ice-covered trees dot surface like decorations",low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_699,A blissful yoga retreat nestled within tropical forests,low quality,2.5,deer, No illusion, 'deer', 'No illusion', 'No illusion', The class of the animal in the picture is 'deer'.
+IllusionAnimals_700,Komodo Dragon slithering stealthily,low quality,2.5,deer, 'No illusion', 'deer', 'No illusion', 'snake', The class of the animal in the picture is 'deer'.
+IllusionAnimals_701,A sunrise in the savanna,low quality,2.5,snake, 'No illusion', 'No illusion', 'elephant', 'elephant', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_702,Caracal leaping fluidly over rocky terrain,low quality,2.5,snake, No illusion, 'No illusion', cat, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_703,"Flowing lava illuminates cavern walls, ancient hieroglyphs etched into rock",low quality,2.5,snake, 'snake', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_704,A whimsical garden filled with oversized flowers,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_705,Sea turtle laying eggs on moonlit beach,low quality,2.5,snake, No illusion, 'No illusion', No illusion, 'turtle', The class of the animal in the picture is 'snake'.
+IllusionAnimals_706,Tranquil forest clearing with sunlight streaming through canopy,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_707,Ocean wave curling gracefully onto beach,low quality,2.5,snake, The correct class is 'No illusion'., 'snake', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_708,"Spherical ""blue holes"" in Bahamas coral reefs",low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_709,"A lone figure strolls along a moonlit beach, waves crashing softly",low quality,2.5,snake, 'snake', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_710,"A vibrant sunset paints the mountains in shades of gold, casting long shadows",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_711,Abandoned factory overlooking rusty train tracks bathed in neon light,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_712,"Golden light meets distant shores, river meets ocean waves, birds sing on silent shores",low quality,2.5,snake, No illusion, 'No illusion', 'pigeon', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_713,A charming cottage covered in ivy with a thatched roof,low quality,2.5,snake, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_714,"Neon river flowing through a futuristic city, reflecting towering structures",low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_715,"Golden meadow meets waterfall cascade, mountain silhouette looms",low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_716,Polar bear prowling icy terrain,low quality,2.5,snake, 'polar bear', 'No illusion', No illusion, 'polar bear', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_717,Octopus changing colors rapidly,low quality,2.5,snake, The correct class is 'No illusion'., 'No illusion', No illusion, 'octopus', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_718,A lonely cottage in autumn forest,low quality,2.5,snake, 'No illusion', 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_719,A foggy forest with a single path,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_720,Peaceful valley with young deer near a stream,low quality,2.5,snake, 'No illusion', 'No illusion', 'deer', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_721,Jackal trotting confidently through scrubland,low quality,2.5,snake, dog, 'No illusion', No illusion, 'dog', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_722,Birds singing harmoniously at dawn,low quality,2.5,snake, 'pigeon', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_723,"Serene meadow, wildflowers bloom, mountain range silhouettes the sky",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_724,"Serene lake reflects snowy mountains, ice-covered trees dot surface like decorations",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', Snake
+IllusionAnimals_725,A sunset on a beach with footprints in the sand,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'snake'.
+IllusionAnimals_726,"Gentle river reflects clouds above, mountain peaks rise in silhouette, birds fly silently",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'snake'.
+IllusionAnimals_727,A tropical island paradise with sandy beaches and crystal-clear waters,low quality,2.5,snake, The correct class is 'elephant'., 'snake', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_728,A futuristic space station orbiting Earth,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_729,"Sunset over calm ocean, with silhouette of palm trees",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_730,A field of sunflowers with a rainbow,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_731,"Ethereal light fills the forest, cascading through the leaves and illuminating hidden life",low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_732,"Sunbeams filter through forest canopy, river winds through valleys, birds chirp merrily",low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_733,Vibrant sunset over tranquil beach,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_734,A quaint seaside town with colorful fishing boats,low quality,2.5,snake, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'snake'.
+IllusionAnimals_735,A busy airport with planes taking off and landing,low quality,2.5,snake, 'No illusion', 'snake', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_736,"Vast fields of wildflowers embrace rolling hills, mountains rise in background, sunlight bathes the scene",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_737,Octopus changing colors rapidly,low quality,2.5,snake, The correct class is 'octopus'., 'snake', No illusion, 'octopus', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_738,Frozen tundra landscape with towering ice structures and aurora borealis lights,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_739,A rocky landscape with an ancient sword in the foreground,low quality,2.5,snake, 'No illusion', snake, No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_740,"Sunsets paint mountain peaks, serene lake below, peaceful reflection",low quality,2.5,snake, 'snake', snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_741,A starry night sky with a rocket ship blasting off towards a distant planet,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_742,A dragon flying over a snowy forest,low quality,2.5,snake, No illusion, 'snake', No illusion, 'dragon', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_743,A dark forest with a glowing mushroom,low quality,2.5,snake, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_744,Alpaca herding alongside Andean trails,low quality,2.5,snake, No illusion, 'snake', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_745,Manatee feeding placidly in warm seagrass beds,low quality,2.5,snake, The correct class is 'manatee'., 'snake', The correct class is 'manatee'., 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_746,"Mountain meets lake reflection, sunlight dances on ripples, birds flutter over water",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_747,A starry night sky with a crescent moon and silhouette of a tree,low quality,2.5,snake, 'No illusion', snake, 'No illusion', No illusion, The class of the animal in the picture is 'reptile'.
+IllusionAnimals_748,A peaceful lakeside campfire surrounded by friends and laughter,low quality,2.5,snake, No illusion, 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_749,A whimsical carnival with colorful rides and cotton candy,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_750,Lynx padding cautiously through coniferous woodland,low quality,2.5,snake, 'cat', 'No illusion', 'cat', 'cat', The class of the animal in the picture is 'snake'.
+IllusionAnimals_751,A bustling harbor with fishing boats and seagulls swooping overhead,low quality,2.5,snake, 'No illusion', snake, No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_752,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_753,A vast savannah dotted with grazing zebras,low quality,2.5,snake, 'No illusion', 'snake', 'zebra', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_754,Tranquil beach with clear water and white sand,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_755,A giant robot overlooking a city at night,low quality,2.5,snake, No illusion, snake, No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_756,"Eerie silence hangs over abandoned home, moon bathes decaying relics in silver light",low quality,2.5,snake, No illusion, 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_757,"A lone figure silhouetted against a star-studded night sky, reaching for the moon",low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'snake'.
+IllusionAnimals_758,Cypress-lined lake reflects moonlight over granite cliffs,low quality,2.5,snake, 'No illusion', snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_759,"Gentle river reflects clouds above, mountain peaks rise in silhouette, birds fly silently",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_760,Tranquil meadow with wildflowers and distant hills,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_761,Hummingbird drinking nectar,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_762,A tranquil valley with a babbling brook and blooming flowers,low quality,2.5,snake, 'snake', snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_763,Geese migrating southward in 'V' formation,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_764,A grand ballroom filled with elegantly dressed dancers,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_765,A meadow with flowers and butterflies,low quality,2.5,snake, 'butterfly', snake, 'butterfly', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_766,Glow-in-the-dark forest with luminous mushrooms and secret pathways,low quality,2.5,snake, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_767,A fantasy castle with a moat and drawbridge,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_768,City streets at night with rain,low quality,2.5,snake, No illusion, No illusion, No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_769,Bioluminescent bay glowing under starlit skies,low quality,2.5,snake, 'No illusion', snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_770,A bustling cityscape with skyscrapers reaching towards the sky,low quality,2.5,snake, No illusion, 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_771,A lonely house on the moonlit hill,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_772,A futuristic city with flying cars and towering skyscrapers,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'snake'.
+IllusionAnimals_773,"Ancient forest meets rocky coast, waves crash in whisperings tones",low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_774,A serene countryside blanketed in a field of blooming lavender,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_775,A majestic waterfall plunging into a rocky canyon,low quality,2.5,snake, 'No illusion', snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_776,Dolphin pod joyously riding wake,low quality,2.5,snake, No illusion, 'No illusion', No illusion, dolphin, The class of the animal in the picture is 'reptile'.
+IllusionAnimals_777,Male lion walking on a path in misty forest,low quality,2.5,snake, No illusion, snake, 'lion', 'lion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_778,A steampunk world powered by gears and clockworks,low quality,2.5,snake, No illusion, 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_779,A peaceful countryside scene with grazing sheep and rolling hills,low quality,2.5,snake, 'snake', snake, No illusion, 'sheep', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_780,"Mountains rise above a serene lake, sunlight reflecting on their reflective surfaces",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_781,A bustling harbor with ships coming and going,low quality,2.5,snake, 'No illusion', 'snake', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_782,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_783,A surrealist painting come to life,low quality,2.5,snake, No illusion, snake, No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_784,A sunrise in the savanna,low quality,2.5,snake, 'No illusion', 'horse', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_785,A grand castle perched atop a hill overlooking a medieval town,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_786,Snowy owl perched on frozen tree branch,low quality,2.5,snake, 'owl', 'No illusion', 'No illusion', 'owl', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_787,A peaceful field with a wooden fence and blooming flowers,low quality,2.5,snake, 'No illusion', snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_788,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_789,"A foggy forest with twisting, moss-covered trees",low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_790,Surreal Antelope Canyon slot canyons in Arizona,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_791,Shark fin slicing smoothly through deep blue sea,low quality,2.5,snake, The correct class is 'snake'., snake, No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_792,Fox sneaking furtively through snowy forest,low quality,2.5,snake, The correct class is 'No illusion'., snake, 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_793,Monitor Lizard scaling vertical tree trunk,low quality,2.5,snake, 'No illusion', 'No illusion', 'snake', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_794,"Eerie silence fills the ancient temple grounds, moonlight illuminating dusty statues",low quality,2.5,snake, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_795,A vast desert under the twilight sky,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_796,"Steam rises from meadow meadows, wildflowers bloom in vibrant hues, birds flutter",low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_797,A moonlit forest with fireflies dancing in the darkness,low quality,2.5,snake, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_798,A peaceful lake surrounded by snow capped mountains,low quality,2.5,snake, 'No illusion', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_799,"Gentle river reflects clouds above, mountain peaks rise in silhouette, birds fly silently",low quality,2.5,snake, 'snake', 'snake', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_800,A cave decorated with crystals and stalactites,low quality,2.5,snake, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'reptile'.
+IllusionAnimals_801,A solitary lighthouse on a stormy cliff,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_802,A fields of golden wheat swaying in the breeze under a blue sky,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_803,Rolling green hills dotted with grazing sheep under white clouds,low quality,2.5,fish, 'No illusion', 'fish', No illusion, 'No illusion', 'fish'
+IllusionAnimals_804,Two friends hiking on a mountain during sunset,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_805,"Snow-covered mountains, standing tall, reflect in frozen lake below",low quality,2.5,fish, The correct class is 'fish'., 'fish', 'No illusion', 'No illusion', The class of the picture is 'fish'.
+IllusionAnimals_806,"Coastal cliffs meet crashing waves, sunlight illuminates spray",low quality,2.5,fish, 'No illusion', 'No illusion', No illusion, No illusion, The class of the animal in the picture is 'fish'.
+IllusionAnimals_807,A lush jungle with waterfalls and towering mountains,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_808,A pink rose with green leaves,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_809,Magnolia tree in full bloom,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_810,"Neon lights dance on water wave, futuristic hovercraft glides above city",low quality,2.5,fish, No illusion, 'fish', No illusion, 'No illusion', 'fish'
+IllusionAnimals_811,"Glowing fungi illuminate cavern entrance, vines draped like curtains inside",low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_812,Komodo Dragon slithering stealthily,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'Komodo dragon', 'fish'
+IllusionAnimals_813,A rustic barn surrounded by rolling fields of sunflowers,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_814,A vast desert with dunes and a lone camel,low quality,2.5,fish, 'fish', 'fish', 'camel', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_815,A haunted mansion with crumbling walls and overgrown gardens,low quality,2.5,fish, The correct class is 'fish'., 'fish', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_816,Baby turtle emerging from its shell into ocean waves,low quality,2.5,fish, The correct class is 'fish'., 'fish', turtle, 'turtle', The class of the animal in the picture is 'fish'.
+IllusionAnimals_817,A serene river winding through a peaceful valley,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_818,A fantasy castle with a moat and drawbridge,low quality,2.5,fish, The correct class is 'fish'., fish, 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_819,Mountain goats traversing rugged terrain,low quality,2.5,fish, No illusion, 'dolphin', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_820,A peaceful garden with blooming cherry blossom trees,low quality,2.5,fish, 'No illusion', fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_821,A giant robot overlooking a city at night,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_822,"A lone figure silhouetted against a star-studded night sky, reaching for the moon",low quality,2.5,fish, The correct class is 'fish'., fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_823,"Vast desert expanse, towering sandstone pillars, shifting sands dance",low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_824,A peaceful field with a wooden fence and blooming flowers,low quality,2.5,fish, 'No illusion', 'fish', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_825,A lush meadow with wildflowers and butterflies,low quality,2.5,fish, 'butterfly', 'fish', 'butterfly', 'No illusion', 'fish'
+IllusionAnimals_826,A beautiful woman with long black hair and a red dress out in the park,low quality,2.5,fish, 'No illusion', Fish, 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_827,A starry night over a calm sea,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_828,Swallows swooping low over tranquil pond,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_829,Sea turtle laying eggs on moonlit beach,low quality,2.5,fish, No illusion, fish, No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_830,Desert canyon with towering rock formations illuminated by glowing sunlight,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the picture is 'fish'.
+IllusionAnimals_831,A starry night sky with a crescent moon and silhouette of a tree,low quality,2.5,fish, 'fish', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_832,Rainbow appearing after a summer rainstorm,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_833,Serene Japanese garden with cherry blossoms and koi pond,low quality,2.5,fish, 'fish', 'fish', 'fish', 'No illusion', 'fish'
+IllusionAnimals_834,A serene beach with a setting sun and a palm tree,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_835,Enchanting Northern Lights shimmering softly,low quality,2.5,fish, The correct class is 'fish'., 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_836,A foggy forest with a winding river,low quality,2.5,fish, 'No illusion', fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_837,A lighthouse amidst a green landscape with the sea behind,low quality,2.5,fish, 'No illusion', fish, 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_838,Black bear foraging berries in Canadian forests,low quality,2.5,fish, 'bear', 'fish', 'bear', 'bear', 'fish'
+IllusionAnimals_839,An ancient temple surrounded by lush vegetation,low quality,2.5,fish, No illusion, 'fish', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_840,A young boy playing in a field of sunflowers,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_841,A desert with a lake in the middle,low quality,2.5,fish, 'fish', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_842,A bustling marketplace with colorful stalls and people bartering,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_843,Moose wandering through serene woodland,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'deer', The class of the animal in the picture is 'fish'.
+IllusionAnimals_844,Frosted autumn leaf on fire-weed plant,low quality,2.5,fish, 'fish', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_845,Fox darting through pristine snow,low quality,2.5,fish, No illusion, 'fish', No illusion, 'fox', The class of the animal in the picture is 'fish'.
+IllusionAnimals_846,A tropical rainforest with cascading waterfalls,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_847,"Electrified waterfalls cascade, neon rivers reflect rainbow shades, luminous birds serenade",low quality,2.5,fish, 'No illusion', fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_848,Orca spyhopping curiously,low quality,2.5,fish, No illusion, fish, No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_849,"A lone boat floating on a tranquil lake, surrounded by lush greenery",low quality,2.5,fish, No illusion, 'fish', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_850,Tranquil pond in the forest surrounded by trees,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_851,"Sun washes over river's surface, birds soar through canyon glow, sunlight filters through trees",low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_852,A cloudy sky with a bolt of lightning striking a windmill,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_853,A lone hiker on a trail in the mountains,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_854,A dark forest with spooky trees,low quality,2.5,fish, No illusion, 'No illusion', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_855,A dreamlike floating island suspended in clouds,low quality,2.5,fish, The correct class is 'fish'., fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_856,A peaceful countryside scene with grazing sheep and rolling hills,low quality,2.5,fish, 'No illusion', 'fish', 'sheep', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_857,A beautiful sunset at a beach with ocean waves,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_858,A foggy forest with a winding river,low quality,2.5,fish, The correct class is 'fish'., 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_859,"Sunbeams filter through forest canopy, river winds through valleys, birds chirp merrily",low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_860,A snowy mountain peak under starry night sky,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_861,A surreal landscape with floating islands,low quality,2.5,fish, No illusion, fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_862,Jaguar (Panthera Onca) patrolling South American wetlands edge,low quality,2.5,fish, 'jaguar', 'fish', 'jaguar', 'cat', 'fish'
+IllusionAnimals_863,A starry night sky over a calm ocean,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_864,A mystical forest enchanted by swirling mist,low quality,2.5,fish, 'fish', fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_865,A vast savanna with a herd of elephants,low quality,2.5,fish, elephant, fish, elephant, 'elephant', The class of the animal in the picture is 'fish'.
+IllusionAnimals_866,Sparkling diamond dusting freshly fallen snow,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_867,An abandoned castle shrouded in mist atop a lonely hill,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_868,A tranquil lake surrounded by towering trees,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_869,A doe by a lake drinking water,low quality,2.5,fish, 'deer', 'fish', 'deer', 'No illusion', 'fish'
+IllusionAnimals_870,"Sun-soaked canyon carved by swirling river, vibrant walls reach skyward",low quality,2.5,fish, 'No illusion', fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_871,"A hazy sky reflects on a tranquil lake, moonlight bathing the surrounding mountains",low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_872,An ancient city in the desert,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_873,"Starlight spills over snow-covered mountains, lone cabin huddled in valley below",low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_874,Vast underwater world filled with colorful fish and glowing coral formations,low quality,2.5,fish, 'No illusion', 'No illusion', 'fish', 'No illusion', 'fish'
+IllusionAnimals_875,"Gentle waves reflect moonlight, illuminating underwater life in vibrant colors",low quality,2.5,fish, Fish, Fish, 'fish', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_876,A vast desert landscape with towering sand dunes,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_877,A lonely cottage in autumn forest,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_878,A glowing meadow with floating rocks and a waterfall,low quality,2.5,fish, 'No illusion', Fish, 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_879,A magical garden filled with talking animals and sparkling flowers,low quality,2.5,fish, 'fish', 'fish', No illusion, 'No illusion', 'fish'
+IllusionAnimals_880,A cozy bookstore with shelves overflowing with books,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_881,A small house near seashore,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_882,"Tropical forest meets cascading waterfall, turquoise river churns",low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_883,A rustic farm with cows grazing in a green pasture,low quality,2.5,fish, No illusion, 'fish', No illusion, 'cow', The class of the animal in the picture is 'fish'.
+IllusionAnimals_884,A misty forest clearing with sunlight filtering through the canopy,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_885,A tranquil valley with a babbling brook and blooming flowers,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_886,Tokyo city at night with Mount Fuji in the background,low quality,2.5,fish, The correct class is 'fish'., 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_887,"Golden light shines on island shores, waves gently lap the beach, birds sing their chorus",low quality,2.5,fish, The correct class is 'fish'., fish, 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_888,Golden wheat field swaying in gentle breeze,low quality,2.5,fish, 'No illusion', 'No illusion', 'No illusion', 'No illusion', The class of the object in the picture is 'fish'.
+IllusionAnimals_889,Rolling green hills dotted with grazing sheep under white clouds,low quality,2.5,fish, No illusion, fish, No illusion, 'No illusion', 'fish'
+IllusionAnimals_890,Fluffy cloud formation in robin egg blue sky,low quality,2.5,fish, 'elephant', 'No illusion', 'No illusion', 'No illusion', 'fish'
+IllusionAnimals_891,Tranquil forest with birds singing in the canopy,low quality,2.5,fish, No illusion, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_892,Urban city with skyscrapers and traffic,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_893,Playful otters frolicking in shallow rapids,low quality,2.5,fish, No illusion, Fish, No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_894,A tropical rainforest with cascading waterfalls,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_895,A joyous birthday celebration with candles and cake,low quality,2.5,fish, 'fish', 'fish', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_896,"Silent valley bathed in golden sunlight, river meanders below",low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_897,A snow-capped mountain reflected in a crystal-clear lake,low quality,2.5,fish, 'No illusion', 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_898,A golden sunset over a vast savanna with roaming wildlife,low quality,2.5,fish, The correct class is 'fish'., 'fish', 'elephant', 'elephant', The class of the animal in the picture is 'fish'.
+IllusionAnimals_899,A serene temple high in the misty mountains,low quality,2.5,fish, No illusion, 'fish', No illusion, 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_900,Bright bioluminescent plankton lighting up the shoreline,low quality,2.5,fish, No illusion, 'fish', 'No illusion', 'No illusion', The class of the animal in the picture is 'fish'.
+IllusionAnimals_901,A serene beach with a colorful sunset,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_902,"Sunrise paints mountains golden, river meanders through valleys, birds sing in harmony",low quality,2.5,rooster, rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_903,"Sun shines on river's gentle flow, mountains reflect in patterns below, birds sing in silent glow",low quality,2.5,rooster, 'No illusion', 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_904,An ancient castle perched on a cliff overlooking the sea,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_905,A bear fishing in a river at sunset,low quality,2.5,rooster, 'No illusion', rooster, 'bear', 'bear', 'rooster'
+IllusionAnimals_906,"Swirling nebula draped in stars, futuristic spaceships distant",low quality,2.5,rooster, rooster, 'No illusion', 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_907,A futuristic city with skyscrapers and flying cars,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_908,Tropical storm forming off distant Caribbean island,low quality,2.5,rooster, rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_909,"Ancient tree branches reach towards the sky, sunlight filtering through creating intricate patterns",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_910,Coral reef teeming with life,low quality,2.5,rooster, rooster, rooster, 'fish', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_911,A classic car driving along a coastal highway,low quality,2.5,rooster, No illusion, rooster, No illusion, 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_912,"Forest stream meets rocky falls, sunlight filters through canopy",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_913,A serene forest with a twinkling stream,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', No illusion, 'rooster'
+IllusionAnimals_914,"Starlight spills over snow-covered mountains, lone cabin huddled in valley below",low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_915,"Ghostly figures haunting a derelict library, lit by candlelight",low quality,2.5,rooster, 'rooster', 'rooster', No illusion, 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_916,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_917,A field of sunflowers with bees collecting pollen from the blooms,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_918,"Vibrant fields of sunflowers stretching endlessly, glowing sun setting over hills",low quality,2.5,rooster, rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_919,Vibrant hot air balloons floating over green hills,low quality,2.5,rooster, Rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_920,A peaceful pagoda overlooking a serene pond,low quality,2.5,rooster, No illusion, rooster, No illusion, 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_921,A snowy tundra with polar bears and northern lights,low quality,2.5,rooster, rooster, rooster, No illusion, 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_922,A cozy cafe with steaming cups of coffee and pastries,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', No illusion, 'rooster'
+IllusionAnimals_923,A cozy cabin nestled in the midst of a pine forest,low quality,2.5,rooster, The correct class is 'No illusion'., 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_924,"Ancient city emerges from desert sands, towering structures reach for the sky",low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_925,Starship floating over a futuristic city,low quality,2.5,rooster, 'No illusion', rooster, No illusion, 'No illusion', 'rooster'
+IllusionAnimals_926,"A forgotten boat rests beneath the waves, sunlight illuminating its weathered hull",low quality,2.5,rooster, No illusion, rooster, No illusion, 'No illusion', 'rooster'
+IllusionAnimals_927,A bustling harbor with ships coming and going,low quality,2.5,rooster, rooster, rooster, No illusion, 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_928,Deer grazing in misty morning forest,low quality,2.5,rooster, 'deer', rooster, The correct class is 'deer'., 'deer', 'rooster'
+IllusionAnimals_929,A snowy mountain peak under starry night sky,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_930,A peaceful meadow with a rainbow stretching across the sky,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_931,"Embraced by moonlight, ancient city walls glow with a soft, luminescent light",low quality,2.5,rooster, The correct class is 'No illusion'., rooster, 'No illusion', No illusion, 'rooster'
+IllusionAnimals_932,A tranquil park with a babbling brook,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_933,A lighthouse amidst a green landscape with the sea behind,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_934,A lush meadow under a starry sky,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', No illusion, 'rooster'
+IllusionAnimals_935,A field of wild lupine flowers stretching out to the horizon,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_936,A sunny meadow with purple flowers and green grass,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_937,A peaceful village nestled in the rolling hills,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_938,"Snow-covered mountains, standing tall, reflect in frozen lake below",low quality,2.5,rooster, 'No illusion', 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_939,Sunbeams illuminate a cascade of water falling over a majestic rock formation,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_940,A hauntingly beautiful graveyard shrouded in fog,low quality,2.5,rooster, Rooster, 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_941,"Sun sets over vibrant meadow, casting long shadows on rolling hills",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_942,Jaguar lurking silently in shadowy brush,low quality,2.5,rooster, 'jaguar', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_943,A dense fog rolling over a dark and mysterious forest,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_944,Wolf pack howling at full moon,low quality,2.5,rooster, No illusion, rooster, No illusion, No illusion, 'rooster'
+IllusionAnimals_945,A bustling marketplace with colorful stalls and vibrant street food vendors,low quality,2.5,rooster, No illusion, rooster, No illusion, 'No illusion', 'rooster'
+IllusionAnimals_946,A misty moor shrouded in fog with mysterious standing stones,low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_947,"Mist-covered mountains shrouded in ancient forest, sunlight filters through leaves",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_948,A charming European town square bathed in warm light,low quality,2.5,rooster, No illusion, rooster, No illusion, 'No illusion', 'rooster'
+IllusionAnimals_949,A steampunk world powered by gears and clockworks,low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_950,A cozy cottage nestled in a snow-covered forest,low quality,2.5,rooster, No illusion, rooster, No illusion, No illusion, 'rooster'
+IllusionAnimals_951,A solitary lighthouse on a stormy cliff,low quality,2.5,rooster, No illusion, 'rooster', 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_952,"Vast expanse meets mountain sky, river meets ocean waves, sunlight paints joyous hues",low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_953,A fields of golden wheat swaying in the breeze under a blue sky,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_954,"Neon glow illuminates futuristic robot, star spackling behind glowing eyes",low quality,2.5,rooster, The correct class is 'No illusion'., 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_955,A bustling train station with passengers rushing to catch their trains,low quality,2.5,rooster, No illusion, 'rooster', No illusion, No illusion, The class of the picture is 'rooster'.
+IllusionAnimals_956,A Holi Festival of Colors splashing happiness,low quality,2.5,rooster, 'No illusion', 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_957,"A lone figure silhouetted against a star-studded night sky, reaching for the moon",low quality,2.5,rooster, Rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_958,"Starlight spills over snow-covered mountains, lone cabin huddled in valley below",low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_959,A distant planet with purple trees and three moons,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_960,A mysterious cave entrance hidden behind a waterfall,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_961,"Eerie silence surrounds abandoned temple, glow of sunrise illuminates crumbling walls",low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_962,A surrealist painting come to life,low quality,2.5,rooster, Rooster, rooster, No illusion, 'No illusion', 'rooster'
+IllusionAnimals_963,A sunny meadow with purple flowers and green grass,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_964,Mountain goats traversing rugged terrain,low quality,2.5,rooster, No illusion, rooster, The correct class is 'No illusion'., 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_965,"Vast forest meets mountain peaks, sunlight filters through canopy secrets, birds sing in rhythmic streaks",low quality,2.5,rooster, No illusion, rooster, 'No illusion', No illusion, 'rooster'
+IllusionAnimals_966,"Emerald valley with distant, snow-capped mountains",low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_967,A majestic waterfall cascading down into a crystal clear pool,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_968,"Ethereal light fills the forest, cascading through the leaves and illuminating hidden life",low quality,2.5,rooster, The correct class is 'No illusion'., rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_969,"Eerie silence surrounds abandoned temple, glow of sunrise illuminates crumbling walls",low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_970,A joyous birthday celebration with candles and cake,low quality,2.5,rooster, 'No illusion', 'rooster', No illusion, 'No illusion', 'rooster'
+IllusionAnimals_971,A doe by a lake drinking water,low quality,2.5,rooster, The correct class is 'deer'., 'rooster', 'deer', 'deer', 'rooster'
+IllusionAnimals_972,A rustic farmhouse surrounded by fields of wheat,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_973,"A majestic sunrise illuminates the mountains, casting long shadows over valleys below",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_974,A vast desert with a distant city,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_975,A busy marketplace filled with colorful stalls,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_976,A haunted mansion with crumbling walls and overgrown gardens,low quality,2.5,rooster, No illusion, rooster, The correct class is 'No illusion'., 'No illusion', 'rooster'
+IllusionAnimals_977,A quaint village nestled in the rolling green hills of the countryside,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', The class of the animal in the picture is 'rooster'.
+IllusionAnimals_978,A sunflower field with a clear blue sky and fluffy clouds,low quality,2.5,rooster, 'rooster', 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_979,Wildflower superbloom covering Californian desert,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_980,"Sunbeams pierce dark forest depths, river flow washes over rocks, birds call from branches",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_981,A refreshing oasis amidst vast desert sands,low quality,2.5,rooster, 'No illusion', 'rooster', 'No illusion', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_982,"Ancient forest meets rocky coast, waves crash in whisperings tones",low quality,2.5,rooster, No illusion, rooster, No illusion, 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_983,Fluffy cloud formation in robin egg blue sky,low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_984,A whimsical garden filled with oversized flowers,low quality,2.5,rooster, 'rooster', rooster, No illusion, 'No illusion', 'rooster'
+IllusionAnimals_985,A lush rainforest with cascading waterfalls,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_986,A mystical cave entrance shrouded in darkness,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_987,A serene lakeside with a wooden dock and lush green trees,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_988,A grand ballroom filled with elegant dancers in lavish attire,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_989,Snow-capped mountains reflecting in a crystal-clear lake,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_990,Buffalo thundering across Great Plains,low quality,2.5,rooster, No illusion, rooster, 'bison', 'bison', 'rooster'
+IllusionAnimals_991,A misty forest shrouded in ancient trees and tangled vines,low quality,2.5,rooster, Rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_992,A vibrant coral reef teeming with colorful fish,low quality,2.5,rooster, rooster, rooster, 'fish', 'No illusion', The class of the picture is 'rooster'.
+IllusionAnimals_993,A rustic barn surrounded by rolling fields of sunflowers,low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_994,Moon setting behind rolling sand dunes in early dawn light,low quality,2.5,rooster, No illusion, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_995,A dramatic thunderstorm with lightning striking in the distance,low quality,2.5,rooster, 'rooster', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_996,Saharan sandstorm turning daytime into darkness,low quality,2.5,rooster, 'rooster', 'rooster', 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_997,Urban city with skyscrapers and traffic,low quality,2.5,rooster, Rooster, rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_998,A serene meadow with wildflowers and butterflies,low quality,2.5,rooster, 'butterfly', rooster, 'No illusion', 'No illusion', 'rooster'
+IllusionAnimals_999,Elk bugling in crisp autumn air,low quality,2.5,rooster, 'No illusion', rooster, 'deer', 'deer', 'rooster'
+IllusionAnimals_1000,"Misty waterfall cascading, mossy rocks glow, sunlight filters through",low quality,2.5,rooster, 'No illusion', rooster, 'No illusion', 'No illusion', 'rooster'
