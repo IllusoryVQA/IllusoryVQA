@@ -1,0 +1,111 @@
+,image_name,Pprompt,Nprompt,illusion_strength,label,gpt-4o
+66,Mnist_67,A bustling marketplace filled with exotic spices and fabrics,low quality,1.5,6,No illusion
+878,Mnist_879,Sandy dunes meet turquoise seas under a stormy sky,low quality,1.5,8,'No illusion'
+988,Mnist_989,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,1.5,1,"error, You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']."
+30,Mnist_31,A rocky desert landscape with towering sand dunes and a blazing sun.,low quality,1.5,3,No illusion
+422,Mnist_423,A sunset by the mountains,low quality,1.5,9,No illusion
+947,Mnist_948,Swirling vortex of light and shadows over a deserted city,low quality,1.5,8,'digit 2'
+1006,Mnist_1007,Sea turtle laying eggs on moonlit beach,low quality,1.5,7,No illusion
+568,Mnist_569,A peaceful sunset over the lake with mountains and trees,low quality,1.5,6,No illusion
+328,Mnist_329,"Whipped cream dream swirls around ballerina, city lights twinkle like stars",low quality,1.5,7,'No illusion'
+70,Mnist_71,A bustling harbor with ships coming and going.,low quality,1.5,7,No illusion
+1066,Mnist_1067,Osprey dive-bombing for fish in wetlands,low quality,1.5,0,No illusion
+1003,Mnist_1004,"Sun sets over volcanic mountains, glowing lava reflects on river surface",low quality,1.5,5,'digit 1'
+671,Mnist_672,"Silent mountains reflecting in a serene lake, sunlight filtering through falling leaves",low quality,1.5,9,No illusion
+155,Mnist_156,A serene lake surrounded by lush green forests,low quality,1.5,5,'No illusion'
+511,Mnist_512,Leopard lounging in tree branches,low quality,1.5,4,No illusion
+739,Mnist_740,A cozy cafe with steaming cups of coffee and pastries,low quality,1.5,5,No illusion
+91,Mnist_92,A moonlit beach with gentle waves lapping at the shore,low quality,1.5,6,'No illusion'
+860,Mnist_861,"Ancient temple engulfed by dense, dark jungle",low quality,1.5,6,No illusion
+284,Mnist_285,A field of sunflowers stretching as far as the eye can see,low quality,1.5,9,'No illusion'
+727,Mnist_728,A colorful meadow with a flowing river and vibrant hot air balloons,low quality,1.5,3,No illusion
+781,Mnist_782,A rocky desert landscape with cacti and tumbleweeds,low quality,1.5,8,No illusion
+862,Mnist_863,A lush tropical rainforest echoing with the sounds of wildlife,low quality,1.5,9,No illusion
+580,Mnist_581,"Spiral staircase ascends tree-covered hill, sunlight filters through leaves in golden rays",low quality,1.5,8,No illusion
+537,Mnist_538,Rhinos charging through savannah,low quality,1.5,1,'No illusion'
+935,Mnist_936,A serene lake reflecting the fiery colors of a setting sun,low quality,1.5,5,No illusion
+357,Mnist_358,A winding river snaking through a lush green landscape,low quality,1.5,1,'digit 2'
+620,Mnist_621,"A vibrant forest glows with bioluminescent light, revealing glowing mushrooms and paths",low quality,1.5,0,No illusion
+742,Mnist_743,A girl with a cat and a dog in front of a beach,low quality,1.5,0,No illusion
+272,Mnist_273,Colorful tents dotting a music festival campground,low quality,1.5,1,'No illusion'
+490,Mnist_491,Cougar (Puma) surveying territory from lofty vantage point,low quality,1.5,0,No illusion
+900,Mnist_901,A tranquil zen garden with raked sand and bonsai trees,low quality,1.5,1,'No illusion'
+768,Mnist_769,A girl with brown hair wearing a black dress standing in a field of flowers,low quality,1.5,1,No illusion
+90,Mnist_91,A peaceful countryside scene with grazing sheep and rolling hills,low quality,1.5,3,No illusion
+8,Mnist_9,A colorful hot air balloon floating over a patchwork landscape.,low quality,1.5,5,No illusion
+482,Mnist_483,A futuristic city with flying cars and towering skyscrapers,low quality,1.5,7,No illusion
+274,Mnist_275,An otherworldly aurora borealis dancing in the night sky,low quality,1.5,9,'No illusion'
+399,Mnist_400,A peaceful summer night countryside landscape with sunflowers,low quality,1.5,4,No illusion
+1098,Mnist_1099,"Whipped cream clouds engulf castle ruins, sunlight pierces through gaps in stone",low quality,1.5,5,'No illusion'
+749,Mnist_750,"Ancient trees reach for the stars, sunlight filters through branches, river flows silently",low quality,1.5,1,'digit 0'
+491,Mnist_492,A sunny meadow with purple flowers and green grass,low quality,1.5,5,No illusion
+643,Mnist_644,Two friends hiking on a mountain during sunset,low quality,1.5,2,No illusion
+922,Mnist_923,"Crystal river cuts through granite canyon, sunlight reflects off water, rainbow emerges",low quality,1.5,2,No illusion
+892,Mnist_893,A tranquil lake surrounded by snow-capped mountains,low quality,1.5,2,'digit 6'
+962,Mnist_963,A winter wonderland of sparkling snowflakes,low quality,1.5,9,'No illusion'
+133,Mnist_134,A snow-covered mountain peak piercing the clouds in a rugged wilderness.,low quality,1.5,7,No illusion
+664,Mnist_665,"A vibrant sunset paints the desert landscape, casting long shadows over the towering dunes",low quality,1.5,8,'No illusion'
+1027,Mnist_1028,"Glowing fungi illuminate cavern entrance, vines draped like curtains inside",low quality,1.5,1,No illusion
+320,Mnist_321,Soothing willow tree weeping delicately,low quality,1.5,9,'No illusion'
+459,Mnist_460,A victorian-era tea party set in idyllic countryside,low quality,1.5,0,No illusion
+845,Mnist_846,Tranquil lake in a forest with snow capped mountains,low quality,1.5,0,No illusion
+488,Mnist_489,A spaceship flying through a wormhole,low quality,1.5,9,No illusion
+75,Mnist_76,A field of lavender with bees buzzing around the fragrant flowers.,low quality,1.5,7,'No illusion'
+65,Mnist_66,A serene meadow dotted with blooming wildflowers,low quality,1.5,4,'No illusion'
+1017,Mnist_1018,A dark alleyway with neon lights and graffiti,low quality,1.5,6,'No illusion'
+616,Mnist_617,A field of sunflowers with bees collecting pollen from the blooms,low quality,1.5,9,'No illusion'
+147,Mnist_148,A snowy mountain peak reflecting the light of dawn,low quality,1.5,2,'No illusion'
+1092,Mnist_1093,A quaint village covered in a blanket of snow,low quality,1.5,6,'No illusion'
+165,Mnist_166,A serene meadow covered in a blanket of wildflowers under the moonlight.,low quality,1.5,5,'No illusion'
+306,Mnist_307,A sunset at the ocean with a palm tree,low quality,1.5,2,No illusion
+787,Mnist_788,A historical monument honoring great leaders,low quality,1.5,8,'No illusion'
+766,Mnist_767,Morning dew droplets hanging on spider web,low quality,1.5,5,'No illusion'
+231,Mnist_232,An alien landscape with strange rock formations and glowing plants.,low quality,1.5,3,No illusion
+197,Mnist_198,A picturesque vineyard at sunset with the sky painted in hues.,low quality,1.5,6,'No illusion'
+904,Mnist_905,"Forest stream meets rocky falls, sunlight filters through canopy",low quality,1.5,0,No illusion
+340,Mnist_341,Snowy mountain landscape with a frozen lake,low quality,1.5,5,No illusion
+391,Mnist_392,A steamy jungle with lush foliage and exotic wildlife,low quality,1.5,8,No illusion
+714,Mnist_715,A Memorial Day barbecue sharing good food,low quality,1.5,8,No illusion
+887,Mnist_888,A tranquil pond with lily pads and colorful koi fish,low quality,1.5,3,'No illusion'
+848,Mnist_849,A breathtaking hot air balloon ride over vineyards,low quality,1.5,1,'No illusion'
+912,Mnist_913,"Mountain meets lake reflection, sunlight dances on ripples, birds flutter over water",low quality,1.5,3,No illusion
+502,Mnist_503,Snowy owl perched on frozen tree branch,low quality,1.5,5,'digit 8'
+562,Mnist_563,A sunset over a golden wheat field,low quality,1.5,9,'digit 7'
+293,Mnist_294,A bustling street market with vendors selling exotic spices and textiles,low quality,1.5,2,No illusion
+1068,Mnist_1069,A hidden cave entrance obscured by overgrown vines and moss,low quality,1.5,8,No illusion
+365,Mnist_366,A futuristic city with skyscrapers and flying cars,low quality,1.5,0,No illusion
+244,Mnist_245,A spooky graveyard with mist swirling around old tombstones.,low quality,1.5,2,'No illusion'
+546,Mnist_547,A charming vineyard with rows of grapevines stretching towards the horizon,low quality,1.5,0,'No illusion'
+933,Mnist_934,A majestic bridge spanning a wide river,low quality,1.5,3,No illusion
+619,Mnist_620,**Scene:** A tranquil valley with a winding river and lush greenery,low quality,1.5,1,'No illusion'
+337,Mnist_338,A snowy forest with deer grazing on the fresh white snow,low quality,1.5,7,'No illusion'
+356,Mnist_357,A bustling marketplace with colorful stalls and vibrant street food vendors,low quality,1.5,5,'No illusion'
+360,Mnist_361,Peacocks strutting proudly,low quality,1.5,4,'No illusion'
+983,Mnist_984,Double rainbow arching over flooded rice terraces,low quality,1.5,8,'No illusion'
+711,Mnist_712,A serene forest with a twinkling stream,low quality,1.5,5,No illusion
+890,Mnist_891,Foggy graveyard with crooked tombstones under moonlight,low quality,1.5,3,No illusion
+458,Mnist_459,A dense forest with lofty mountains and a meandering river,low quality,1.5,8,No illusion
+10,Mnist_11,A bustling city street filled with colorful shops and pedestrians.,low quality,1.5,0,No illusion
+89,Mnist_90,A sunflower maze stretching as far as the eye can see.,low quality,1.5,1,'digit 2'
+679,Mnist_680,Palm fringed beach paradise,low quality,1.5,7,No illusion
+654,Mnist_655,Mesmerizing Milky Way galaxy twinkling brightly,low quality,1.5,5,'digit 3'
+496,Mnist_497,A futuristic city with skyscrapers and flying cars,low quality,1.5,9,No illusion
+163,Mnist_164,An abandoned castle looming over a stormy sea,low quality,1.5,4,No illusion
+536,Mnist_537,A serene meadow with wildflowers and a gentle breeze,low quality,1.5,2,No illusion
+917,Mnist_918,A serene lake surrounded by lush green forests,low quality,1.5,7,No illusion
+829,Mnist_830,"A lone astronaut floats through space, constellations forming a majestic path",low quality,1.5,4,'No illusion'
+324,Mnist_325,Golden wheat field swaying in gentle breeze,low quality,1.5,0,'No illusion'
+799,Mnist_800,An abandoned castle looming over a stormy sea,low quality,1.5,2,No illusion
+1015,Mnist_1016,A colorful coral reef teeming with diverse marine life,low quality,1.5,4,No illusion
+494,Mnist_495,A cheerful family reunion bringing loved ones together,low quality,1.5,7,No illusion
+1075,Mnist_1076,Tranquil meadow with wildflowers and distant hills,low quality,1.5,5,No illusion
+556,Mnist_557,"Neon rays illuminate a futuristic city, reflecting off robots and sleek structures",low quality,1.5,4,'No illusion'
+1065,Mnist_1066,Aurora borealis dancing above Arctic Circle,low quality,1.5,8,'No illusion'
+1023,Mnist_1024,A peaceful rice terrace overlooking a tranquil valley,low quality,1.5,4,No illusion
+128,Mnist_129,A serene temple high in the misty mountains.,low quality,1.5,8,No illusion
+1002,Mnist_1003,A verdant jungle with towering mountains and a winding river,low quality,1.5,2,No illusion
+945,Mnist_946,A field of sunflowers with a rainbow,low quality,1.5,2,'No illusion'
+821,Mnist_822,A dragon flying over a snowy forest,low quality,1.5,0,'No illusion'
+278,Mnist_279,A futuristic space station orbiting Earth,low quality,1.5,2,'No illusion'
+861,Mnist_862,Colorful coral reef teeming with exotic marine life,low quality,1.5,6,No illusion
+1108,Mnist_1109,A steampunk world powered by gears and clockworks,low quality,1.5,9,'digit 3'
