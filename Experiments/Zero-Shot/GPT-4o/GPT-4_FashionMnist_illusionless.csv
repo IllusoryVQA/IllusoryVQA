@@ -1,0 +1,116 @@
+,image_name,Pprompt,Nprompt,illusion_strength,label,gpt-4o
+66,FashionMnist_67,"Dense forest canopy, sunlight filters through, river winds through valleys",low quality,1.5,2,No illusion
+878,FashionMnist_879,"Gentle waves reflect moonlight, illuminating underwater life in vibrant colors",low quality,1.5,3,'No illusion'
+988,FashionMnist_989,A lush rainforest with cascading waterfalls,low quality,1.5,6,No illusion
+30,FashionMnist_31,A sunset over a vast desert with sand dunes and a lone camel,low quality,1.5,8,No illusion
+422,FashionMnist_423,A magical garden filled with talking animals and sparkling flowers,low quality,1.5,8,No illusion
+947,FashionMnist_948,A tranquil lake surrounded by towering trees,low quality,1.5,6,No illusion
+1006,FashionMnist_1007,A magnificent sunset over the ocean with sailboats,low quality,1.5,5,No illusion
+568,FashionMnist_569,A vibrant music festival brimming with energy,low quality,1.5,8,No illusion
+328,FashionMnist_329,A classic car driving along a coastal highway,low quality,1.5,7,No illusion
+70,FashionMnist_71,A peaceful lake surrounded by snow capped mountains,low quality,1.5,7,No illusion
+1066,FashionMnist_1067,A charming cottage covered in ivy with a thatched roof,low quality,1.5,8,No illusion
+1003,FashionMnist_1004,"Neon glow fills abandoned factory, dust swirling in forgotten hallways",low quality,1.5,5,'No illusion'
+671,FashionMnist_672,A festive carnival with bright lights and merry-go-rounds,low quality,1.5,7,No illusion
+155,FashionMnist_156,A tranquil Zen garden with raked sand and stone sculptures,low quality,1.5,0,No illusion
+511,FashionMnist_512,A peaceful cabin under a cliff overlooking a lake,low quality,1.5,2,No illusion
+739,FashionMnist_740,Wisteria draped elegantly over arbor,low quality,1.5,3,No illusion
+91,FashionMnist_92,A sunset over a golden wheat field,low quality,1.5,3,'No illusion'
+860,FashionMnist_861,A colorful meadow with a flowing river and vibrant hot air balloons,low quality,1.5,6,No illusion
+284,FashionMnist_285,A lonely cottage in autumn forest,low quality,1.5,0,No illusion
+727,FashionMnist_728,"Gentle river reflects clouds above, mountain peaks rise in silhouette, birds fly silently",low quality,1.5,4,No illusion
+781,FashionMnist_782,"Vast, moonlit desert with faraway stars in the sky",low quality,1.5,2,No illusion
+862,FashionMnist_863,A Guru Nanak Jayanti langar serving equality,low quality,1.5,7,No illusion
+580,FashionMnist_581,Eerie hospital corridor with shattered glass and flickering lights,low quality,1.5,7,'No illusion'
+537,FashionMnist_538,An alien landscape with strange rock formations and glowing plants,low quality,1.5,9,No illusion
+935,FashionMnist_936,A fantastical kingdom ruled by mermaids,low quality,1.5,4,No illusion
+357,FashionMnist_358,"Ancient tree branches reach towards the sky, sunlight filtering through creating intricate patterns",low quality,1.5,4,No illusion
+620,FashionMnist_621,A thunderstorm brewing over a field of wildflowers,low quality,1.5,2,'No illusion'
+742,FashionMnist_743,"Sunbeams peek through canopy leaves, river whispers secrets in the wind, birds dance in harmonious circles",low quality,1.5,1,No illusion
+272,FashionMnist_273,Urban city with skyscrapers and traffic,low quality,1.5,0,No illusion
+490,FashionMnist_491,Tranquil forest clearing with sunlight streaming through canopy,low quality,1.5,3,No illusion
+900,FashionMnist_901,A quaint village covered in a blanket of snow,low quality,1.5,8,No illusion
+768,FashionMnist_769,A field of lavender with bees buzzing around the fragrant flowers,low quality,1.5,8,No illusion
+90,FashionMnist_91,A magnificent sunset over the ocean with sailboats,low quality,1.5,5,No illusion
+8,FashionMnist_9,"Gentle waves lap sandy shores, reflecting moonlight in sparkling patterns",low quality,1.5,5,No illusion
+482,FashionMnist_483,Volcanic landscape with flowing lava and levitating plants,low quality,1.5,3,'No illusion'
+274,FashionMnist_275,A girl playing volleyball on a beach,low quality,1.5,3,'T-shirt/top'
+399,FashionMnist_400,"A beautiful white swan , in a blue lake with lily pads",low quality,1.5,2,No illusion
+1098,FashionMnist_1099,Tranquil beach with clear water and white sand,low quality,1.5,5,No illusion
+749,FashionMnist_750,A hauntingly beautiful graveyard shrouded in fog,low quality,1.5,7,'No illusion'
+491,FashionMnist_492,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,4,No illusion
+643,FashionMnist_644,Curious squirrel climbing up tree trunk,low quality,1.5,4,No illusion
+1124,FashionMnist_1125,A picturesque vineyard at sunset with the sky painted in hues,low quality,1.5,0,No illusion
+922,FashionMnist_923,A field of lavender with bees buzzing around the fragrant flowers,low quality,1.5,8,No illusion
+892,FashionMnist_893,A serene beach with a setting sun and a palm tree,low quality,1.5,9,'No illusion'
+962,FashionMnist_963,A spooky graveyard with mist swirling around old tombstones,low quality,1.5,9,'No illusion'
+133,FashionMnist_134,Frosted autumn leaf on fire-weed plant,low quality,1.5,1,'No illusion'
+664,FashionMnist_665,A fascinating archaeological dig site unearthing ancient artifacts,low quality,1.5,6,'No illusion'
+1027,FashionMnist_1028,"A serene lake reflects the stars, glowing mountains casting shadow on the surface",low quality,1.5,5,No illusion
+320,FashionMnist_321,A charming vineyard with rows of grapevines stretching towards the horizon,low quality,1.5,8,No illusion
+459,FashionMnist_460,A Labor Day picnic spending quality time,low quality,1.5,6,No illusion
+845,FashionMnist_846,A spooky graveyard with mist swirling around old tombstones,low quality,1.5,7,No illusion
+488,FashionMnist_489,Turquoise lagoon shaded by palms,low quality,1.5,0,No illusion
+75,FashionMnist_76,A majestic bald eagle soaring overhead,low quality,1.5,3,No illusion
+65,FashionMnist_66,A forest with tall trees and a flowing river,low quality,1.5,1,No illusion
+1017,FashionMnist_1018,African wild dog hunting impala,low quality,1.5,9,'No illusion'
+616,FashionMnist_617,A castle on a hill overlooking a village,low quality,1.5,0,No illusion
+147,FashionMnist_148,A majestic iceberg floating in a frigid arctic sea,low quality,1.5,6,'No illusion'
+1092,FashionMnist_1093,"Whirlwind of ice crystals, frozen waterfall cascades over towering rock",low quality,1.5,5,'No illusion'
+165,FashionMnist_166,"A cascading waterfall illuminates the canyon with glowing light, shadow dancing over rocks",low quality,1.5,9,No illusion
+306,FashionMnist_307,"Snow-covered mountains, standing tall, reflect in frozen lake below",low quality,1.5,2,No illusion
+787,FashionMnist_788,A steamy jungle with lush foliage and exotic wildlife,low quality,1.5,1,No illusion
+766,FashionMnist_767,Tranquil beach with clear water and white sand,low quality,1.5,3,No illusion
+231,FashionMnist_232,A mystical forest enchanted by swirling mist,low quality,1.5,8,No illusion
+197,FashionMnist_198,Tranquil beach with clear water and white sand,low quality,1.5,3,'No illusion'
+904,FashionMnist_905,A captivating circus performance beneath big top tent,low quality,1.5,6,'Dress'
+340,FashionMnist_341,A starry night above a calm sea with mountains,low quality,1.5,4,No illusion
+391,FashionMnist_392,A peaceful garden with blooming cherry blossom trees,low quality,1.5,4,No illusion
+714,FashionMnist_715,A peaceful sunrise over a calm sea,low quality,1.5,0,No illusion
+887,FashionMnist_888,A delightful puppet show entertaining young audiences,low quality,1.5,3,No illusion
+848,FashionMnist_849,A secluded cabin nestled in a snowy forest,low quality,1.5,9,No illusion
+912,FashionMnist_913,Magenta sunrise greeting hopeful dawn,low quality,1.5,5,No illusion
+502,FashionMnist_503,Lightning striking glacier in Patagonia,low quality,1.5,5,'No illusion'
+562,FashionMnist_563,"Gentle waves lap rocky beach, seagulls soar above, salty air fills the scent",low quality,1.5,6,'No illusion'
+293,FashionMnist_294,A rustic barn surrounded by rolling fields of sunflowers,low quality,1.5,6,No illusion
+1068,FashionMnist_1069,A sunny vineyard with rows of ripe grapes,low quality,1.5,9,No illusion
+365,FashionMnist_366,A mystical cave illuminated by glowing crystals,low quality,1.5,7,No illusion
+244,FashionMnist_245,Lenticular clouds hovering above Andean peaks,low quality,1.5,6,'No illusion'
+546,FashionMnist_547,"Abandoned laboratory, scientific symbols floating in the air",low quality,1.5,2,No illusion
+933,FashionMnist_934,Urban city with skyscrapers and traffic,low quality,1.5,4,No illusion
+619,FashionMnist_620,A secret garden hidden behind a hidden door in a wall,low quality,1.5,8,No illusion
+337,FashionMnist_338,Windswept dunes meet turquoise waves at sunset,low quality,1.5,2,No illusion
+356,FashionMnist_357,"Mountains rise above a serene lake, sunlight reflecting on their reflective surfaces",low quality,1.5,2,No illusion
+360,FashionMnist_361,A busy marketplace filled with colorful stalls,low quality,1.5,1,No illusion
+983,FashionMnist_984,"Serene lake reflects towering mountains, sunlight dances on ripples, peaceful atmosphere",low quality,1.5,8,No illusion
+711,FashionMnist_712,Starship floating over a futuristic city,low quality,1.5,6,No illusion
+890,FashionMnist_891,"Golden light shines on island shores, waves gently lap the beach, birds sing their chorus",low quality,1.5,0,No illusion
+458,FashionMnist_459,A tranquil lake reflecting the vibrant fall foliage of surrounding trees,low quality,1.5,0,'No illusion'
+10,FashionMnist_11,"Golden meadow meets waterfall cascade, mountain silhouette looms",low quality,1.5,4,No illusion
+1115,FashionMnist_1116,"Glowing sandstone cliffs illuminate desert canyon, shimmering sand dunes reflecting light",low quality,1.5,6,No illusion
+89,FashionMnist_90,A cozy cafe on a rainy day,low quality,1.5,6,'No illusion'
+679,FashionMnist_680,"Swirling clouds of dust swirl around futuristic aircraft, city lights below",low quality,1.5,2,No illusion
+654,FashionMnist_655,A train on a bridge over a deep valley,low quality,1.5,5,'No illusion'
+496,FashionMnist_497,"Neon glow fills abandoned factory, dust swirling in forgotten hallways",low quality,1.5,1,No illusion
+163,FashionMnist_164,A glowing meadow with floating rocks and a waterfall,low quality,1.5,9,No illusion
+536,FashionMnist_537,Peaceful early morning fishing boat,low quality,1.5,3,No illusion
+917,FashionMnist_918,A lush vineyard stretching over rolling hills,low quality,1.5,9,No illusion
+829,FashionMnist_830,A cozy cabin nestled in a snowy forest clearing,low quality,1.5,4,No illusion
+324,FashionMnist_325,"A modern city with skyscrapers, trees, and a river",low quality,1.5,4,'No illusion'
+799,FashionMnist_800,A field of vibrant wildflowers under a clear blue sky,low quality,1.5,2,No illusion
+1015,FashionMnist_1016,"Meticulous patterns form in the falling leaves, sunlight illuminating the forest floor",low quality,1.5,8,No illusion
+494,FashionMnist_495,A bustling marketplace with vendors selling exotic fruits and spices,low quality,1.5,7,'No illusion'
+1075,FashionMnist_1076,A fantastical kingdom ruled by mermaids,low quality,1.5,4,No illusion
+556,FashionMnist_557,Starship floating over a futuristic city,low quality,1.5,9,No illusion
+1065,FashionMnist_1066,A magnificent sunset over the ocean with sailboats,low quality,1.5,4,No illusion
+1023,FashionMnist_1024,A tranquil park with a babbling brook,low quality,1.5,8,No illusion
+128,FashionMnist_129,Enchanted forest with mythical creatures,low quality,1.5,1,No illusion
+1002,FashionMnist_1003,"Whipped cream clouds swirl around children's laughter, city lights glitter below",low quality,1.5,5,No illusion
+945,FashionMnist_946,A small house near seashore,low quality,1.5,5,No illusion
+821,FashionMnist_822,"Softly glowing mushrooms illuminate forest floor, moonlight filters through branches",low quality,1.5,3,No illusion
+278,FashionMnist_279,Starship floating over a futuristic city,low quality,1.5,7,No illusion
+861,FashionMnist_862,A serene meadow with wildflowers and a gentle breeze,low quality,1.5,1,No illusion
+1108,FashionMnist_1109,"Crystal river cuts through granite canyon, sunlight reflects off water, rainbow emerges",low quality,1.5,7,No illusion
+715,FashionMnist_716,A vast desert with a towering canyon in the distance,low quality,1.5,2,No illusion
+1103,FashionMnist_1104,A grand ballroom filled with elegantly dressed dancers,low quality,1.5,8,'No illusion'
+794,FashionMnist_795,Moose wandering through serene woodland,low quality,1.5,9,No illusion
