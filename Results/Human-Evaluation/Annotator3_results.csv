@@ -1,0 +1,688 @@
+dataset,image_name,user_label,true_label,age,gender,user_validation
+MNIST,Mnist_1100,8,8,22,Male,yes
+MNIST,Mnist_620,1,1,22,Male,yes
+MNIST,Mnist_741,9,4,22,Male,yes
+MNIST,Mnist_245,2,2,22,Male,yes
+MNIST,Mnist_412,7,7,22,Male,yes
+MNIST,Mnist_1071,9,9,22,Male,yes
+MNIST,Mnist_319,2,2,22,Male,yes
+MNIST,less_Mnist_1066,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_65,7,7,22,Male,yes
+MNIST,Mnist_12,6,6,22,Male,yes
+MNIST,Mnist_616,1,1,22,Male,yes
+MNIST,Mnist_968,1,1,22,Male,yes
+MNIST,Mnist_591,3,3,22,Male,yes
+MNIST,Mnist_1088,5,5,22,Male,yes
+MNIST,Mnist_921,1,1,22,Male,yes
+MNIST,Mnist_385,6,6,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_165,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_563,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_224,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_585,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_306,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_635,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_979,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_810,Fish,fish,22,Male,yes
+IllusionAnimals,IllusionAnimals_545,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_404,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_540,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_629,Deer,deer,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_179,no illusion,no illusion,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_137,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_957,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_660,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_941,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_46,Cat,cat,22,Male,yes
+IllusionAnimals,IllusionAnimals_936,Rooster,rooster,22,Male,yes
+IllusionChar,illusion_char_2137,oZI,oZl,22,Male,yes
+IllusionChar,illusion_char_2316,Hfqc,Hfqe,22,Male,yes
+IllusionChar,illusion_char_365,cSo,cSo,22,Male,yes
+IllusionChar,less_illusion_char_257,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2263,Sa6S5,Sa6S5,22,Male,yes
+IllusionChar,illusion_char_2543,72b,72b,22,Male,yes
+IllusionChar,less_illusion_char_2447,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2906,xZ0I,5eZ0l,22,Male,no
+IllusionChar,illusion_char_2958,x92,x92,22,Male,yes
+IllusionChar,illusion_char_1457,LLIuI,LL4aI,22,Male,no
+IllusionChar,illusion_char_212,A51,jy5I,22,Male,no
+IllusionChar,illusion_char_719,F7u,F7y,22,Male,yes
+MNIST,Mnist_1085,5,5,22,Male,yes
+MNIST,Mnist_982,0,0,22,Male,yes
+MNIST,Mnist_898,5,5,22,Male,yes
+MNIST,Mnist_810,1,1,22,Male,yes
+MNIST,Mnist_28,4,4,22,Male,yes
+MNIST,Mnist_674,9,9,22,Male,yes
+MNIST,Mnist_602,8,8,22,Male,yes
+MNIST,Mnist_178,8,8,22,Male,yes
+MNIST,Mnist_180,8,8,22,Male,yes
+MNIST,Mnist_565,0,0,22,Male,yes
+MNIST,Mnist_443,3,3,22,Male,yes
+MNIST,Mnist_695,1,5,22,Male,no
+MNIST,Mnist_828,4,4,22,Male,yes
+MNIST,less_Mnist_338,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_929,9,9,22,Male,yes
+MNIST,Mnist_362,6,6,22,Male,yes
+MNIST,Mnist_17,9,9,22,Male,yes
+MNIST,Mnist_979,5,5,22,Male,yes
+MNIST,Mnist_530,1,1,22,Male,yes
+MNIST,less_Mnist_66,no illusion,no illusion,22,Male,yes
+MNIST,less_Mnist_923,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_1103,6,6,22,Male,yes
+MNIST,Mnist_775,4,4,22,Male,yes
+MNIST,Mnist_679,9,9,22,Male,yes
+MNIST,Mnist_746,1,1,22,Male,yes
+MNIST,Mnist_1015,6,6,22,Male,yes
+MNIST,Mnist_299,2,2,22,Male,yes
+MNIST,Mnist_338,2,7,22,Male,no
+MNIST,Mnist_801,8,8,22,Male,yes
+MNIST,Mnist_983,3,3,22,Male,yes
+MNIST,Mnist_488,9,9,22,Male,yes
+MNIST,less_Mnist_1099,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_796,3,3,22,Male,yes
+MNIST,Mnist_677,7,7,22,Male,yes
+MNIST,Mnist_272,0,0,22,Male,yes
+MNIST,Mnist_822,0,0,22,Male,yes
+MNIST,Mnist_173,2,2,22,Male,yes
+MNIST,Mnist_388,2,2,22,Male,yes
+MNIST,Mnist_758,4,4,22,Male,yes
+MNIST,Mnist_665,8,8,22,Male,yes
+MNIST,Mnist_110,4,4,22,Male,yes
+MNIST,Mnist_277,1,1,22,Male,yes
+MNIST,Mnist_23,6,6,22,Male,yes
+MNIST,Mnist_300,8,8,22,Male,yes
+MNIST,Mnist_189,0,0,22,Male,yes
+MNIST,Mnist_859,2,2,22,Male,yes
+MNIST,Mnist_794,8,8,22,Male,yes
+MNIST,Mnist_223,2,2,22,Male,yes
+MNIST,Mnist_632,8,8,22,Male,yes
+MNIST,Mnist_53,5,5,22,Male,yes
+MNIST,Mnist_301,4,4,22,Male,yes
+MNIST,Mnist_838,2,2,22,Male,yes
+MNIST,Mnist_680,7,7,22,Male,yes
+MNIST,Mnist_229,1,1,22,Male,yes
+MNIST,Mnist_1012,1,1,22,Male,yes
+MNIST,less_Mnist_989,no illusion,no illusion,22,Male,yes
+MNIST,less_Mnist_460,no illusion,no illusion,22,Male,yes
+MNIST,less_Mnist_90,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_995,1,1,22,Male,yes
+MNIST,Mnist_197,1,1,22,Male,yes
+MNIST,Mnist_505,1,1,22,Male,yes
+MNIST,Mnist_431,1,1,22,Male,yes
+MNIST,Mnist_515,6,6,22,Male,yes
+MNIST,Mnist_420,1,1,22,Male,yes
+MNIST,Mnist_359,4,7,22,Male,yes
+MNIST,Mnist_648,1,1,22,Male,yes
+MNIST,Mnist_582,0,0,22,Male,yes
+MNIST,Mnist_639,5,5,22,Male,yes
+MNIST,Mnist_44,2,2,22,Male,yes
+MNIST,Mnist_701,1,1,22,Male,yes
+MNIST,Mnist_1080,0,0,22,Male,yes
+MNIST,Mnist_1037,2,2,22,Male,yes
+MNIST,Mnist_630,2,2,22,Male,yes
+MNIST,Mnist_911,4,4,22,Male,yes
+MNIST,Mnist_30,1,1,22,Male,yes
+MNIST,Mnist_521,8,8,22,Male,yes
+MNIST,Mnist_251,4,4,22,Male,yes
+MNIST,Mnist_855,0,0,22,Male,yes
+MNIST,Mnist_526,0,0,22,Male,yes
+MNIST,Mnist_140,4,4,22,Male,yes
+MNIST,Mnist_384,7,7,22,Male,yes
+MNIST,Mnist_1074,9,9,22,Male,yes
+MNIST,Mnist_75,1,1,22,Male,yes
+MNIST,Mnist_623,4,4,22,Male,yes
+MNIST,Mnist_126,9,9,22,Male,yes
+MNIST,Mnist_125,7,7,22,Male,yes
+MNIST,Mnist_713,4,4,22,Male,yes
+MNIST,less_Mnist_750,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_867,5,5,22,Male,yes
+MNIST,Mnist_1017,2,2,22,Male,yes
+MNIST,Mnist_394,1,1,22,Male,yes
+MNIST,Mnist_324,3,3,22,Male,yes
+MNIST,Mnist_122,4,4,22,Male,yes
+MNIST,Mnist_342,6,6,22,Male,yes
+MNIST,Mnist_480,9,9,22,Male,yes
+MNIST,Mnist_376,5,5,22,Male,yes
+MNIST,less_Mnist_621,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_896,0,0,22,Male,yes
+MNIST,Mnist_729,2,2,22,Male,yes
+MNIST,Mnist_773,1,1,22,Male,yes
+MNIST,less_Mnist_963,no illusion,no illusion,22,Male,yes
+MNIST,Mnist_614,2,2,22,Male,yes
+MNIST,Mnist_231,3,3,22,Male,yes
+MNIST,Mnist_890,1,1,22,Male,yes
+MNIST,Mnist_393,6,6,22,Male,yes
+IllusionAnimals,IllusionAnimals_884,no illusion,fish,22,Male,no
+IllusionAnimals,IllusionAnimals_375,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_393,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_319,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_730,no illusion,snake,22,Male,no
+IllusionAnimals,IllusionAnimals_249,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_2,no illusion,cat,22,Male,yes
+IllusionAnimals,IllusionAnimals_174,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_388,Pigeon,butterfly,22,Male,no
+IllusionAnimals,IllusionAnimals_355,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_570,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_443,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_873,Fish,fish,22,Male,yes
+IllusionAnimals,IllusionAnimals_532,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_605,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_935,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_476,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_23,Cat,cat,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_563,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_650,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_376,Elephant,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_278,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_122,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_891,Fish,fish,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_468,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_272,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_526,Elephant,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_305,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_419,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_644,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_28,Cat,cat,22,Male,yes
+IllusionAnimals,IllusionAnimals_132,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_942,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_760,Snake,snake,22,Male,yes
+IllusionAnimals,IllusionAnimals_956,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_446,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_450,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_330,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_983,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_519,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_806,Fish,fish,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_423,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_231,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_977,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_815,Fish,fish,22,Male,yes
+IllusionAnimals,IllusionAnimals_326,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_530,Horse,horse,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_678,no illusion,no illusion,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_447,no illusion,no illusion,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_495,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_182,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_219,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_140,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_773,Snake,snake,22,Male,yes
+IllusionAnimals,IllusionAnimals_923,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_862,Fish,fish,22,Male,yes
+IllusionAnimals,IllusionAnimals_438,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_580,Horse,horse,22,Male,yes
+IllusionAnimals,IllusionAnimals_937,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_192,no illusion,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_764,Snake,snake,22,Male,yes
+IllusionAnimals,IllusionAnimals_382,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_139,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_17,Cat,cat,22,Male,yes
+IllusionAnimals,IllusionAnimals_945,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_416,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_299,Pigeon,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_626,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_65,Cat,cat,22,Male,yes
+IllusionAnimals,IllusionAnimals_954,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_449,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_483,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_611,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_989,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_701,Fish,snake,22,Male,no
+IllusionAnimals,IllusionAnimals_288,Rooster,pigeon,22,Male,yes
+IllusionAnimals,IllusionAnimals_420,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_846,Fish,fish,22,Male,yes
+IllusionAnimals,IllusionAnimals_335,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_350,Butterfly,butterfly,22,Male,yes
+IllusionAnimals,IllusionAnimals_842,Fish,fish,22,Male,yes
+IllusionAnimals,IllusionAnimals_194,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_12,Cat,cat,22,Male,yes
+IllusionAnimals,IllusionAnimals_905,Rooster,rooster,22,Male,yes
+IllusionAnimals,IllusionAnimals_180,Dog,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_439,Elephant,elephant,22,Male,yes
+IllusionAnimals,IllusionAnimals_172,Elephant,dog,22,Male,yes
+IllusionAnimals,IllusionAnimals_664,Deer,deer,22,Male,yes
+IllusionAnimals,IllusionAnimals_418,Elephant,elephant,22,Male,yes
+IllusionAnimals,less_IllusionAnimals_78,no illusion,no illusion,22,Male,yes
+IllusionAnimals,IllusionAnimals_121,Dog,dog,22,Male,yes
+FashionMnist,FashionMnist_583,Sneaker,7,22,Male,yes
+FashionMnist,FashionMnist_1112,Dress,0,22,Male,no
+FashionMnist,FashionMnist_462,Pullover,4,22,Male,yes
+FashionMnist,FashionMnist_749,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_538,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_1056,Coat,4,22,Male,yes
+FashionMnist,FashionMnist_88,Pullover,2,22,Male,yes
+FashionMnist,FashionMnist_65,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_359,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_519,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_954,Pullover,4,22,Male,yes
+FashionMnist,FashionMnist_375,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_776,Sandal,5,22,Male,yes
+FashionMnist,FashionMnist_688,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_509,Pullover,2,22,Male,yes
+FashionMnist,FashionMnist_674,Coat,4,22,Male,yes
+FashionMnist,FashionMnist_214,Pullover,4,22,Male,yes
+FashionMnist,FashionMnist_68,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_419,Ankle boot,5,22,Male,yes
+FashionMnist,FashionMnist_430,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_181,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_140,Ankle boot,5,22,Male,yes
+FashionMnist,FashionMnist_1104,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_30,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_476,Coat,4,22,Male,yes
+FashionMnist,FashionMnist_667,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_1058,T-shirt/top,3,22,Male,yes
+FashionMnist,FashionMnist_804,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_132,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_335,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_441,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_143,T-shirt/top,0,22,Male,yes
+FashionMnist,less_FashionMnist_279,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_632,Pullover,4,22,Male,no
+FashionMnist,FashionMnist_952,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_426,Coat,4,22,Male,yes
+FashionMnist,less_FashionMnist_617,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_947,Sandal,5,22,Male,yes
+FashionMnist,FashionMnist_373,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_275,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_909,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_977,Pullover,2,22,Male,yes
+FashionMnist,FashionMnist_732,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_739,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_274,Pullover,2,22,Male,yes
+FashionMnist,FashionMnist_933,Bag,4,22,Male,yes
+FashionMnist,FashionMnist_722,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_726,Shirt,6,22,Male,yes
+FashionMnist,FashionMnist_384,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_834,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_455,Dress,0,22,Male,no
+FashionMnist,FashionMnist_796,no illusion,5,22,Male,yes
+FashionMnist,FashionMnist_308,Ankle boot,9,22,Male,yes
+FashionMnist,less_FashionMnist_655,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_1039,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_792,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_126,T-shirt/top,0,22,Male,yes
+FashionMnist,less_FashionMnist_1003,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_376,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_568,Sandal,5,22,Male,yes
+FashionMnist,FashionMnist_757,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_23,Sneaker,7,22,Male,yes
+FashionMnist,FashionMnist_740,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_485,Sandal,5,22,Male,yes
+FashionMnist,FashionMnist_442,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_355,T-shirt/top,6,22,Male,yes
+FashionMnist,FashionMnist_856,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_1036,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_44,Ankle boot,7,22,Male,yes
+FashionMnist,FashionMnist_967,T-shirt/top,6,22,Male,yes
+FashionMnist,FashionMnist_599,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_1002,Dress,3,22,Male,yes
+FashionMnist,FashionMnist_8,Shirt,6,22,Male,yes
+FashionMnist,less_FashionMnist_1028,no illusion,no illusion,22,Male,yes
+FashionMnist,less_FashionMnist_492,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_57,Bag,8,22,Male,yes
+FashionMnist,less_FashionMnist_497,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_511,Pullover,4,22,Male,yes
+FashionMnist,FashionMnist_998,Pullover,4,22,Male,yes
+FashionMnist,FashionMnist_832,Sneaker,5,22,Male,yes
+FashionMnist,FashionMnist_265,T-shirt/top,0,22,Male,yes
+FashionMnist,FashionMnist_636,Sneaker,8,22,Male,yes
+FashionMnist,FashionMnist_790,Sneaker,7,22,Male,yes
+FashionMnist,FashionMnist_17,Pullover,2,22,Male,yes
+FashionMnist,FashionMnist_362,Coat,2,22,Male,yes
+FashionMnist,FashionMnist_589,Sandal,5,22,Male,yes
+FashionMnist,FashionMnist_768,Shirt,6,22,Male,yes
+FashionMnist,FashionMnist_894,Pullover,2,22,Male,yes
+FashionMnist,less_FashionMnist_620,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_1101,Pullover,4,22,Male,yes
+FashionMnist,FashionMnist_602,Ankle boot,9,22,Male,yes
+FashionMnist,less_FashionMnist_946,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_655,Sandal,5,22,Male,yes
+FashionMnist,FashionMnist_936,Coat,4,22,Male,yes
+FashionMnist,FashionMnist_468,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_342,Dress,0,22,Male,yes
+FashionMnist,FashionMnist_1018,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_508,Coat,2,22,Male,yes
+FashionMnist,FashionMnist_1132,Coat,6,22,Male,yes
+FashionMnist,FashionMnist_226,Sneaker,7,22,Male,yes
+FashionMnist,FashionMnist_70,Bag,8,22,Male,yes
+FashionMnist,FashionMnist_350,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_488,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_28,Dress,0,22,Male,no
+FashionMnist,FashionMnist_685,T-shirt/top,6,22,Male,yes
+FashionMnist,FashionMnist_978,T-shirt/top,6,22,Male,yes
+FashionMnist,FashionMnist_61,Sneaker,7,22,Male,yes
+FashionMnist,less_FashionMnist_989,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_75,Pullover,2,22,Male,yes
+FashionMnist,FashionMnist_12,Ankle boot,5,22,Male,yes
+FashionMnist,FashionMnist_686,Coat,4,22,Male,yes
+FashionMnist,FashionMnist_379,Coat,4,22,Male,yes
+FashionMnist,FashionMnist_743,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_881,Sneaker,7,22,Male,yes
+FashionMnist,FashionMnist_964,Pullover,6,22,Male,yes
+FashionMnist,less_FashionMnist_148,no illusion,no illusion,22,Male,yes
+FashionMnist,FashionMnist_684,Ankle boot,9,22,Male,yes
+FashionMnist,FashionMnist_1119,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_484,Sneaker,7,22,Male,yes
+FashionMnist,FashionMnist_81,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_874,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_1087,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_180,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_1147,Dress,4,22,Male,yes
+FashionMnist,FashionMnist_875,Trouser,1,22,Male,yes
+FashionMnist,FashionMnist_158,Sneaker,7,22,Male,yes
+IllusionChar,less_illusion_char_797,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1797,bcP,bcP,22,Male,yes
+IllusionChar,less_illusion_char_2423,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_341,IVrVa,iVrVu,22,Male,no
+IllusionChar,illusion_char_2876,1O9G,JO9G,22,Male,yes
+IllusionChar,illusion_char_1722,Yqptp,YHptp,22,Male,yes
+IllusionChar,illusion_char_1489,plmy,p1mv,22,Male,yes
+IllusionChar,illusion_char_593,fcU,fcU,22,Male,yes
+IllusionChar,illusion_char_2658,PMc,PMc,22,Male,yes
+IllusionChar,illusion_char_410,uTL0,aYL0,22,Male,no
+IllusionChar,illusion_char_1935,no illusion,eZjt,22,Male,no
+IllusionChar,illusion_char_737,binA,binA,22,Male,yes
+IllusionChar,illusion_char_1448,n1B4Z,nlB4Z,22,Male,yes
+IllusionChar,illusion_char_1274,VgA8V,VgA8V,22,Male,yes
+IllusionChar,illusion_char_2576,Sh0u,Sh0u,22,Male,yes
+IllusionChar,illusion_char_1269,no illusion,g04,22,Male,yes
+IllusionChar,illusion_char_322,no,Gb22H,22,Male,yes
+IllusionChar,illusion_char_2050,DVdu,DVdu,22,Male,yes
+IllusionChar,illusion_char_1035,EXT,EXT,22,Male,yes
+IllusionChar,illusion_char_2076,S10,SI0,22,Male,yes
+IllusionChar,illusion_char_2924,2uPX,2ttPX,22,Male,no
+IllusionChar,illusion_char_29,OLI8t,f3U8c,22,Male,no
+IllusionChar,illusion_char_85,no illusion,AYq,22,Male,yes
+IllusionChar,illusion_char_216,CfX6,CfX6,22,Male,yes
+IllusionChar,illusion_char_1094,Gm3A,Gm3A,22,Male,yes
+IllusionChar,illusion_char_230,X9NSN,X9NSN,22,Male,yes
+IllusionChar,illusion_char_235,XC3Dw,XC3Dw,22,Male,yes
+IllusionChar,illusion_char_2018,IUR,FUR,22,Male,no
+IllusionChar,illusion_char_528,BcUO,EeUQ,22,Male,yes
+IllusionChar,illusion_char_950,H30z,H30z,22,Male,yes
+IllusionChar,illusion_char_1330,7w9,7w9,22,Male,yes
+IllusionChar,illusion_char_2019,9pW,9pW,22,Male,yes
+IllusionChar,illusion_char_2699,XgkX,XgkX,22,Male,yes
+IllusionChar,illusion_char_174,DIY,DiYt,22,Male,yes
+IllusionChar,illusion_char_1572,fqR,fqR,22,Male,yes
+IllusionChar,illusion_char_1093,GoPsz,GoPsz,22,Male,yes
+IllusionChar,less_illusion_char_965,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_705,2qmYa,2qmYa,22,Male,yes
+IllusionChar,illusion_char_871,5wIa,5w1a,22,Male,yes
+IllusionChar,illusion_char_2159,5HAY,5HAY,22,Male,yes
+IllusionChar,less_illusion_char_1358,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2773,IDmS,HDm8,22,Male,yes
+IllusionChar,illusion_char_1215,A0zq,A0zq,22,Male,yes
+IllusionChar,illusion_char_2265,SDy,SDy,22,Male,yes
+IllusionChar,illusion_char_1528,QI0ha,QI0ha,22,Male,yes
+IllusionChar,illusion_char_1409,DVDA,DVDA,22,Male,yes
+IllusionChar,illusion_char_1659,no illusion,nT4,22,Male,no
+IllusionChar,illusion_char_2889,nAI,nAl,22,Male,yes
+IllusionChar,illusion_char_2087,Poy,l2oy,22,Male,no
+IllusionChar,illusion_char_25,CKJN,CKjN,22,Male,yes
+IllusionChar,illusion_char_1216,HjIT,hjtT,22,Male,yes
+IllusionChar,illusion_char_2806,L6EJs,L6EJs,22,Male,yes
+IllusionChar,illusion_char_2584,HeSO,He8Q,22,Male,yes
+IllusionChar,illusion_char_764,vhuV,vhuV,22,Male,yes
+IllusionChar,illusion_char_1658,YA2,YA2,22,Male,yes
+IllusionChar,illusion_char_1283,50طظ,y50xa,22,Male,yes
+IllusionChar,illusion_char_890,zwIsK,zwlsK,22,Male,yes
+IllusionChar,illusion_char_1353,O2ET,O2F1,22,Male,yes
+IllusionChar,illusion_char_582,KO7,KO7,22,Male,yes
+IllusionChar,illusion_char_592,WeQjA,WeQjA,22,Male,yes
+IllusionChar,illusion_char_1567,0vpO,0ypO,22,Male,no
+IllusionChar,illusion_char_989,9F2Kt,9F2Kt,22,Male,yes
+IllusionChar,illusion_char_2492,2ot,2ot,22,Male,yes
+IllusionChar,illusion_char_2133,Wbm,Wbnt,22,Male,yes
+IllusionChar,illusion_char_2596,p8LaW,p8LaW,22,Male,yes
+IllusionChar,illusion_char_241,Mr6p,Mr6p,22,Male,yes
+IllusionChar,illusion_char_1867,YV2T,YV2T,22,Male,yes
+IllusionChar,illusion_char_1578,G0f,G0f,22,Male,yes
+IllusionChar,illusion_char_1638,Vux09,Vux09,22,Male,yes
+IllusionChar,less_illusion_char_1702,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1452,nPTE2,nPJE2,22,Male,yes
+IllusionChar,less_illusion_char_976,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1005,xcaH,xcd1,22,Male,yes
+IllusionChar,illusion_char_1872,bxC,bxC,22,Male,yes
+IllusionChar,illusion_char_2471,Tbm0i,Tbm0i,22,Male,yes
+IllusionChar,illusion_char_898,hkRKm,hkRKm,22,Male,yes
+IllusionChar,illusion_char_145,sM8pw,sM8pw,22,Male,yes
+IllusionChar,illusion_char_2235,rBSTl,rBSTl,22,Male,yes
+IllusionChar,less_illusion_char_226,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_353,no illusion,ain,22,Male,yes
+IllusionChar,illusion_char_842,mHws,inHws,22,Male,yes
+IllusionChar,illusion_char_922,wQQL,S7QQL,22,Male,yes
+IllusionChar,illusion_char_454,RYT,RYf,22,Male,yes
+IllusionChar,illusion_char_1755,SdUTA,SdUTA,22,Male,yes
+IllusionChar,illusion_char_210,mcV,meV,22,Male,yes
+IllusionChar,illusion_char_1418,oe5,5y5,22,Male,yes
+IllusionChar,illusion_char_1231,5CO,5CQ,22,Male,yes
+IllusionChar,illusion_char_604,Eej,Eej,22,Male,yes
+IllusionChar,illusion_char_2094,ykPW,ykPW,22,Male,yes
+IllusionChar,illusion_char_2736,QH5H,QH5H,22,Male,yes
+IllusionChar,illusion_char_1717,2UxI,2UxI,22,Male,yes
+IllusionChar,illusion_char_2578,WxF,WxF,22,Male,yes
+IllusionChar,less_illusion_char_1563,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1129,S2V,S2V,22,Male,yes
+IllusionChar,illusion_char_648,YKOr,YKOr,22,Male,yes
+IllusionChar,illusion_char_1695,VIRMI,VIRM1,22,Male,yes
+IllusionChar,illusion_char_2362,QvWFD,QvWFD,22,Male,yes
+IllusionChar,illusion_char_1676,V5qM0,V5qM0,22,Male,yes
+IllusionChar,illusion_char_420,Z95Jq,Z95Jq,22,Male,yes
+IllusionChar,illusion_char_1319,e5uVw,e5uVw,22,Male,yes
+IllusionChar,illusion_char_1331,JOEcf,2BEcf,22,Male,yes
+IllusionChar,illusion_char_1906,SWesR,SWesR,22,Male,yes
+IllusionChar,illusion_char_1356,GBd,GBd,22,Male,yes
+IllusionChar,illusion_char_2252,srVBq,srVBq,22,Male,yes
+IllusionChar,less_illusion_char_1009,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2247,cmo,cmo,22,Male,yes
+IllusionChar,illusion_char_1307,b4g,b4g,22,Male,yes
+IllusionChar,less_illusion_char_1161,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_638,C0qu9,C0qu9,22,Male,yes
+IllusionChar,illusion_char_1082,4G8h,4G8h,22,Male,yes
+IllusionChar,illusion_char_107,5p3O,5p3O,22,Male,yes
+IllusionChar,illusion_char_181,4rVd,rLjVd,22,Male,no
+IllusionChar,illusion_char_493,8IvgR,81vgR,22,Male,yes
+IllusionChar,less_illusion_char_2439,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2437,vW3D,vW3D,22,Male,yes
+IllusionChar,illusion_char_108,RBYW,RBYW,22,Male,yes
+IllusionChar,illusion_char_1118,GwPxI,GwPxI,22,Male,yes
+IllusionChar,illusion_char_277,hHkBs,hHkBs,22,Male,yes
+IllusionChar,illusion_char_803,E0o,E0o,22,Male,yes
+IllusionChar,illusion_char_548,QnM36,QnM36,22,Male,yes
+IllusionChar,illusion_char_2758,329Ob,329Ob,22,Male,yes
+IllusionChar,illusion_char_213,SEJq,SLJq,22,Male,yes
+IllusionChar,illusion_char_1769,odA,odA,22,Male,yes
+IllusionChar,illusion_char_1777,ZNv,ZNv,22,Male,yes
+IllusionChar,less_illusion_char_151,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1779,8Fcp,SFep,22,Male,yes
+IllusionChar,illusion_char_709,06NP,06NP,22,Male,yes
+IllusionChar,illusion_char_2278,3nt,3nt,22,Male,yes
+IllusionChar,illusion_char_2245,6W3,6W3,22,Male,yes
+IllusionChar,illusion_char_326,8QX,8QX,22,Male,yes
+IllusionChar,illusion_char_1425,0Bs,0Bs,22,Male,yes
+IllusionChar,illusion_char_263,mrs,mrs,22,Male,yes
+IllusionChar,illusion_char_2798,POu,POu,22,Male,yes
+IllusionChar,illusion_char_1932,a9KJ,a9KJ,22,Male,yes
+IllusionChar,illusion_char_798,JIxY,JlxY,22,Male,yes
+IllusionChar,illusion_char_675,83y,83y,22,Male,yes
+IllusionChar,illusion_char_2259,FGW,TzGW7,22,Male,no
+IllusionChar,illusion_char_2561,Dm5w,Dm5w,22,Male,yes
+IllusionChar,illusion_char_1142,jHjV,jHjV,22,Male,yes
+IllusionChar,illusion_char_442,FZT,FZT,22,Male,yes
+IllusionChar,illusion_char_828,KO5,KO5,22,Male,yes
+IllusionChar,illusion_char_1343,2BU,2BU,22,Male,yes
+IllusionChar,illusion_char_774,srfZ,srfZ,22,Male,yes
+IllusionChar,illusion_char_148,5R4,5R4,22,Male,yes
+IllusionChar,illusion_char_1357,HXS,HXS,22,Male,yes
+IllusionChar,illusion_char_756,wjib,wjib,22,Male,yes
+IllusionChar,illusion_char_1456,QXI0,QX10,22,Male,yes
+IllusionChar,less_illusion_char_134,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1975,SbAQ,SbAQ,22,Male,yes
+IllusionChar,illusion_char_1276,ijp,iip,22,Male,yes
+IllusionChar,illusion_char_176,ICgO,1CgO,22,Male,yes
+IllusionChar,less_illusion_char_2761,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2502,DYE,DYE,22,Male,yes
+IllusionChar,illusion_char_333,zsh6O,zsh6O,22,Male,yes
+IllusionChar,illusion_char_1060,ecv,eev,22,Male,yes
+IllusionChar,less_illusion_char_1429,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2865,k0mp,k0mp,22,Male,yes
+IllusionChar,illusion_char_183,6UN,6UN,22,Male,yes
+IllusionChar,illusion_char_2004,IQm,lQm,22,Male,yes
+IllusionChar,illusion_char_736,xVI,xV1,22,Male,yes
+IllusionChar,illusion_char_1085,ZuI,ZuI,22,Male,yes
+IllusionChar,illusion_char_2585,IVYY9,IVYY9,22,Male,yes
+IllusionChar,illusion_char_850,ZwKk3,ZwKk3,22,Male,yes
+IllusionChar,illusion_char_2599,ImMZ,1mMZ,22,Male,yes
+IllusionChar,illusion_char_845,pOdke,pOdke,22,Male,yes
+IllusionChar,illusion_char_543,3xXUe,3xXUe,22,Male,yes
+IllusionChar,illusion_char_579,jZIc,jzlc,22,Male,yes
+IllusionChar,illusion_char_2734,WY61,WY61,22,Male,yes
+IllusionChar,illusion_char_1740,sKvj,sKvj,22,Male,yes
+IllusionChar,illusion_char_95,Nie,NtQ,22,Male,yes
+IllusionChar,less_illusion_char_1825,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2497,EJew,EJcw,22,Male,yes
+IllusionChar,less_illusion_char_2694,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1938,pQMb,p2Mb,22,Male,yes
+IllusionChar,illusion_char_1783,oDEc,oDEr,22,Male,yes
+IllusionChar,illusion_char_2827,YWRf,YWRf,22,Male,yes
+IllusionChar,illusion_char_1801,oUGZ,oUGZ,22,Male,yes
+IllusionChar,illusion_char_689,pcO,peO,22,Male,yes
+IllusionChar,illusion_char_1232,HUMqD,HUMqD,22,Male,yes
+IllusionChar,illusion_char_1342,9xy,7xy,22,Male,yes
+IllusionChar,illusion_char_1003,oUN,oUN,22,Male,yes
+IllusionChar,illusion_char_2515,b8xW1,b8xW1,22,Male,yes
+IllusionChar,illusion_char_2614,xBsGE,xHsGE,22,Male,yes
+IllusionChar,less_illusion_char_1747,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1369,h7No2,h7No2,22,Male,yes
+IllusionChar,illusion_char_1661,ejdwb,ejdwb,22,Male,yes
+IllusionChar,illusion_char_613,TfRdo,FfR4o,22,Male,yes
+IllusionChar,illusion_char_101,RV8q,RVgq,22,Male,yes
+IllusionChar,illusion_char_495,MOvzN,MOvzN,22,Male,yes
+IllusionChar,illusion_char_2748,lXOf6,lXOf6,22,Male,yes
+IllusionChar,illusion_char_2516,Ax3,Ax3,22,Male,yes
+IllusionChar,illusion_char_1515,Tzdpv,L2dpv,22,Male,yes
+IllusionChar,illusion_char_1455,IXkC,IXkC,22,Male,yes
+IllusionChar,illusion_char_1891,6XRvN,6XRyN,22,Male,yes
+IllusionChar,illusion_char_1194,sGMm,sGMm,22,Male,yes
+IllusionChar,illusion_char_1940,LCZCh,LCZCh,22,Male,yes
+IllusionChar,illusion_char_2879,gtnhU,gtnbU,22,Male,yes
+IllusionChar,illusion_char_264,LmKx6,LmKx6,22,Male,yes
+IllusionChar,illusion_char_1941,ong,o6g,22,Male,yes
+IllusionChar,illusion_char_1174,GsM3,GsM3,22,Male,yes
+IllusionChar,illusion_char_2284,9LqA3,9LqA3,22,Male,yes
+IllusionChar,illusion_char_1044,GXfny,GXfny,22,Male,yes
+IllusionChar,illusion_char_1248,eUC,eUC,22,Male,yes
+IllusionChar,illusion_char_2199,ygn,ygn,22,Male,yes
+IllusionChar,illusion_char_2223,NIM,NlM,22,Male,yes
+IllusionChar,illusion_char_282,mQJUa,mQJUa,22,Male,yes
+IllusionChar,illusion_char_404,2e1,2e1,22,Male,yes
+IllusionChar,illusion_char_1627,TNd,TNd,22,Male,yes
+IllusionChar,illusion_char_37,q3Udx,q3Udx,22,Male,yes
+IllusionChar,illusion_char_2927,7xURO,7xURO,22,Male,yes
+IllusionChar,illusion_char_349,Cu8,Cu8,22,Male,yes
+IllusionChar,illusion_char_427,LAa,LAa,22,Male,yes
+IllusionChar,less_illusion_char_2395,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_881,IvF,lvF,22,Male,yes
+IllusionChar,illusion_char_1652,yes,u2a,22,Male,yes
+IllusionChar,illusion_char_66,vzJ,vzJ,22,Male,yes
+IllusionChar,illusion_char_1625,s0uP,s0uP,22,Male,yes
+IllusionChar,illusion_char_2261,U35JQ,U35JQ,22,Male,yes
+IllusionChar,illusion_char_2352,VhZ,V8Z,22,Male,no
+IllusionChar,illusion_char_2082,cprY,cpiY,22,Male,yes
+IllusionChar,illusion_char_28,nOjz0,nOjz0,22,Male,yes
+IllusionChar,illusion_char_2438,eNKnU,cNKnU,22,Male,yes
+IllusionChar,illusion_char_2272,cwe,cwe,22,Male,yes
+IllusionChar,illusion_char_1177,yes,IkNFy,22,Male,
+IllusionChar,illusion_char_2363,HZoM,HZoM,22,Male,yes
+IllusionChar,illusion_char_801,ewUa,cwUa,22,Male,yes
+IllusionChar,illusion_char_1080,IOvcI,1Ovct,22,Male,yes
+IllusionChar,illusion_char_1243,P2Vjz,P2Vjz,22,Male,yes
+IllusionChar,illusion_char_1476,5Ntwa,5Ntwa,22,Male,yes
+IllusionChar,illusion_char_2191,vfQeu,vfQeu,22,Male,yes
+IllusionChar,illusion_char_290,bJ9Iw,bJ91w,22,Male,yes
+IllusionChar,illusion_char_998,o8WVJ,o8WVJ,22,Male,yes
+IllusionChar,less_illusion_char_1329,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_256,Aek,Aek,22,Male,yes
+IllusionChar,illusion_char_2509,Dra0,Dra0,22,Male,yes
+IllusionChar,illusion_char_2621,bEO,bEO,22,Male,yes
+IllusionChar,illusion_char_330,yes,RYnV4,22,Male,yes
+IllusionChar,illusion_char_1573,RiV,RtV,22,Male,yes
+IllusionChar,illusion_char_961,MfQ,MfQ,22,Male,yes
+IllusionChar,less_illusion_char_102,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_854,XrI5l,XrI5F,22,Male,yes
+IllusionChar,illusion_char_1012,9KS,9KS,22,Male,yes
+IllusionChar,illusion_char_1198,MjV,MjV,22,Male,yes
+IllusionChar,illusion_char_1927,yes,1au,22,Male,yes
+IllusionChar,illusion_char_1196,ztA,ztA,22,Male,yes
+IllusionChar,illusion_char_2396,VXMpO,VXMpQ,22,Male,yes
+IllusionChar,illusion_char_1025,v8Z,v8Z,22,Male,yes
+IllusionChar,illusion_char_1351,fCI,fCt,22,Male,yes
+IllusionChar,illusion_char_1199,LLT,LLT,22,Male,yes
+IllusionChar,illusion_char_1913,OeU,OcU,22,Male,yes
+IllusionChar,illusion_char_1092,weS,weS,22,Male,yes
+IllusionChar,illusion_char_382,eY2Kq,eY2Kq,22,Male,yes
+IllusionChar,illusion_char_869,VmR,VmR,22,Male,yes
+IllusionChar,illusion_char_1363,pJNB,pJNB,22,Male,yes
+IllusionChar,less_illusion_char_2497,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_762,5nJ7a,5wJ7a,22,Male,yes
+IllusionChar,illusion_char_2630,fGnAx,fGnAx,22,Male,yes
+IllusionChar,illusion_char_2040,bcaX,bcaX,22,Male,yes
+IllusionChar,illusion_char_707,dnD,dnD,22,Male,yes
+IllusionChar,illusion_char_691,dThfg,dThfg,22,Male,yes
+IllusionChar,illusion_char_2867,oMtk,oMtk,22,Male,yes
+IllusionChar,illusion_char_2068,96fQc,96fQe,22,Male,yes
+IllusionChar,illusion_char_1149,sSh,sSh,22,Male,yes
+IllusionChar,illusion_char_278,ePtY,ePtY,22,Male,yes
+IllusionChar,illusion_char_507,LBU,LBU,22,Male,yes
+IllusionChar,illusion_char_703,twAc,twAe,22,Male,yes
+IllusionChar,less_illusion_char_1961,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_470,wwwB8,wwwB8,22,Male,yes
+IllusionChar,illusion_char_992,EgO,EgO,22,Male,yes
+IllusionChar,illusion_char_1295,AORO,AORO,22,Male,yes
+IllusionChar,illusion_char_1411,FbYIx,FbY1x,22,Male,yes
+IllusionChar,illusion_char_1930,IVE,IVE,22,Male,yes
+IllusionChar,illusion_char_1887,sKiZ,sKiZ,22,Male,yes
+IllusionChar,illusion_char_1160,j6I,j6I,22,Male,yes
+IllusionChar,illusion_char_1933,eqYN,cqYN,22,Male,yes
+IllusionChar,illusion_char_1207,pdf,pdf,22,Male,yes
+IllusionChar,illusion_char_1873,XH6,XH6,22,Male,yes
+IllusionChar,less_illusion_char_666,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_311,nKI,qKl,22,Male,no
+IllusionChar,illusion_char_1166,vbkn,vbka,22,Male,yes
+IllusionChar,less_illusion_char_1787,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2270,sHJ,8H1,22,Male,yes
+IllusionChar,illusion_char_2156,Jcr,Jcr,22,Male,yes
+IllusionChar,less_illusion_char_763,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_219,XN53e,XN53e,22,Male,yes
+IllusionChar,illusion_char_1182,szqcD,szqcD,22,Male,yes
+IllusionChar,illusion_char_2336,UKu,UKu,22,Male,yes
+IllusionChar,illusion_char_2678,7IJ,7IJ,22,Male,yes
+IllusionChar,illusion_char_363,pmJC,pmJC,22,Male,yes
+IllusionChar,illusion_char_2425,luUJx,tuUix,22,Male,yes
+IllusionChar,illusion_char_1741,eu5mO,eu5mO,22,Male,yes
+IllusionChar,illusion_char_1594,ta7c0,ta7c0,22,Male,yes
+IllusionChar,illusion_char_2952,IL81p,IU81p,22,Male,yes
+IllusionChar,illusion_char_1156,6hdKc,6hdKc,22,Male,yes
+IllusionChar,illusion_char_920,smU,smU,22,Male,yes
+IllusionChar,illusion_char_245,UZft,UZTt,22,Male,yes
+IllusionChar,illusion_char_275,DjH,DjH,22,Male,yes
+IllusionChar,less_illusion_char_1425,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_2684,qIbC1,qlbC1,22,Male,yes
+IllusionChar,illusion_char_913,xtV,8tV,22,Male,yes
+IllusionChar,illusion_char_1715,XurdI,Xmd1,22,Male,yes
+IllusionChar,illusion_char_1400,sm7C,sm7C,22,Male,yes
+IllusionChar,illusion_char_2003,D9Ay,D9Ay,22,Male,yes
+IllusionChar,illusion_char_1213,3IH,3HI2,22,Male,no
+IllusionChar,illusion_char_1033,FqVQK,FqVQK,22,Male,yes
+IllusionChar,illusion_char_1187,yNoq,yNoq,22,Male,yes
+IllusionChar,illusion_char_1399,woYw,woYw,22,Male,yes
+IllusionChar,illusion_char_835,oXp,oXp,22,Male,yes
+IllusionChar,illusion_char_775,UwdJK,UwdJK,22,Male,yes
+IllusionChar,illusion_char_372,yLuR1,yLaR1,22,Male,yes
+IllusionChar,illusion_char_2055,OTYXw,OTYXw,22,Male,yes
+IllusionChar,illusion_char_1874,JIVa,JIVa,22,Male,yes
+IllusionChar,illusion_char_912,CSPSD,CSPSD,22,Male,yes
+IllusionChar,illusion_char_2299,I2v,I2u,22,Male,yes
+IllusionChar,less_illusion_char_2248,no illusion,no illusion,22,Male,yes
+IllusionChar,illusion_char_1983,G59,G59,22,Male,yes
+IllusionChar,illusion_char_1309,KSQ,KSyl,22,Male,no
+IllusionChar,illusion_char_1538,k9jn,k9jn,22,Male,yes

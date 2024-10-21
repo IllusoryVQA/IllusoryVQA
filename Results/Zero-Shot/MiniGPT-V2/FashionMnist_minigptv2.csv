@@ -1,0 +1,1154 @@
+image_name,label,raw_answer,ill_answer,ill_less_answer,ill_filtered_answer,ill_less_filtered_answer
+FashionMnist_1,9,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_2,2,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_3,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_4,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_5,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_6,1,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_7,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_8,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_9,5,<p>T-shirt/top</p> {<19><39><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_10,7,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_11,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_12,5,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_13,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_14,3,<p>T-shirt/top</p> {<36><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_15,4,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_16,1,<p>T-shirt/top</p> {<32><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_17,2,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_18,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_19,8,<p>T-shirt/top</p> {<18><21><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_20,0,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_21,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_22,5,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_23,7,<p>T-shirt/top</p> {<1><26><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_24,9,<p>T-shirt/top</p> {<14><23><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_25,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_26,4,<p>T-shirt/top</p> {<11><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_27,6,<p>T-shirt/top</p> {<15><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_28,0,<p>T-shirt/top</p> {<26><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_29,9,<p>T-shirt/top</p> {<15><18><,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_30,3,<p>T-shirt/top</p> {<24><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_31,8,<p>T-shirt/top</p> {<11><31><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_32,8,<p>T-shirt/top</p> {<24><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_33,3,<p>T-shirt/top</p> {<36><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_34,3,<p>T-shirt/top</p> {<20><5><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_35,8,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_36,0,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_37,7,<p>T-shirt/top</p> {<3><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_38,5,<p>T-shirt/top</p> {<1><48><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_39,7,<p>T-shirt/top</p> {<1><21><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_40,9,<p>T-shirt/top</p> {<19><18><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_41,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_42,1,<p>T-shirt/top</p> {<34><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_43,3,<p>T-shirt/top</p> {<22><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_44,7,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_45,6,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_46,7,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_47,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_48,1,<p>T-shirt/top</p> {<36><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_49,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_50,2,<p>T-shirt/top</p> {<14><3><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_51,4,<p>T-shirt/top</p> {<6><1><93,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_52,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_53,5,<p>T-shirt/top</p> {<17><31><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_54,8,<p>T-shirt/top</p> {<10><4><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_55,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_56,2,<p>T-shirt/top</p> {<6><1><92,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_57,8,<p>T-shirt/top</p> {<1><15><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_58,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_59,8,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_60,0,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_61,7,<p>T-shirt/top</p> {<15><30><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_62,7,<p>T-shirt/top</p> {<1><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_63,8,<p>T-shirt/top</p> {<4><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_64,5,<p>T-shirt/top</p> {<1><26><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_65,1,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_66,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_67,2,<p>T-shirt/top</p> {<24><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_68,3,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_69,9,<p>T-shirt/top</p> {<11><18><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_70,8,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_71,7,<p>T-shirt/top</p> {<2><24><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_72,0,<p>T-shirt/top</p> {<5><1><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_73,2,<p>T-shirt/top</p> {<6><1><95,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_74,6,<p>T-shirt/top</p> {<21><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_75,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<17><1,illusion T-shirt/top
+FashionMnist_76,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_77,1,<p>T-shirt/top</p> {<29><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_78,2,<p>T-shirt/top</p> {<13><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_79,8,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_80,4,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_81,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_82,8,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_83,5,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_84,9,<p>T-shirt/top</p> {<1><12><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_85,5,<p>T-shirt/top</p> {<17><46><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_86,0,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_87,3,<p>T-shirt/top</p> {<25><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_88,2,<p>T-shirt/top</p> {<14><0><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_89,0,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_90,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_91,5,<p>T-shirt/top</p> {<1><58><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_92,3,<p>T-shirt/top</p> {<24><0><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_93,6,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_94,7,<p>T-shirt/top</p> {<2><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_95,1,<p>T-shirt/top</p> {<33><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_96,8,<p>T-shirt/top</p> {<1><14><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_97,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_98,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_99,4,<p>T-shirt/top</p> {<14><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_100,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_101,3,<p>T-shirt/top</p> {<27><2><7,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_102,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_103,7,<p>T-shirt/top</p> {<1><27><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_104,2,<p>T-shirt/top</p> {<23><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_105,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_106,8,<p>T-shirt/top</p> {<11><14><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_107,5,<p>T-shirt/top</p> {<1><39><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_108,9,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_109,9,<p>T-shirt/top</p> {<1><8><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_110,4,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_111,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_112,5,<p>T-shirt/top</p> {<2><36><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_113,7,<p>T-shirt/top</p> {<11><31><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_114,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_115,5,<p>T-shirt/top</p> {<1><8><97,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_116,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_117,8,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_118,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_119,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_120,8,<p>T-shirt/top</p> {<10><8><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_121,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_122,0,<p>T-shirt/top</p> {<6><1><94,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_123,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_124,9,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_125,3,<p>T-shirt/top</p> {<18><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_126,0,<p>T-shirt/top</p> {<11><3><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_127,8,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_128,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_129,1,<p>T-shirt/top</p> {<31><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_130,5,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_131,4,<p>T-shirt/top</p> {<14><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_132,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_133,9,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_134,1,<p>T-shirt/top</p> {<29><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_135,8,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_136,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_137,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_138,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_139,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_140,5,<p>T-shirt/top</p> {<14><44><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_141,1,<p>T-shirt/top</p> {<34><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_142,0,<p>T-shirt/top</p> {<11><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_143,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_144,0,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_145,1,<p>T-shirt/top</p> {<33><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_146,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_147,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_148,6,<p>T-shirt/top</p> {<28><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_149,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_150,2,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_151,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_152,4,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_153,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_154,4,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_155,5,<p>T-shirt/top</p> {<1><31><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_156,0,<p>T-shirt/top</p> {<10><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_157,4,<p>T-shirt/top</p> {<19><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_158,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_159,9,<p>T-shirt/top</p> {<11><18><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_160,3,<p>T-shirt/top</p> {<26><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_161,7,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_162,2,<p>T-shirt/top</p> {<16><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_163,3,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_164,9,<p>T-shirt/top</p> {<1><20><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_165,0,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_166,9,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_167,4,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_168,7,<p>T-shirt/top</p> {<1><17><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_169,4,<p>T-shirt/top</p> {<14><4><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_170,2,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_171,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_172,5,<p>T-shirt/top</p> {<20><39><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_173,2,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_174,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_175,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_176,1,'Trouser',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_177,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_178,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_179,9,<p>T-shirt/top</p> {<1><21><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_180,1,<p>T-shirt/top</p> {<38><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_181,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_182,9,<p>T-shirt/top</p> {<1><18><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_183,3,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_184,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_185,7,<p>T-shirt/top</p> {<2><31><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_186,9,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_187,9,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_188,4,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_189,4,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_190,7,<p>T-shirt/top</p> {<19><31><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_191,1,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_192,2,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_193,1,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_194,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_195,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_196,2,<p>T-shirt/top</p> {<12><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_197,8,<p>T-shirt/top</p> {<11><22><,<p>illusion T-shirt/top</p> {<10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_198,3,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_199,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_200,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_201,1,<p>T-shirt/top</p> {<30><4><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_202,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_203,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_204,9,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_205,2,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_206,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_207,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_208,7,<p>T-shirt/top</p> {<1><24><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_209,9,<p>T-shirt/top</p> {<11><19><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_210,8,<p>T-shirt/top</p> {<23><61><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_211,4,<p>T-shirt/top</p> {<14><2><9,No illusion,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_212,1,<p>T-shirt/top</p> {<35><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_213,8,<p>a t-shirt/top</p> {<14><2><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_214,4,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_215,1,<p>T-shirt/top</p> {<36><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_216,3,<p>T-shirt/top</p> {<26><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_217,1,<p>T-shirt/top</p> {<27><1><7,There is no illusion in this image.,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_218,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_219,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_220,2,<p>T-shirt/top</p> {<20><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_221,8,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_222,5,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_223,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_224,0,<p>T-shirt/top</p> {<14><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_225,7,<p>T-shirt/top</p> {<11><27><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_226,7,<p>T-shirt/top</p> {<1><27><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_227,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top illusion Trouser illusion Pullover illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_228,2,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_229,7,<p>T-shirt/top</p> {<29><44><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_230,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_231,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_232,8,<p>a white t-shirt</p> {<4><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_233,9,<p>T-shirt/top</p> {<10><13><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_234,2,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_235,9,<p>T-shirt/top</p> {<12><14><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_236,0,T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_237,5,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_238,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_239,4,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_240,4,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_241,5,<p>T-shirt/top</p> {<1><4><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_242,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_243,9,<p>T-shirt/top</p> {<11><8><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_244,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_245,6,<p>T-shirt/top</p> {<16><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_246,8,<p>T-shirt/top</p> {<13><21><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_247,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_248,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_249,2,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_250,2,T-shirt/top,No illusion,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_251,9,<p>T-shirt/top</p> {<4><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_252,7,<p>T-shirt/top</p> {<1><30><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_253,6,<p>T-shirt/top</p> {<22><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion,No illusion
+FashionMnist_254,5,<p>T-shirt/top</p> {<11><58><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_255,5,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_256,2,<p>T-shirt/top</p> {<14><4><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_257,8,<p>T-shirt/top</p> {<11><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_258,5,<p>T-shirt/top</p> {<1><23><9,No illusion,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_259,2,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_260,3,<p>T-shirt/top</p> {<24><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_261,0,<p>T-shirt/top</p> {<13><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_262,4,<p>T-shirt/top</p> {<15><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_263,8,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_264,0,<p>T-shirt/top</p> {<8><2><91,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_265,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_266,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_267,3,<p>T-shirt/top</p> {<27><13><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_268,8,<p>T-shirt/top</p> {<15><7><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_269,9,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_270,6,<p>T-shirt/top</p> {<19><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_271,1,<p>T-shirt/top</p> {<34><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_272,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_273,0,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_274,2,<p>T-shirt/top</p> {<20><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_275,3,<p>T-shirt/top</p> {<29><5><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_276,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_277,8,<p>T-shirt/top</p> {<13><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_278,3,<p>T-shirt/top</p> {<26><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_279,7,<p>T-shirt/top</p> {<1><30><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_280,4,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_281,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_282,1,<p>T-shirt/top</p> {<34><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_283,6,<p>T-shirt/top</p> {<7><1><94,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_284,3,<p>T-shirt/top</p> {<30><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_285,0,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_286,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_287,6,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_288,7,<p>T-shirt/top</p> {<24><31><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_289,5,<p>T-shirt/top</p> {<10><50><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_290,4,<p>T-shirt/top</p> {<32><4><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_291,5,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_292,9,<p>T-shirt/top</p> {<17><7><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_293,5,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_294,6,<p>T-shirt/top</p> {<25><5><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_295,5,<p>T-shirt/top</p> {<13><41><,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_296,5,<p>T-shirt/top</p> {<1><44><5,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_297,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_298,9,<p>T-shirt/top</p> {<10><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_299,8,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_300,8,<p>T-shirt/top</p> {<30><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_301,3,<p>T-shirt/top</p> {<35><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_302,3,<p>T-shirt/top</p> {<22><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_303,6,<p>T-shirt/top</p> {<14><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_304,8,<p>T-shirt/top</p> {<4><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_305,0,<p>T-shirt/top</p> {<15><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_306,0,<p>T-shirt/top</p> {<11><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_307,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_308,9,<p>T-shirt/top</p> {<11><13><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_309,7,<p>T-shirt/top</p> {<12><25><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_310,7,<p>T-shirt/top</p> {<11><20><,<p>illusion T-shirt/top</p> {<1><11,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_311,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_312,3,<p>T-shirt/top</p> {<31><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_313,6,<p>T-shirt/top</p> {<1><1><99,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_314,4,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_315,2,<p>T-shirt/top</p> {<6><2><96,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_316,4,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_317,9,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,No illusion,illusion T-shirt/top,No illusion
+FashionMnist_318,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_319,6,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_320,4,<p>T-shirt/top</p> {<12><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_321,8,<p>T-shirt/top</p> {<1><1><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_322,2,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_323,6,<p>T-shirt/top</p> {<10><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_324,5,<p>T-shirt/top</p> {<15><29><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_325,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_326,6,<p>T-shirt/top</p> {<19><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_327,7,<p>T-shirt/top</p> {<15><28><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_328,7,<p>T-shirt/top</p> {<10><26><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_329,7,<p>T-shirt/top</p> {<10><27><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_330,3,<p>T-shirt/top</p> {<39><13><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_331,3,<p>T-shirt/top</p> {<25><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_332,7,<p>ankle boot</p> {<4><17><96><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_333,0,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_334,7,<p>T-shirt/top</p> {<15><30><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_335,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_336,3,dress,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_337,7,<p>T-shirt/top</p> {<1><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_338,2,<p>T-shirt/top</p> {<6><1><93,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_339,2,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_340,3,<p>T-shirt/top</p> {<32><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_341,4,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_342,0,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_343,3,<p>T-shirt/top</p> {<30><1><6,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<1><1><,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_344,1,<p>T-shirt/top</p> {<35><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_345,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_346,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_347,9,<p>T-shirt/top</p> {<1><7><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_348,4,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_349,9,<p>T-shirt/top</p> {<1><11><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_350,9,<p>T-shirt/top</p> {<1><8><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_351,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_352,7,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_353,8,<p>T-shirt/top</p> {<3><2><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_354,3,<p>T-shirt/top</p> {<22><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_355,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_356,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_357,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_358,4,<p>T-shirt/top</p> {<15><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_359,8,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_360,0,<p>T-shirt/top</p> {<17><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_361,1,<p>T-shirt/top</p> {<32><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_362,2,<p>T-shirt/top</p> {<12><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_363,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_364,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_365,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_366,7,<p>T-shirt/top</p> {<33><41><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_367,3,<p>T-shirt/top</p> {<30><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_368,2,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_369,2,<p>T-shirt/top</p> {<6><1><93,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_370,5,<p>T-shirt/top</p> {<15><26><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_371,0,<p>T-shirt/top</p> {<27><3><7,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_372,7,<p>T-shirt/top</p> {<3><31><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_373,9,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_374,4,<p>T-shirt/top</p> {<17><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_375,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_376,9,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_377,3,<p>T-shirt/top</p> {<26><1><7,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_378,9,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_379,4,<p>T-shirt/top</p> {<23><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_380,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_381,5,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_382,0,<p>T-shirt/top</p> {<6><3><94,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_383,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_384,3,<p>T-shirt/top</p> {<36><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_385,5,<p>T-shirt/top</p> {<19><61><,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<36><3,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_386,8,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_387,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_388,6,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_389,2,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_390,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_391,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_392,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_393,9,<p>T-shirt/top</p> {<19><50><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_394,5,<p>T-shirt/top</p> {<1><4><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_395,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_396,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_397,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_398,6,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_399,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_400,2,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_401,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_402,9,<p>T-shirt/top</p> {<13><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_403,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_404,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_405,4,<p>T-shirt/top</p> {<21><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_406,4,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_407,6,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_408,6,<p>T-shirt/top</p> {<22><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_409,2,<p>T-shirt/top</p> {<13><0><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_410,1,<p>T-shirt/top</p> {<29><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_411,0,<p>T-shirt/top</p> {<19><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_412,6,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_413,7,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_414,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_415,9,<p>T-shirt/top</p> {<10><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_416,4,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_417,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_418,1,<p>T-shirt/top</p> {<31><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_419,5,<p>T-shirt/top</p> {<16><38><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_420,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_421,5,<p>T-shirt/top</p> {<1><34><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_422,3,<p>T-shirt/top</p> {<18><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_423,8,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_424,5,<p>T-shirt/top</p> {<1><5><10,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_425,8,<p>T-shirt/top</p> {<11><41><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_426,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_427,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_428,8,<p>T-shirt/top</p> {<19><54><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_429,9,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_430,8,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_431,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_432,2,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_433,4,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_434,4,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_435,2,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_436,4,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_437,1,<p>T-shirt/top</p> {<38><1><6,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_438,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_439,1,<p>T-shirt/top</p> {<30><1><7,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<38><4,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_440,3,<p>T-shirt/top</p> {<26><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_441,0,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_442,9,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_443,8,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_444,8,<p>T-shirt/top</p> {<14><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_445,6,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_446,5,<p>T-shirt/top</p> {<1><8><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_447,3,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_448,1,<p>T-shirt/top</p> {<28><1><7,No illusion,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_449,9,<p>T-shirt/top</p> {<1><23><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_450,5,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_451,3,<p>T-shirt/top</p> {<25><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_452,3,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_453,0,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_454,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_455,0,<p>T-shirt/top</p> {<16><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_456,2,<p>T-shirt/top</p> {<14><1><8,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_457,9,<p>T-shirt/top</p> {<1><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_458,2,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_459,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_460,6,<p>T-shirt/top</p> {<14><4><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_461,3,<p>T-shirt/top</p> {<26><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_462,4,<p>T-shirt/top</p> {<8><2><96,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_463,2,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_464,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_465,0,<p>T-shirt/top</p> {<11><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_466,3,<p>T-shirt/top</p> {<23><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_467,3,<p>T-shirt/top</p> {<30><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_468,8,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_469,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_470,8,<p>T-shirt/top</p> {<1><1><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_471,9,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_472,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_473,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_474,7,<p>T-shirt/top</p> {<10><21><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_475,6,<p>T-shirt/top</p> {<7><1><96,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_476,4,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_477,4,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_478,9,<p>T-shirt/top</p> {<11><11><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_479,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_480,9,<p>T-shirt/top</p> {<1><5><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_481,5,<p>T-shirt/top</p> {<2><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_482,9,<p>T-shirt/top</p> {<11><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_483,3,<p>T-shirt/top</p> {<21><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_484,7,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_485,5,<p>T-shirt/top</p> {<1><14><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_486,7,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_487,8,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_488,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_489,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_490,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_491,3,<p>T-shirt/top</p> {<1><2><99,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_492,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_493,8,<p>T-shirt/top</p> {<19><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_494,9,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_495,7,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_496,9,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_497,1,<p>T-shirt/top</p> {<33><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_498,2,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_499,7,<p>T-shirt/top</p> {<6><20><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_500,0,<p>T-shirt/top</p> {<27><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_501,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_502,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_503,5,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_504,7,<p>T-shirt/top</p> {<10><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_505,1,<p>T-shirt/top</p> {<34><4><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_506,8,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_507,2,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_508,2,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_509,2,<p>T-shirt/top</p> {<6><1><93,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_510,2,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_511,4,<p>T-shirt/top</p> {<14><0><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_512,2,<p>T-shirt/top</p> {<13><3><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_513,6,<p>T-shirt/top</p> {<14><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_514,1,<p>T-shirt/top</p> {<29><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_515,9,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_516,8,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_517,5,<p>T-shirt/top</p> {<1><26><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_518,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_519,9,<p>T-shirt/top</p> {<1><1><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_520,1,<p>T-shirt/top</p> {<31><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_521,2,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_522,8,<p>T-shirt/top</p> {<1><2><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_523,3,<p>T-shirt/top</p> {<26><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_524,8,<p>T-shirt/top</p> {<10><14><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_525,9,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_526,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_527,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_528,2,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_529,8,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_530,8,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_531,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_532,0,<p>T-shirt/top</p> {<6><1><94,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_533,5,<p>T-shirt/top</p> {<13><41><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_534,8,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_535,8,<p>T-shirt/top</p> {<2><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_536,5,<p>T-shirt/top</p> {<1><23><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_537,3,<p>T-shirt/top</p> {<30><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_538,9,<p>T-shirt/top</p> {<1><8><99,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_539,4,<p>T-shirt/top</p> {<14><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_540,3,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_541,4,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_542,4,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_543,5,<p>T-shirt/top</p> {<1><18><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_544,1,<p>T-shirt/top</p> {<30><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_545,0,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_546,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_547,2,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_548,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_549,6,<p>T-shirt/top</p> {<1><1><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_550,9,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_551,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_552,1,<p>T-shirt/top</p> {<38><0><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_553,5,<p>T-shirt/top</p> {<1><34><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_554,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_555,1,<p>T-shirt/top</p> {<35><1><6,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_556,1,<p>T-shirt/top</p> {<31><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_557,9,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_558,3,<p>T-shirt/top</p> {<23><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_559,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_560,5,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_561,3,<p>T-shirt/top</p> {<29><1><7,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_562,6,<p>T-shirt/top</p> {<22><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_563,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_564,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_565,4,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_566,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_567,0,t-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_568,5,<p>T-shirt/top</p> {<15><34><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_569,8,<p>T-shirt/top</p> {<10><3><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_570,3,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_571,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_572,4,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_573,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_574,7,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<39><8,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_575,7,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_576,8,<p>T-shirt/top</p> {<10><16><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_577,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_578,0,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_579,3,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_580,8,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_581,7,<p>T-shirt/top</p> {<1><26><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_582,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_583,7,<p>T-shirt/top</p> {<1><31><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_584,9,<p>T-shirt/top</p> {<14><14><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_585,3,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_586,4,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_587,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_588,6,<p>T-shirt/top</p> {<24><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_589,5,<p>T-shirt/top</p> {<1><24><9,No illusion,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_590,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_591,1,<p>T-shirt/top</p> {<26><3><7,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_592,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_593,5,<p>T-shirt/top</p> {<1><8><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_594,9,<p>T-shirt/top</p> {<4><1><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_595,4,<p>T-shirt/top</p> {<25><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_596,6,<p>T-shirt/top</p> {<12><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_597,5,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_598,7,<p>T-shirt/top</p> {<1><31><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_599,8,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_600,1,<p>T-shirt/top</p> {<33><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_601,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_602,9,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_603,7,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_604,7,<p>T-shirt/top</p> {<1><28><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_605,1,<p>T-shirt/top</p> {<29><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_606,0,<p>T-shirt/top</p> {<14><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_607,9,<p>T-shirt/top</p> {<11><14><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_608,3,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_609,2,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_610,9,<p>T-shirt/top</p> {<10><20><,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_611,0,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_612,7,<p>T-shirt/top</p> {<12><28><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_613,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_614,8,<p>T-shirt/top</p> {<3><19><8,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_615,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_616,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_617,0,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_618,2,<p>T-shirt/top</p> {<14><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_619,3,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_620,8,<p>T-shirt/top</p> {<13><8><8,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_621,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_622,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_623,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_624,9,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_625,3,<p>T-shirt/top</p> {<22><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_626,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_627,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_628,8,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_629,6,<p>T-shirt/top</p> {<1><12><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_630,2,<p>T-shirt/top</p> {<11><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_631,9,<p>T-shirt/top</p> {<11><13><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_632,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_633,2,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_634,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_635,6,<p>T-shirt/top</p> {<18><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_636,8,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_637,0,<p>T-shirt/top</p> {<11><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_638,4,<p>T-shirt/top</p> {<26><4><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_639,4,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_640,4,<p>T-shirt/top</p> {<7><1><95,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_641,7,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_642,5,<p>T-shirt/top</p> {<14><50><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_643,8,<p>T-shirt/top</p> {<11><5><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_644,4,<p>T-shirt/top</p> {<16><3><8,<p>illusion T-shirt/top</p> {<16><2,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_645,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_646,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_647,0,<p>T-shirt/top</p> {<16><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_648,5,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_649,4,<p>T-shirt/top</p> {<14><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_650,4,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_651,4,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_652,0,<p>T-shirt/top</p> {<15><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_653,0,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_654,4,<p>T-shirt/top</p> {<13><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_655,5,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_656,6,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_657,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_658,4,<p>T-shirt/top</p> {<25><5><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_659,5,<p>Sandal</p> {<4><14><96><83,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_660,4,<p>T-shirt/top</p> {<18><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_661,1,<p>T-shirt/top</p> {<34><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_662,3,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_663,1,<p>T-shirt/top</p> {<30><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_664,1,<p>T-shirt/top</p> {<27><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_665,6,<p>T-shirt/top</p> {<15><1><8,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_666,4,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_667,3,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_668,8,<p>T-shirt/top</p> {<3><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_669,2,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_670,8,<p>T-shirt/top</p> {<10><7><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_671,2,<p>T-shirt/top</p> {<23><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_672,7,<p>T-shirt/top</p> {<1><19><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_673,0,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_674,4,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_675,0,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_676,8,<p>T-shirt/top</p> {<2><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_677,5,<p>T-shirt/top</p> {<1><7><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_678,0,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_679,8,<p>T-shirt/top</p> {<25><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_680,2,<p>T-shirt/top</p> {<13><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_681,9,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_682,0,<p>T-shirt/top</p> {<7><1><92,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_683,8,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_684,9,<p>T-shirt/top</p> {<3><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_685,6,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_686,4,<p>T-shirt/top</p> {<21><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_687,2,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_688,9,<p>T-shirt/top</p> {<3><2><96,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_689,3,<p>T-shirt/top</p> {<1><2><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_690,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_691,5,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_692,0,<p>T-shirt/top</p> {<15><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_693,9,<p>T-shirt/top</p> {<1><3><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_694,5,<p>T-shirt/top</p> {<1><5><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_695,3,<p>T-shirt/top</p> {<24><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_696,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_697,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_698,8,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_699,3,<p>T-shirt/top</p> {<36><2><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_700,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_701,8,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_702,1,<p>T-shirt/top</p> {<38><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_703,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_704,0,<p>T-shirt/top</p> {<10><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_705,9,<p>T-shirt/top</p> {<1><8><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_706,7,<p>T-shirt/top</p> {<1><17><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_707,9,<p>T-shirt/top</p> {<47><16><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_708,4,<p>T-shirt/top</p> {<19><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_709,8,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_710,9,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_711,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_712,6,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_713,7,<p>T-shirt/top</p> {<1><26><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_714,3,<p>T-shirt/top</p> {<29><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_715,0,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_716,2,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_717,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_718,7,<p>T-shirt/top</p> {<1><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_719,1,<p>T-shirt/top</p> {<33><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_720,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_721,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_722,8,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_723,5,<p>T-shirt/top</p> {<1><26><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_724,2,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_725,6,<p>T-shirt/top</p> {<11><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_726,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_727,6,T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_728,4,<p>T-shirt/top</p> {<17><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_729,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_730,5,<p>T-shirt/top</p> {<12><24><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_731,9,<p>T-shirt/top</p> {<1><12><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_732,0,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_733,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_734,1,<p>T-shirt/top</p> {<27><0><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_735,6,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_736,5,<p>T-shirt/top</p> {<1><50><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_737,0,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_738,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_739,3,<p>T-shirt/top</p> {<23><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_740,3,<p>T-shirt/top</p> {<38><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_741,3,<p>T-shirt/top</p> {<30><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_742,8,<p>T-shirt/top</p> {<1><64><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_743,1,<p>T-shirt/top</p> {<37><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_744,1,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_745,8,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_746,5,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_747,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_748,7,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_749,8,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_750,7,<p>T-shirt/top</p> {<19><30><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_751,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_752,0,<p>T-shirt/top</p> {<10><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_753,7,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_754,3,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_755,8,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_756,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_757,9,<p>T-shirt/top</p> {<1><1><95,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_758,7,<p>T-shirt/top</p> {<1><23><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_759,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_760,1,<p>T-shirt/top</p> {<32><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_761,2,<p>T-shirt/top</p> {<28><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_762,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_763,4,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_764,8,<p>T-shirt/top</p> {<10><13><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_765,0,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_766,6,<p>T-shirt/top</p> {<17><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_767,3,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_768,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_769,8,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_770,4,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_771,0,<p>T-shirt/top</p> {<7><1><95,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_772,8,<p>T-shirt/top</p> {<11><18><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_773,9,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_774,2,<p>T-shirt/top</p> {<17><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_775,4,<p>T-shirt/top</p> {<26><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_776,5,<p>T-shirt/top</p> {<11><34><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_777,9,<p>T-shirt/top</p> {<1><14><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_778,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_779,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_780,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_781,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_782,2,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_783,1,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_784,7,<p>T-shirt/top</p> {<1><20><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_785,9,<p>T-shirt/top</p> {<15><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_786,5,<p>T-shirt/top</p> {<1><27><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_787,8,<p>T-shirt/top</p> {<10><22><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_788,1,<p>T-shirt/top</p> {<36><2><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_789,7,<p>T-shirt/top</p> {<15><16><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_790,7,<p>T-shirt/top</p> {<21><30><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_791,1,<p>T-shirt/top</p> {<37><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_792,1,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_793,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_794,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_795,9,<p>T-shirt/top</p> {<1><12><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_796,5,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_797,3,<p>T-shirt/top</p> {<30><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_798,8,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_799,4,<p>T-shirt/top</p> {<15><0><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_800,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_801,7,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_802,4,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_803,8,<p>T-shirt/top</p> {<10><21><,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_804,3,<p>T-shirt/top</p> {<37><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_805,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_806,4,T-shirt/top,There is no illusion in this image.,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_807,4,<p>T-shirt/top</p> {<19><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_808,7,<p>T-shirt/top</p> {<2><28><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_809,1,<p>T-shirt/top</p> {<30><0><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_810,4,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_811,9,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_812,3,<p>T-shirt/top</p> {<22><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_813,5,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_814,8,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_815,5,<p>T-shirt/top</p> {<10><26><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_816,4,<p>T-shirt/top</p> {<16><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_817,7,<p>T-shirt/top</p> {<1><19><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_818,2,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_819,8,<p>T-shirt/top</p> {<1><13><9,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_820,5,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_821,9,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_822,3,<p>T-shirt/top</p> {<20><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_823,3,<p>T-shirt/top</p> {<26><1><7,illusion T-shirt/top,No illusion,illusion T-shirt/top,No illusion
+FashionMnist_824,6,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_825,7,<p>T-shirt/top</p> {<15><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_826,1,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_827,7,<p>T-shirt/top</p> {<1><17><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_828,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_829,5,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_830,4,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_831,4,T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top,No illusion
+FashionMnist_832,5,<p>T-shirt/top</p> {<1><50><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_833,8,<p>T-shirt/top</p> {<17><44><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_834,3,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_835,7,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_836,1,<p>T-shirt/top</p> {<32><1><7,illusion T-shirt/top,<p>a family</p> {<0><1><50><100,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_837,2,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_838,6,t-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_839,1,<p>T-shirt/top</p> {<36><0><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_840,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_841,8,<p>T-shirt/top</p> {<22><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_842,2,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_843,7,<p>T-shirt/top</p> {<1><20><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_844,1,<p>T-shirt/top</p> {<35><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_845,3,<p>T-shirt/top</p> {<33><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_846,7,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_847,5,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_848,9,<p>T-shirt/top</p> {<1><17><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_849,9,<p>T-shirt/top</p> {<1><11><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_850,1,<p>T-shirt/top</p> {<23><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_851,8,<p>T-shirt/top</p> {<1><23><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_852,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_853,5,<p>T-shirt/top</p> {<37><37><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_854,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_855,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_856,9,<p>T-shirt/top</p> {<1><17><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_857,8,<p>T-shirt/top</p> {<1><7><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_858,1,<p>T-shirt/top</p> {<33><3><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_859,0,<p>T-shirt/top</p> {<26><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_860,0,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<57><4,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_861,6,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_862,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_863,7,<p>T-shirt/top</p> {<2><31><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_864,1,<p>T-shirt/top</p> {<34><1><6,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_865,1,<p>T-shirt/top</p> {<26><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_866,5,<p>T-shirt/top</p> {<17><46><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_867,7,<p>T-shirt/top</p> {<2><27><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_868,1,<p>T-shirt/top</p> {<32><1><7,"<p>illusion T-shirt/top</p>
+<p>illusion",illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_869,5,<p>T-shirt/top</p> {<1><30><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_870,2,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_871,2,<p>T-shirt/top</p> {<10><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_872,3,<p>T-shirt/top</p> {<24><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_873,3,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_874,1,<p>T-shirt/top</p> {<32><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_875,1,<p>T-shirt/top</p> {<35><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_876,4,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_877,9,<p>T-shirt/top</p> {<1><10><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_878,4,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_879,3,<p>T-shirt/top</p> {<37><2><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_880,7,<p>T-shirt/top</p> {<1><25><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_881,7,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_882,0,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_883,8,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_884,9,<p>T-shirt/top</p> {<1><11><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_885,9,<p>T-shirt/top</p> {<1><8><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_886,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_887,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_888,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_889,4,<p>T-shirt/top</p> {<14><4><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_890,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_891,0,<p>T-shirt/top</p> {<30><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_892,5,<p>T-shirt/top</p> {<1><1><99,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_893,9,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_894,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_895,0,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_896,5,<p>T-shirt/top</p> {<14><29><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_897,5,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_898,1,<p>T-shirt/top</p> {<32><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_899,5,<p>T-shirt/top</p> {<1><45><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_900,7,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_901,8,<p>T-shirt/top</p> {<11><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_902,7,<p>T-shirt/top</p> {<1><23><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_903,5,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_904,3,<p>T-shirt/top</p> {<26><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_905,6,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_906,4,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_907,0,<p>T-shirt/top</p> {<11><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_908,4,<p>T-shirt/top</p> {<11><4><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_909,0,<p>T-shirt/top</p> {<14><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_910,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_911,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_912,2,<p>T-shirt/top</p> {<12><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_913,5,<p>T-shirt/top</p> {<1><13><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_914,5,<p>T-shirt/top</p> {<1><31><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_915,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_916,2,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_917,0,<p>T-shirt/top</p> {<21><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_918,9,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_919,3,<p>T-shirt/top</p> {<37><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_920,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_921,8,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_922,6,<p>T-shirt/top</p> {<19><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_923,8,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_924,3,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_925,4,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_926,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_927,0,<p>T-shirt/top</p> {<11><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_928,7,<p>T-shirt/top</p> {<1><28><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_929,4,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_930,8,<p>T-shirt/top</p> {<1><41><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_931,0,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_932,3,<p>T-shirt/top</p> {<30><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_933,4,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_934,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_935,3,<p>T-shirt/top</p> {<22><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_936,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_937,9,<p>T-shirt/top</p> {<1><7><99,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_938,0,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_939,6,<p>T-shirt/top</p> {<1><2><99,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_940,4,<p>T-shirt/top</p> {<23><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_941,9,<p>T-shirt/top</p> {<1><13><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_942,1,<p>T-shirt/top</p> {<32><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_943,8,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_944,1,<p>T-shirt/top</p> {<32><1><6,<p>illusion T-shirt/top</p> {<33><1,illusion T-shirt/top,No illusion,No illusion
+FashionMnist_945,7,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_946,5,<p>T-shirt/top</p> {<1><1><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_947,5,<p>T-shirt/top</p> {<1><38><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_948,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_949,0,<p>T-shirt/top</p> {<26><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_950,2,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_951,1,<p>T-shirt/top</p> {<28><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_952,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_953,5,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_954,4,<p>T-shirt/top</p> {<4><1><94,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_955,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_956,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_957,6,<p>T-shirt/top</p> {<6><2><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_958,7,<p>T-shirt/top</p> {<1><26><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_959,5,<p>T-shirt/top</p> {<10><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_960,0,<p>T-shirt/top</p> {<16><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_961,3,<p>T-shirt/top</p> {<18><0><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_962,5,<p>T-shirt/top</p> {<4><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_963,9,<p>T-shirt/top</p> {<11><11><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_964,6,T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top,No illusion
+FashionMnist_965,8,<p>T-shirt/top</p> {<11><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_966,0,<p>T-shirt/top</p> {<12><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_967,6,<p>T-shirt/top</p> {<1><2><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_968,4,<p>T-shirt/top</p> {<22><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_969,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_970,2,T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_971,9,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_972,6,<p>T-shirt/top</p> {<21><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_973,7,<p>T-shirt/top</p> {<11><22><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_974,7,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_975,1,<p>T-shirt/top</p> {<31><1><6,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_976,4,<p>T-shirt/top</p> {<4><1><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_977,2,<p>T-shirt/top</p> {<12><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_978,6,<p>T-shirt/top</p> {<14><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_979,5,<p>T-shirt/top</p> {<3><44><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_980,3,<p>T-shirt/top</p> {<10><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_981,9,<p>T-shirt/top</p> {<7><1><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_982,9,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_983,8,<p>T-shirt/top</p> {<11><4><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_984,8,<p>T-shirt/top</p> {<10><16><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_985,3,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_986,0,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_987,2,<p>T-shirt/top</p> {<18><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_988,4,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_989,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_990,6,<p>T-shirt/top</p> {<19><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_991,3,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_992,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_993,3,<p>T-shirt/top</p> {<30><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_994,5,<p>T-shirt/top</p> {<10><24><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_995,4,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_996,9,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_997,3,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_998,4,<p>T-shirt/top</p> {<7><2><95,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_999,7,<p>T-shirt/top</p> {<25><30><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1000,7,<p>T-shirt/top</p> {<1><20><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1001,0,<p>T-shirt/top</p> {<10><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1002,3,<p>T-shirt/top</p> {<21><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1003,5,<p>T-shirt/top</p> {<1><1><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1004,5,<p>T-shirt/top</p> {<1><15><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1005,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1006,0,<p>T-shirt/top</p> {<12><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1007,5,<p>T-shirt/top</p> {<1><39><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1008,9,<p>T-shirt/top</p> {<1><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1009,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1010,3,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1011,7,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1012,5,<p>T-shirt/top</p> {<1><10><9,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1013,1,<p>T-shirt/top</p> {<31><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1014,9,<p>T-shirt/top</p> {<1><8><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1015,8,<p>T-shirt/top</p> {<10><5><9,illusion T-shirt/top,No illusion,illusion T-shirt/top,No illusion
+FashionMnist_1016,8,<p>T-shirt/top</p> {<16><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1017,9,<p>T-shirt/top</p> {<3><1><97,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1018,9,<p>T-shirt/top</p> {<10><10><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1019,2,<p>T-shirt/top</p> {<15><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1020,7,<p>T-shirt/top</p> {<41><26><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1021,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1022,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1023,3,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1024,8,<p>T-shirt/top</p> {<9><1><92,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1025,7,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1026,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1027,4,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1028,5,<p>T-shirt/top</p> {<12><26><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1029,4,<p>T-shirt/top</p> {<14><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1030,3,<p>T-shirt/top</p> {<39><16><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1031,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1032,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1033,4,<p>T-shirt/top</p> {<19><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1034,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1035,3,<p>T-shirt/top</p> {<32><5><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1036,1,<p>T-shirt/top</p> {<37><4><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1037,6,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1038,5,<p>T-shirt/top</p> {<1><31><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1039,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1040,5,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1041,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1042,5,<p>T-shirt/top</p> {<1><4><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1043,2,<p>T-shirt/top</p> {<14><2><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1044,3,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1045,3,<p>T-shirt/top</p> {<36><2><6,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1046,9,<p>T-shirt/top</p> {<1><16><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1047,6,<p>T-shirt/top</p> {<24><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1048,3,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1049,6,<p>T-shirt/top</p> {<15><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1050,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1051,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1052,5,<p>T-shirt/top</p> {<1><21><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1053,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1054,4,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1055,9,<p>T-shirt/top</p> {<6><22><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1056,4,<p>T-shirt/top</p> {<15><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1057,6,<p>T-shirt/top</p> {<6><2><94,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1058,3,<p>T-shirt/top</p> {<22><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1059,6,'T-shirt/top',illusion T-shirt/top,<p>illusion T-shirt/top</p> {<34><4,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1060,7,<p>T-shirt/top</p> {<1><18><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1061,0,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1062,2,<p>T-shirt/top</p> {<13><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1063,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1064,1,<p>T-shirt/top</p> {<34><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1065,4,<p>T-shirt/top</p> {<23><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1066,4,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1067,8,<p>T-shirt/top</p> {<3><3><90,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1068,5,<p>T-shirt/top</p> {<1><7><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1069,9,<p>T-shirt/top</p> {<10><17><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1070,0,<p>T-shirt/top</p> {<12><1><8,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1071,1,<p>T-shirt/top</p> {<22><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1072,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1073,5,<p>T-shirt/top</p> {<1><5><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1074,1,<p>T-shirt/top</p> {<34><2><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1075,4,<p>T-shirt/top</p> {<2><3><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1076,4,<p>T-shirt/top</p> {<22><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1077,8,<p>T-shirt/top</p> {<21><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1078,4,<p>T-shirt/top</p> {<8><1><91,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1079,7,<p>T-shirt/top</p> {<1><27><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1080,7,<p>T-shirt/top</p>,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1081,3,<p>T-shirt/top</p> {<31><3><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1082,8,<p>T-shirt/top</p> {<10><30><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1083,1,<p>T-shirt/top</p> {<33><3><7,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<39><5,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1084,1,<p>T-shirt/top</p> {<27><0><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1085,9,<p>T-shirt/top</p> {<1><7><98,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1086,8,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1087,1,<p>T-shirt/top</p> {<34><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1088,3,<p>T-shirt/top</p> {<34><2><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1089,3,<p>T-shirt/top</p> {<25><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1090,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1091,5,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1092,1,<p>T-shirt/top</p> {<22><0><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1093,5,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1094,7,<p>T-shirt/top</p> {<10><29><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1095,8,<p>T-shirt/top</p> {<1><7><98,No illusion,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1096,9,<p>T-shirt/top</p> {<1><10><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1097,6,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<28><3,illusion T-shirt/top,<p>illusion T-shirt/top</p> {<27><3
+FashionMnist_1098,3,<p>T-shirt/top</p> {<23><0><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1099,5,<p>T-shirt/top</p> {<1><5><99,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1100,8,<p>T-shirt/top</p> {<1><14><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1101,4,T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1102,4,<p>T-shirt/top</p> {<16><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1103,3,<p>T-shirt/top</p> {<34><2><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1104,8,<p>T-shirt/top</p> {<1><19><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1105,4,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1106,5,<p>T-shirt/top</p> {<1><1><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1107,5,<p>T-shirt/top</p> {<11><14><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1108,6,<p>T-shirt/top</p> {<1><1><10,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1109,7,<p>T-shirt/top</p> {<15><21><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1110,1,<p>T-shirt/top</p> {<33><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1111,5,<p>T-shirt/top</p> {<18><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1112,0,<p>T-shirt/top</p> {<29><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1113,5,<p>T-shirt/top</p> {<1><14><1,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1114,4,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1115,8,<p>T-shirt/top</p> {<10><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1116,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1117,2,<p>T-shirt/top</p> {<13><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1118,1,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1119,1,<p>T-shirt/top</p> {<32><2><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1120,7,<p>T-shirt/top</p> {<1><28><1,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1121,9,<p>T-shirt/top</p> {<1><12><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1122,6,<p>T-shirt/top</p> {<17><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1123,2,<p>T-shirt/top</p> {<21><2><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1124,7,<p>T-shirt/top</p> {<2><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1125,0,<p>T-shirt/top</p> {<20><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1126,4,<p>T-shirt/top</p> {<13><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1127,8,<p>T-shirt/top</p> {<1><13><9,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1128,2,<p>T-shirt/top</p> {<17><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1129,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1130,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1131,6,<p>T-shirt/top</p> {<23><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1132,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1133,4,<p>T-shirt/top</p> {<14><1><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1134,9,<p>T-shirt/top</p> {<19><18><,illusion T-shirt/top,illusion T-shirt/top,No illusion,illusion T-shirt/top
+FashionMnist_1135,6,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1136,8,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1137,4,<p>T-shirt/top</p> {<11><3><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1138,5,'T-shirt/top',illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1139,9,<p>T-shirt/top</p> {<11><17><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1140,0,<p>T-shirt/top</p> {<27><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1141,3,<p>T-shirt/top</p> {<21><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1142,9,<p>T-shirt/top</p> {<1><20><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1143,4,T-shirt/top,illusion T-shirt/top,"9 images of a carnival with various rides and attractions, including a Ferris",illusion T-shirt/top,"12 images of a carousel with different objects on it, including a T-shirt"
+FashionMnist_1144,9,<p>T-shirt/top</p> {<1><11><9,illusion T-shirt/top,illusion T-shirt/top,illusion,illusion T-shirt/top
+FashionMnist_1145,8,<p>T-shirt/top</p> {<27><48><,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1146,7,<p>T-shirt/top</p> {<1><24><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1147,4,<p>T-shirt/top</p> {<27><1><7,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1148,2,<p>T-shirt/top</p> {<15><1><8,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1149,2,T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1150,5,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top
+FashionMnist_1151,3,<p>T-shirt/top</p> {<30><1><6,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,No illusion
+FashionMnist_1152,7,<p>T-shirt/top</p> {<1><28><9,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top,illusion T-shirt/top

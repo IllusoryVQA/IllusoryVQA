@@ -1,0 +1,1111 @@
+image_name,label,raw_answer,ill_answer,ill_less_answer,ill_filtered_answer,ill_less_filtered_answer
+Mnist_1,7,<p>digit 7</p> {<20><24><80><,illusion digit 8,no illusion digit,illusion digit 7,illusion digit 0
+Mnist_2,2,<p>digit 2</p> {<27><10><96><,illusion digit 1,illusion digit 1,illusion digit 2,illusion digit 0
+Mnist_3,1,<p>digit 1</p> {<37><12><67><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_4,0,<p>digit 5</p> {<36><14><63><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_5,4,<p>digit 4</p> {<22><13><77><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_6,1,<p>digit 1</p> {<37><16><69><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_7,4,<p>digit 4</p> {<20><16><83><,illusion digit 5,illusion digit 8,illusion digit 1,illusion digit 5
+Mnist_8,9,<p>digit 8</p> {<29><20><83><,no illusion digit,no illusion digit,no illusion digit,illusion digit 0
+Mnist_9,5,<p>digit 8</p> {<16><10><92><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_10,9,<p>digit 9</p> {<21><25><84><,illusion digit 8,illusion digit 8,illusion digit 9,illusion digit 1
+Mnist_11,0,<p>digit 0</p> {<23><13><83><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_12,6,<p>digit 8</p> {<23><10><86><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 8
+Mnist_13,9,<p>digit 9</p> {<27><22><78><,illusion digit 8,no illusion digit,illusion digit 9,illusion digit 8
+Mnist_14,0,<p>digit 0</p> {<24><14><81><,illusion digit 0,no illusion digit,illusion digit 8,illusion digit 0
+Mnist_15,1,<p>digit 1</p> {<41><13><61><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 1
+Mnist_16,5,<p>digit 5</p> {<26><12><88><,illusion digit 0,illusion digit 5,no illusion digit,no illusion digit
+Mnist_17,9,<p>digit 9</p> {<21><19><78><,illusion digit 5,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_18,7,<p>digit 7</p> {<15><23><80><,illusion digit 7,illusion digit 8,no illusion digit,no illusion digit
+Mnist_19,3,<p>digit 3</p> {<16><14><89><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_20,4,<p>digit 4</p> {<27><16><74><,illusion digit 8,illusion digit 8,illusion digit 4,no illusion digit
+Mnist_21,9,<p>digit 9</p> {<28><21><79><,illusion digit 1,illusion digit 8,illusion digit 9,no illusion digit
+Mnist_22,6,<p>digit 6</p> {<30><9><77><8,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_23,6,<p>digit 8</p> {<24><10><81><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_24,5,<p>digit 5</p> {<24><14><91><,no illusion digit,no illusion digit,no illusion digit,illusion digit 0
+Mnist_25,4,<p>digit 4</p> {<23><14><76><,illusion digit 5,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_26,0,<p>digit 5</p> {<16><16><89><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_27,7,digit 7,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_28,4,<p>digit 4</p> {<22><14><77><,<p>no illusion digit</p> {<27><11><76,illusion digit 0,illusion digit 4,no illusion digit
+Mnist_29,0,<p>digit 5</p> {<28><16><78><,illusion digit 0,illusion digit 0,illusion digit 8,illusion digit 0
+Mnist_30,1,<p>digit 5</p> {<40><13><60><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_31,3,digit 3,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_32,1,<p>digit 5</p> {<42><16><63><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 0
+Mnist_33,3,<p>digit 3</p> {<22><15><77><,illusion digit 1,illusion digit 0,illusion digit 3,no illusion digit
+Mnist_34,4,<p>digit 5</p> {<17><17><91><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_35,7,<p>digit 7</p> {<24><19><83><,illusion digit 8,illusion digit 5,illusion digit 7,illusion digit 0
+Mnist_36,2,digit 2,illusion digit 8,no illusion digit,illusion digit 2,no illusion digit
+Mnist_37,7,digit 5,illusion digit 8,no illusion digit,illusion digit 5,illusion digit 8
+Mnist_38,1,<p>digit 1</p> {<41><14><58><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_39,2,digit 2,illusion digit 5,illusion digit 5,illusion digit 2,illusion digit 0
+Mnist_40,1,<p>digit 5</p> {<41><13><62><,no illusion digit,illusion digit 8,no illusion digit,no illusion digit
+Mnist_41,1,<p>digit 5</p> {<43><14><56><,illusion digit 5,illusion digit 5,illusion digit 1,illusion digit 0
+Mnist_42,7,<p>digit 7</p> {<23><23><76><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_43,4,<p>digit 4</p> {<23><18><76><,no illusion digit,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_44,2,<p>digit 2</p> {<17><14><90><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_45,3,<p>digit 3</p> {<30><13><70><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_46,5,<p>digit 5</p> {<26><14><80><,illusion digit 0,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_47,1,<p>digit 5</p> {<35><11><72><,illusion digit 5,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_48,2,<p>digit 0</p> {<27><6><81><7,illusion digit 0,illusion digit 5,illusion digit 0,illusion digit 8
+Mnist_49,4,<p>digit 4</p> {<21><19><78><,illusion digit 4,no illusion digit,illusion digit 4,no illusion digit
+Mnist_50,4,<p>digit 4</p> {<23><13><83><,illusion digit 8,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_51,6,<p>digit 6</p> {<31><8><76><8,illusion digit 0,no illusion digit,illusion digit 6,illusion digit 5
+Mnist_52,3,<p>digit 3</p> {<13><19><86><,illusion digit 0,illusion digit 0,illusion digit 3,no illusion digit
+Mnist_53,5,<p>digit 5</p> {<21><13><94><,no illusion digit,no illusion digit,no illusion digit,illusion digit 5
+Mnist_54,5,<p>digit 5</p> {<26><11><82><,illusion digit 5,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_55,6,<p>digit 8</p> {<21><10><94><,illusion digit 8,illusion digit 1,illusion digit 0,no illusion digit
+Mnist_56,0,<p>digit 0</p> {<31><17><76><,illusion digit 8,no illusion digit,illusion digit 0,no illusion digit
+Mnist_57,4,<p>digit 4</p> {<22><15><83><,illusion digit 0,no illusion digit,'illusion digit 1',no illusion digit
+Mnist_58,1,<p>digit 5</p> {<40><16><64><,illusion digit 1,no illusion digit,no illusion digit,illusion digit 5
+Mnist_59,9,digit 9,illusion digit 8,no illusion digit,illusion digit 9,no illusion digit
+Mnist_60,5,<p>digit 5</p> {<32><31><87><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_61,7,<p>digit 8</p> {<8><21><79><9,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_62,8,<p>digit 8</p> {<14><17><86><,illusion digit 5,illusion digit 1,illusion digit 8,illusion digit 1
+Mnist_63,9,<p>digit 9</p> {<30><19><70><,illusion digit 1,no illusion digit,illusion digit 0,no illusion digit
+Mnist_64,3,<p>digit 3</p> {<19><10><73><,no illusion digit,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_65,7,<p>digit 7</p> {<15><22><84><,no illusion digit,illusion digit 0,illusion digit 7,illusion digit 0
+Mnist_66,4,<p>digit 4</p> {<34><14><66><,illusion digit 5,illusion digit 0,illusion digit 4,illusion digit 8
+Mnist_67,6,<p>digit 8</p> {<24><6><81><7,illusion digit 1,no illusion digit,illusion digit 0,no illusion digit
+Mnist_68,4,<p>digit 5</p> {<15><14><84><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 5
+Mnist_69,3,<p>digit 3</p> {<23><16><76><,no illusion digit,no illusion digit,illusion digit 3,illusion digit 5
+Mnist_70,0,<p>digit 8</p> {<16><21><91><,no illusion digit,illusion digit 1,illusion digit 8,illusion digit 8
+Mnist_71,7,<p>digit 7</p> {<5><28><78><9,no illusion digit,illusion digit 1,no illusion digit,no illusion digit
+Mnist_72,0,<p>digit 5</p> {<20><13><87><,illusion digit 5,<p>no illusion digit</p> {<1><1><27><2,illusion digit 8,no illusion digit
+Mnist_73,2,<p>digit 0</p> {<19><13><80><,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_74,9,<p>digit 9</p> {<22><19><77><,no illusion digit,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_75,1,<p>digit 1</p> {<41><15><58><,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_76,7,digit 5,illusion digit 5,no illusion digit,illusion digit 7,illusion digit 8
+Mnist_77,3,<p>digit 3</p> {<26><12><74><,no illusion digit,illusion digit 0,no illusion digit,no illusion digit
+Mnist_78,2,<p>digit 2</p> {<17><26><92><,illusion digit 8,illusion digit 5,illusion digit 2,illusion digit 8
+Mnist_79,9,<p>digit 8</p> {<35><21><72><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 5
+Mnist_80,7,<p>digit 7</p> {<17><22><83><,illusion digit 1,illusion digit 0,illusion digit 7,illusion digit 0
+Mnist_81,7,the digit 9,illusion digit 5,illusion digit 5,illusion digit 1,no illusion digit
+Mnist_82,6,<p>digit 5</p> {<30><10><77><,no illusion digit,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_83,2,<p>digit 2</p> {<22><11><84><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_84,7,<p>digit 7</p> {<21><24><73><,illusion digit 8,no illusion digit,illusion digit 7,no illusion digit
+Mnist_85,8,<p>digit 5</p> {<21><14><85><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_86,4,<p>digit 4</p> {<18><17><81><,illusion digit 5,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_87,7,<p>digit 7</p> {<26><22><74><,no illusion digit,no illusion digit,illusion digit 7,no illusion digit
+Mnist_88,3,digit 3,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_89,6,<p>digit 8</p> {<29><7><85><8,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_90,1,<p>digit 5</p> {<36><13><59><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_91,3,<p>digit 3</p> {<22><16><77><,illusion digit 5,illusion digit 5,'illusion digit 3',illusion digit 9
+Mnist_92,6,<p>digit 6</p> {<30><5><78><7,illusion digit 5,illusion digit 1,illusion digit 6,illusion digit 8
+Mnist_93,9,<p>digit 9</p> {<32><16><82><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 1
+Mnist_94,3,<p>digit 3</p> {<26><18><74><,no illusion digit,illusion digit 1,illusion digit 8,illusion digit 8
+Mnist_95,1,<p>digit 5</p> {<40><13><68><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_96,4,<p>digit 5</p> {<17><14><82><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_97,1,<p>digit 5</p> {<35><16><64><,illusion digit 5,illusion digit 1,illusion digit 8,illusion digit 1
+Mnist_98,7,<p>digit 5</p> {<23><21><97><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 5
+Mnist_99,6,<p>digit 5</p> {<26><10><78><,illusion digit 8,illusion digit 0,illusion digit 6,illusion digit 5
+Mnist_100,9,<p>digit 9</p> {<21><19><78><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_101,6,<p>digit 8</p> {<30><6><84><7,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 5
+Mnist_102,0,<p>digit 8</p> {<23><18><84><,illusion digit 1,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_103,5,digit 5,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 0
+Mnist_104,4,<p>digit 4</p> {<10><16><76><,no illusion digit,illusion digit 5,illusion digit 4,illusion digit 8
+Mnist_105,9,<p>digit 5</p> {<20><21><78><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_106,9,<p>digit 9</p> {<23><23><76><,illusion digit 1,illusion digit 5,illusion digit 9,illusion digit 1
+Mnist_107,2,<p>digit 3</p> {<16><13><83><,illusion digit 5,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_108,1,<p>digit 5</p> {<33><13><72><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_109,9,<p>digit 1</p> {<22><19><73><,illusion digit 5,illusion digit 5,illusion digit 1,illusion digit 8
+Mnist_110,4,<p>digit 4</p> {<26><11><80><,no illusion digit,illusion digit 8,illusion digit 4,illusion digit 8
+Mnist_111,8,<p>digit 8</p> {<22><13><77><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_112,7,<p>digit 5</p> {<34><21><65><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_113,3,<p>digit 3</p> {<32><16><67><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_114,9,<p>digit 9</p> {<27><22><73><,illusion digit 8,no illusion digit,illusion digit 9,no illusion digit
+Mnist_115,7,<p>digit 5</p> {<31><19><73><,no illusion digit,illusion digit 9,no illusion digit,no illusion digit
+Mnist_116,4,<p>digit 5</p> {<27><12><68><,illusion digit 0,illusion digit 1,illusion digit 4,illusion digit 0
+Mnist_117,4,<p>digit 5</p> {<33><16><73><,illusion digit 5,no illusion digit,illusion digit 1,no illusion digit
+Mnist_118,4,<p>digit 5</p> {<18><18><82><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_119,9,<p>digit 9</p> {<37><43><63><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_120,2,<p>digit 5</p> {<22><17><77><,illusion digit 5,illusion digit 1,illusion digit 8,illusion digit 0
+Mnist_121,5,<p>digit 5</p> {<21><16><78><,illusion digit 8,no illusion digit,illusion digit 5,illusion digit 8
+Mnist_122,4,<p>digit 9</p> {<30><12><83><,illusion digit 8,illusion digit 0,illusion digit 0,illusion digit 1
+Mnist_123,7,<p>digit 8</p> {<24><21><66><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_124,6,<p>digit 5</p> {<27><5><76><7,illusion digit 0,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_125,7,digit 7,no illusion digit,illusion digit 0,illusion digit 7,no illusion digit
+Mnist_126,9,<p>digit 0</p> {<28><14><77><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_127,0,<p>digit 5</p> {<14><14><85><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_128,5,<p>digit 5</p> {<27><14><86><,illusion digit 5,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_129,8,<p>digit 8</p> {<21><19><78><,illusion digit 5,illusion digit 0,illusion digit 8,illusion digit 0
+Mnist_130,5,<p>digit 5</p> {<26><16><87><,illusion digit 5,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_131,6,<p>digit 6</p> {<28><8><79><8,no illusion digit,no illusion digit,illusion digit 6,no illusion digit
+Mnist_132,6,<p>digit 6</p> {<27><10><80><,illusion digit 8,no illusion digit,illusion digit 6,no illusion digit
+Mnist_133,5,<p>digit 5</p> {<27><12><82><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_134,7,<p>digit 5</p> {<16><16><77><,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_135,8,<p>digit 8</p> {<30><19><78><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_136,1,<p>digit 1</p> {<42><11><60><,illusion digit 5,<p>illusion digit 5</p> {<41><11><7,no illusion digit,no illusion digit
+Mnist_137,0,<p>digit 0</p> {<30><14><74><,illusion digit 8,illusion digit 5,illusion digit 0,illusion digit 0
+Mnist_138,1,<p>digit 5</p> {<31><12><68><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_139,6,<p>digit 8</p> {<30><10><83><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_140,4,<p>digit 5</p> {<25><20><88><,illusion digit 0,illusion digit 1,illusion digit 0,no illusion digit
+Mnist_141,6,<p>digit 5</p> {<33><10><73><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_142,7,digit 5,illusion digit 5,illusion digit 0,illusion digit 7,illusion digit 5
+Mnist_143,3,<p>digit 3</p> {<18><16><81><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_144,1,<p>digit 5</p> {<38><13><61><,illusion digit 0,illusion digit 1,<p>no illusion digit</p> {<26><1><78><,illusion digit 1
+Mnist_145,7,<p>digit 7</p> {<28><25><78><,illusion digit 5,illusion digit 1,illusion digit 7,no illusion digit
+Mnist_146,1,<p>digit 5</p> {<41><13><61><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_147,8,<p>digit 8</p> {<31><16><84><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_148,2,<p>digit 2</p> {<13><11><79><,illusion digit 0,illusion digit 0,illusion digit 0,illusion digit 0
+Mnist_149,0,<p>digit 8</p> {<27><13><80><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_150,2,<p>digit 5</p> {<21><41><94><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_151,9,<p>digit 9</p> {<21><14><78><,illusion digit 8,illusion digit 5,illusion digit 1,no illusion digit
+Mnist_152,9,<p>digit 9</p> {<18><14><86><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_153,5,<p>digit 5</p> {<23><21><100,illusion digit 8,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_154,5,<p>digit 5</p> {<24><12><76><,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_155,1,<p>digit 1</p> {<47><12><61><,no illusion digit,illusion digit 1,no illusion digit,illusion digit 8
+Mnist_156,5,<p>digit 5</p> {<20><11><87><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_157,6,<p>digit 5</p> {<29><2><82><7,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_158,0,<p>digit 0</p> {<30><14><76><,illusion digit 5,no illusion digit,illusion digit 0,illusion digit 5
+Mnist_159,3,<p>digit 3</p> {<16><14><78><,illusion digit 8,illusion digit 5,'illusion digit 3',illusion digit 5
+Mnist_160,4,<p>digit 4</p> {<26><16><74><,illusion digit 5,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_161,4,<p>digit 5</p> {<28><11><75><,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_162,6,<p>digit 5</p> {<19><5><85><8,illusion digit 1,no illusion digit,no illusion digit,no illusion digit
+Mnist_163,5,<p>digit 5</p> {<23><14><91><,illusion digit 5,illusion digit 0,illusion digit 5,illusion digit 5
+Mnist_164,4,<p>digit 4</p> {<14><17><80><,illusion digit 0,illusion digit 5,illusion digit 4,illusion digit 8
+Mnist_165,6,<p>digit 5</p> {<30><10><82><,illusion digit 1,illusion digit 1,illusion digit 5,illusion digit 0
+Mnist_166,5,<p>digit 5</p> {<26><12><81><,illusion digit 5,no illusion digit,illusion digit 5,illusion digit 5
+Mnist_167,4,<p>digit 4</p> {<23><16><83><,illusion digit 5,illusion digit 8,illusion digit 4,illusion digit 8
+Mnist_168,5,digit 5,illusion digit 8,illusion digit 0,illusion digit 8,illusion digit 8
+Mnist_169,1,<p>digit 1</p> {<41><13><61><,no illusion digit,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_170,4,<p>digit 4</p> {<27><14><74><,illusion digit 0,illusion digit 5,illusion digit 4,illusion digit 5
+Mnist_171,4,<p>digit 4</p> {<27><14><73><,no illusion digit,no illusion digit,illusion digit 4,no illusion digit
+Mnist_172,7,<p>digit 7</p> {<19><19><80><,illusion digit 5,illusion digit 5,illusion digit 7,illusion digit 5
+Mnist_173,2,<p>digit 2</p> {<21><13><95><,illusion digit 8,illusion digit 0,illusion digit 0,illusion digit 5
+Mnist_174,3,<p>digit 3</p> {<22><15><83><,illusion digit 1,illusion digit 1,illusion digit 8,illusion digit 5
+Mnist_175,2,<p>digit 3</p> {<27><14><72><,illusion digit 1,no illusion digit,illusion digit 0,'illusion digit 0'
+Mnist_176,7,<p>digit 1</p> {<37><19><62><,no illusion digit,illusion digit 8,no illusion digit,illusion digit 0
+Mnist_177,1,<p>digit 0</p> {<42><13><57><,no illusion digit,illusion digit 7,illusion digit 0,illusion digit 8
+Mnist_178,8,<p>digit 8</p> {<35><16><73><,illusion digit 0,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_179,1,<p>digit 1</p> {<43><13><61><,no illusion digit,illusion digit 1,no illusion digit,no illusion digit
+Mnist_180,8,<p>digit 0</p> {<28><12><71><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_181,1,<p>digit 1</p> {<45><14><59><,illusion digit 1,no illusion digit,no illusion digit,no illusion digit
+Mnist_182,8,<p>digit 8</p> {<32><11><77><,illusion digit 0,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_183,5,<p>digit 5</p> {<37><14><76><,illusion digit 5,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_184,0,<p>digit 8</p> {<16><12><89><,illusion digit 0,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_185,8,<p>digit 3</p> {<30><13><74><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_186,9,<p>digit 0</p> {<22><14><76><,illusion digit 0,illusion digit 5,no illusion digit,no illusion digit
+Mnist_187,2,<p>digit 2</p> {<26><12><86><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_188,5,<p>digit 5</p> {<26><13><81><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_189,0,<p>digit 8</p> {<21><17><90><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_190,1,<p>digit 5</p> {<42><14><65><,<p>a mountain</p> {<19><14><66><9,illusion digit 0,illusion digit 8,illusion digit 8
+Mnist_191,1,<p>digit 5</p> {<35><16><72><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 8
+Mnist_192,1,<p>digit 5</p> {<33><14><66><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_193,0,<p>digit 8</p> {<15><14><84><,illusion digit 5,illusion digit 1,illusion digit 8,illusion digit 8
+Mnist_194,9,<p>digit 9</p> {<21><19><73><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 8
+Mnist_195,0,<p>digit 5</p> {<23><16><81><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 1
+Mnist_196,3,<p>digit 2</p> {<23><21><76><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 0
+Mnist_197,1,<p>digit 1</p> {<41><13><59><,illusion digit 0,illusion digit 0,illusion digit 0,illusion digit 5
+Mnist_198,6,<p>digit 6</p> {<27><8><77><8,illusion digit 6,illusion digit 8,illusion digit 6,illusion digit 5
+Mnist_199,4,<p>digit 4</p> {<31><20><77><,no illusion digit,illusion digit 0,illusion digit 0,illusion digit 0
+Mnist_200,2,<p>digit 2</p> {<22><13><77><,illusion digit 5,illusion digit 8,illusion digit 2,no illusion digit
+Mnist_201,3,<p>digit 3</p> {<11><12><78><,illusion digit 0,no illusion digit,illusion digit 3,no illusion digit
+Mnist_202,6,<p>digit 8</p> {<17><8><88><8,illusion digit 0,illusion digit 5,no illusion digit,no illusion digit
+Mnist_203,1,<p>digit 5</p> {<34><13><71><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_204,1,<p>digit 1</p> {<47><16><60><,illusion digit 0,illusion digit 1,illusion digit 8,no illusion digit
+Mnist_205,1,<p>digit 5</p> {<38><11><66><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_206,3,<p>digit 3</p> {<23><14><76><,illusion digit 8,illusion digit 5,illusion digit 3,illusion digit 8
+Mnist_207,9,<p>digit 5</p> {<22><19><76><,illusion digit 0,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_208,5,<p>digit 5</p> {<24><16><81><,illusion digit 5,illusion digit 1,illusion digit 5,illusion digit 8
+Mnist_209,2,<p>digit 2</p> {<22><14><94><,illusion digit 8,illusion digit 5,no illusion digit,no illusion digit
+Mnist_210,9,<p>digit 5</p> {<23><22><76><,no illusion digit,illusion digit 8,no illusion digit,no illusion digit
+Mnist_211,4,digit 4,no illusion digit,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_212,5,<p>digit 5</p> {<23><16><84><,no illusion digit,illusion digit 0,no illusion digit,no illusion digit
+Mnist_213,9,<p>digit 9</p> {<21><23><78><,illusion digit 8,illusion digit 8,illusion digit 0,no illusion digit
+Mnist_214,3,<p>digit 3</p> {<31><15><68><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_215,9,<p>digit 9</p> {<28><17><74><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_216,0,<p>digit 0</p> {<27><12><73><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 5
+Mnist_217,3,digit 3,illusion digit 8,illusion digit 5,illusion digit 3,illusion digit 8
+Mnist_218,6,<p>digit 6</p> {<29><11><94><,illusion digit 0,illusion digit 0,illusion digit 5,illusion digit 5
+Mnist_219,5,<p>digit 5</p> {<28><19><86><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 5
+Mnist_220,5,<p>digit 5</p> {<16><15><91><,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_221,7,<p>digit 9</p> {<22><21><71><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_222,2,<p>digit 5</p> {<24><14><75><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_223,2,<p>digit 8</p> {<21><16><94><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_224,7,<p>digit 7</p> {<22><23><76><,illusion digit 1,illusion digit 8,illusion digit 7,illusion digit 0
+Mnist_225,1,<p>digit 5</p> {<36><11><69><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_226,2,<p>digit 2</p> {<20><12><82><,illusion digit 0,illusion digit 1,illusion digit 2,illusion digit 5
+Mnist_227,8,<p>digit 5</p> {<27><16><80><,illusion digit 5,illusion digit 0,illusion digit 8,no illusion digit
+Mnist_228,4,<p>digit 4</p> {<30><14><69><,illusion digit 5,no illusion digit,illusion digit 4,no illusion digit
+Mnist_229,1,<p>digit 5</p> {<32><13><67><,illusion digit 5,illusion digit 0,illusion digit 8,no illusion digit
+Mnist_230,7,digit 7,illusion digit 5,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_231,3,<p>digit 3</p> {<23><13><76><,illusion digit 0,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_232,3,<p>digit 3</p> {<21><13><69><,no illusion digit,illusion digit 5,illusion digit 3,illusion digit 5
+Mnist_233,8,<p>digit 8</p> {<29><13><71><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 0
+Mnist_234,8,<p>digit 5</p> {<23><21><81><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_235,7,<p>digit 7</p> {<27><19><68><,no illusion digit,no illusion digit,illusion digit 7,no illusion digit
+Mnist_236,9,digit 9,illusion digit 0,illusion digit 0,illusion digit 8,no illusion digit
+Mnist_237,2,<p>digit 2</p> {<26><11><81><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_238,2,<p>digit 5</p> {<24><6><80><7,illusion digit 8,no illusion digit,illusion digit 0,no illusion digit
+Mnist_239,4,<p>digit 4</p> {<21><16><78><,illusion digit 5,no illusion digit,illusion digit 4,illusion digit 1
+Mnist_240,1,<p>digit 5</p> {<46><14><60><,illusion digit 1,no illusion digit,illusion digit 1,no illusion digit
+Mnist_241,5,<p>digit 5</p> {<32><11><73><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 9
+Mnist_242,9,<p>digit 9</p> {<23><14><76><,illusion digit 9,no illusion digit,illusion digit 9,no illusion digit
+Mnist_243,8,<p>digit 5</p> {<22><19><90><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_244,7,<p>digit 5</p> {<17><24><91><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_245,2,<p>digit 8</p> {<31><13><76><,illusion digit 0,no illusion digit,illusion digit 5,illusion digit 0
+Mnist_246,3,<p>digit 3</p> {<36><31><58><,no illusion digit,no illusion digit,illusion digit 3,no illusion digit
+Mnist_247,0,<p>digit 5</p> {<18><11><91><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 0
+Mnist_248,4,digit 8,illusion digit 8,illusion digit 0,illusion digit 0,illusion digit 0
+Mnist_249,4,<p>digit 4</p> {<18><16><81><,illusion digit 5,illusion digit 8,illusion digit 4,illusion digit 8
+Mnist_250,2,<p>digit 2</p> {<27><10><73><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_251,4,<p>digit 4</p> {<23><14><76><,illusion digit 8,illusion digit 5,illusion digit 4,illusion digit 8
+Mnist_252,1,<p>digit 5</p> {<42><16><63><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_253,9,<p>digit 9</p> {<21><23><74><,illusion digit 8,illusion digit 5,no illusion digit,no illusion digit
+Mnist_254,5,<p>digit 5</p> {<22><14><84><,illusion digit 8,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_255,7,<p>digit 7</p> {<15><23><68><,illusion digit 0,illusion digit 5,illusion digit 7,illusion digit 0
+Mnist_256,7,<p>digit 7</p> {<27><21><67><,illusion digit 0,no illusion digit,illusion digit 0,illusion digit 5
+Mnist_257,2,<p>digit 2</p> {<28><14><77><,illusion digit 0,illusion digit 5,illusion digit 2,illusion digit 5
+Mnist_258,8,<p>digit 8</p> {<37><13><69><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_259,2,<p>digit 5</p> {<24><11><76><,illusion digit 5,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_260,6,<p>digit 8</p> {<23><8><88><8,illusion digit 1,illusion digit 1,<p>no illusion digit</p> {<23><11><87,illusion digit 1
+Mnist_261,8,<p>digit 5</p> {<30><53><62><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_262,5,<p>digit 5</p> {<20><19><93><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_263,7,digit 7,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_264,7,digit 7,no illusion digit,illusion digit 8,illusion digit 7,illusion digit 8
+Mnist_265,9,<p>digit 9</p> {<31><16><76><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 8
+Mnist_266,1,<p>digit 1</p> {<41><13><61><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 1
+Mnist_267,8,<p>digit 8</p> {<27><13><77><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_268,1,<p>digit 1</p> {<43><12><62><,illusion digit 8,illusion digit 5,illusion digit 0,illusion digit 8
+Mnist_269,8,<p>digit 8</p> {<25><13><82><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_270,0,<p>digit 5</p> {<14><22><86><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 0
+Mnist_271,3,<p>digit 3</p> {<19><16><80><,illusion digit 8,illusion digit 8,illusion digit 3,illusion digit 8
+Mnist_272,0,<p>digit 5</p> {<21><11><78><,illusion digit 8,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_273,1,<p>digit 1</p> {<47><16><61><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_274,9,<p>digit 9</p> {<22><19><77><,illusion digit 5,no illusion digit,illusion digit 9,illusion digit 5
+Mnist_275,9,<p>digit 9</p> {<16><19><81><,illusion digit 5,illusion digit 5,illusion digit 9,illusion digit 5
+Mnist_276,4,<p>digit 4</p> {<27><18><81><,illusion digit 8,no illusion digit,illusion digit 4,no illusion digit
+Mnist_277,1,<p>digit 1</p> {<38><12><61><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_278,8,<p>digit 0</p> {<29><14><83><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_279,2,<p>digit 0</p> {<23><11><83><,no illusion digit,no illusion digit,no illusion digit,illusion digit 0
+Mnist_280,1,<p>digit 1</p> {<48><13><59><,illusion digit 1,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_281,2,<p>digit 2</p> {<25><8><80><8,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_282,9,<p>digit 9</p> {<27><19><79><,no illusion digit,no illusion digit,illusion digit 9,no illusion digit
+Mnist_283,7,<p>digit 1</p> {<32><18><67><,no illusion digit,illusion digit 5,illusion digit 1,no illusion digit
+Mnist_284,5,<p>digit 5</p> {<21><16><91><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 8
+Mnist_285,9,<p>digit 9</p> {<22><18><77><,illusion digit 9,no illusion digit,illusion digit 0,no illusion digit
+Mnist_286,2,<p>digit 9</p> {<18><10><86><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_287,6,<p>digit 6</p> {<36><8><71><8,no illusion digit,illusion digit 1,no illusion digit,illusion digit 5
+Mnist_288,4,<p>digit 5</p> {<11><25><84><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_289,1,<p>digit 5</p> {<39><14><59><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_290,5,<p>digit 5</p> {<30><13><79><,no illusion digit,illusion digit 1,<p>no illusion digit</p> {<35><11><64,illusion digit 8
+Mnist_291,8,<p>digit 5</p> {<20><15><78><,illusion digit 6,no illusion digit,illusion digit 8,no illusion digit
+Mnist_292,2,<p>digit 2</p> {<17><11><82><,illusion digit 8,illusion digit 5,illusion digit 2,illusion digit 5
+Mnist_293,9,<p>digit 5</p> {<27><19><73><,illusion digit 8,illusion digit 8,illusion digit 0,no illusion digit
+Mnist_294,2,<p>digit 5</p> {<26><13><83><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_295,0,<p>digit 8</p> {<26><17><81><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_296,4,<p>digit 4</p> {<23><18><76><,illusion digit 1,illusion digit 1,illusion digit 4,illusion digit 5
+Mnist_297,0,<p>digit 8</p> {<14><13><87><,illusion digit 8,illusion digit 1,illusion digit 8,illusion digit 1
+Mnist_298,0,<p>digit 5</p> {<16><18><91><,illusion digit 0,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_299,2,<p>digit 2</p> {<21><16><95><,illusion digit 2,illusion digit 0,illusion digit 2,illusion digit 5
+Mnist_300,8,<p>digit 8</p> {<26><16><79><,illusion digit 8,illusion digit 5,no illusion digit,no illusion digit
+Mnist_301,4,digit 4,illusion digit 8,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_302,7,<p>digit 5</p> {<26><20><81><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 1
+Mnist_303,1,<p>digit 5</p> {<43><13><62><,illusion digit 8,illusion digit 8,illusion digit 1,no illusion digit
+Mnist_304,2,digit 5,illusion digit 5,<p>a menorah</p> {<21><21><75><,no illusion digit,illusion digit 8
+Mnist_305,4,<p>digit 4</p> {<30><16><76><,illusion digit 8,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_306,0,<p>digit 5</p> {<36><22><63><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_307,2,<p>digit 2</p> {<23><7><91><8,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_308,7,<p>digit 7</p> {<28><21><72><,illusion digit 8,illusion digit 5,illusion digit 7,no illusion digit
+Mnist_309,4,<p>digit 0</p> {<26><21><79><,illusion digit 5,illusion digit 8,illusion digit 0,illusion digit 0
+Mnist_310,3,<p>digit 3</p> {<17><13><78><,no illusion digit,illusion digit 1,no illusion digit,illusion digit 1
+Mnist_311,3,<p>digit 3</p> {<31><14><74><,no illusion digit,illusion digit 8,illusion digit 3,illusion digit 8
+Mnist_312,0,<p>digit 0</p> {<22><12><87><,no illusion digit,illusion digit 8,illusion digit 0,illusion digit 8
+Mnist_313,0,<p>digit 8</p> {<26><13><80><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_314,3,The digit in the image is 'digit 3'.,illusion digit 5,no illusion digit,illusion digit 3,no illusion digit
+Mnist_315,1,<p>digit 1</p> {<45><12><62><,illusion digit 5,illusion digit 0,no illusion digit,illusion digit 5
+Mnist_316,9,<p>digit 9</p> {<18><18><79><,illusion digit 5,illusion digit 5,illusion digit 9,illusion digit 8
+Mnist_317,6,<p>digit 6</p> {<28><10><92><,illusion digit 0,illusion digit 5,illusion digit 6,illusion digit 5
+Mnist_318,5,<p>digit 3</p> {<21><26><94><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_319,2,<p>digit 5</p> {<17><13><82><,illusion digit 5,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_320,5,<p>digit 5</p> {<19><12><91><,illusion digit 8,illusion digit 0,no illusion digit,no illusion digit
+Mnist_321,9,<p>digit 5</p> {<41><20><63><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_322,2,digit 7,illusion digit 0,no illusion digit,illusion digit 7,no illusion digit
+Mnist_323,9,<p>digit 9</p> {<26><21><73><,illusion digit 5,illusion digit 8,illusion digit 1,illusion digit 8
+Mnist_324,3,<p>digit 3</p> {<21><12><73><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_325,0,<p>digit 5</p> {<30><14><78><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_326,4,<p>digit 5</p> {<36><14><83><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_327,2,<p>digit 5</p> {<19><7><88><8,illusion digit 5,illusion digit 3,no illusion digit,no illusion digit
+Mnist_328,0,<p>digit 8</p> {<21><11><84><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_329,7,<p>digit 7</p> {<24><21><75><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_330,1,<p>digit 1</p> {<42><11><61><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_331,1,<p>digit 1</p> {<44><12><61><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_332,2,digit 2,illusion digit 8,illusion digit 8,illusion digit 2,illusion digit 8
+Mnist_333,1,<p>digit 1</p> {<42><14><61><,no illusion digit,no illusion digit,illusion digit 1,no illusion digit
+Mnist_334,5,<p>digit 5</p> {<19><14><87><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_335,3,<p>digit 3</p> {<19><16><74><,illusion digit 3,illusion digit 8,no illusion digit,illusion digit 0
+Mnist_336,3,<p>digit 3</p> {<30><14><71><,illusion digit 8,illusion digit 8,illusion digit 3,illusion digit 8
+Mnist_337,9,<p>digit 9</p> {<21><16><77><,illusion digit 0,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_338,7,digit 5,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_339,8,<p>digit 8</p> {<24><17><92><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_340,6,<p>digit 5</p> {<23><8><80><8,illusion digit 8,illusion digit 5,illusion digit 5,illusion digit 0
+Mnist_341,5,<p>digit 5</p> {<27><10><72><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_342,6,<p>digit 9</p> {<27><10><73><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_343,1,<p>digit 1</p> {<43><16><60><,illusion digit 5,illusion digit 8,illusion digit 1,illusion digit 0
+Mnist_344,3,<p>digit 3</p> {<19><12><81><,illusion digit 8,illusion digit 1,illusion digit 8,illusion digit 1
+Mnist_345,8,<p>digit 8</p> {<36><14><75><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_346,1,<p>digit 5</p> {<43><15><61><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_347,0,<p>digit 5</p> {<31><19><75><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_348,5,<p>digit 5</p> {<28><13><94><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_349,1,<p>digit 5</p> {<39><12><64><,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_350,3,<p>digit 3</p> {<21><19><72><,illusion digit 5,illusion digit 5,illusion digit 3,illusion digit 8
+Mnist_351,1,<p>digit 5</p> {<41><14><66><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_352,5,<p>digit 5</p> {<29><14><77><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_353,5,<p>digit 5</p> {<16><11><91><,no illusion digit,illusion digit 8,illusion digit 5,illusion digit 1
+Mnist_354,6,<p>digit 8</p> {<21><10><85><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_355,1,<p>digit 5</p> {<27><11><78><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 8
+Mnist_356,8,<p>digit 5</p> {<31><14><84><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_357,5,<p>digit 5</p> {<19><13><86><,illusion digit 8,no illusion digit,'illusion digit 5',illusion digit 5
+Mnist_358,1,<p>digit 1</p> {<47><16><60><,illusion digit 5,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_359,7,<p>digit 7</p> {<13><19><72><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_360,9,<p>digit 4</p> {<22><14><76><,illusion digit 8,no illusion digit,illusion digit 1,illusion digit 8
+Mnist_361,4,<p>digit 4</p> {<10><15><81><,illusion digit 5,illusion digit 3,no illusion digit,no illusion digit
+Mnist_362,6,<p>digit 8</p> {<27><7><81><8,illusion digit 0,no illusion digit,illusion digit 5,illusion digit 8
+Mnist_363,2,digit 2,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_364,2,<p>digit 2</p> {<29><10><87><,illusion digit 5,illusion digit 8,illusion digit 2,illusion digit 9
+Mnist_365,5,<p>digit 5</p> {<26><13><83><,illusion digit 8,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_366,0,<p>digit 8</p> {<30><17><76><,illusion digit 0,illusion digit 1,illusion digit 8,no illusion digit
+Mnist_367,6,<p>digit 8</p> {<31><7><83><8,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 5
+Mnist_368,5,<p>digit 5</p> {<21><14><87><,illusion digit 5,illusion digit 8,no illusion digit,no illusion digit
+Mnist_369,6,<p>digit 6</p> {<31><11><76><,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_370,3,<p>digit 3</p> {<22><16><77><,illusion digit 5,illusion digit 5,illusion digit 3,illusion digit 5
+Mnist_371,7,<p>digit 7</p> {<16><22><68><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 0
+Mnist_372,2,digit 2,illusion digit 9,no illusion digit,illusion digit 2,illusion digit 0
+Mnist_373,0,<p>digit 5</p> {<23><14><84><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_374,8,<p>digit 8</p> {<38><50><72><,illusion digit 0,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_375,8,<p>digit 8</p> {<31><14><69><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_376,5,<p>digit 5</p> {<24><14><97><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_377,4,<p>digit 4</p> {<31><19><68><,illusion digit 5,no illusion digit,illusion digit 4,illusion digit 5
+Mnist_378,1,<p>digit 5</p> {<41><18><58><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 5
+Mnist_379,1,<p>digit 5</p> {<42><13><58><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 5
+Mnist_380,4,<p>digit 4</p> {<22><19><77><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_381,0,<p>digit 5</p> {<17><13><91><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_382,3,<p>digit 3</p> {<6><23><79><8,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_383,3,<p>digit 3</p> {<23><16><77><,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_384,7,<p>digit 7</p> {<22><22><68><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_385,6,<p>digit 5</p> {<23><5><83><7,illusion digit 8,no illusion digit,illusion digit 6,no illusion digit
+Mnist_386,1,<p>digit 5</p> {<42><13><60><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_387,6,<p>digit 5</p> {<27><10><76><,illusion digit 6,illusion digit 0,illusion digit 6,no illusion digit
+Mnist_388,2,digit 2,illusion digit 8,no illusion digit,illusion digit 2,no illusion digit
+Mnist_389,1,digit 5,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_390,9,<p>digit 9</p> {<28><23><71><,no illusion digit,no illusion digit,illusion digit 1,illusion digit 0
+Mnist_391,2,<p>digit 5</p> {<17><19><89><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 0
+Mnist_392,8,<p>digit 8</p> {<30><14><81><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_393,6,<p>digit 6</p> {<29><6><78><7,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_394,1,<p>digit 5</p> {<40><16><59><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_395,9,<p>digit 1</p> {<22><21><77><,illusion digit 5,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_396,5,<p>digit 5</p> {<26><11><81><,no illusion digit,illusion digit 0,illusion digit 5,no illusion digit
+Mnist_397,2,<p>digit 5</p> {<21><8><92><8,no illusion digit,illusion digit 8,illusion digit 1,illusion digit 8
+Mnist_398,5,<p>digit 5</p> {<29><13><76><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 8
+Mnist_399,4,<p>digit 4</p> {<24><20><76><,illusion digit 0,no illusion digit,illusion digit 4,illusion digit 5
+Mnist_400,4,<p>digit 4</p> {<16><11><77><,illusion digit 1,no illusion digit,illusion digit 4,no illusion digit
+Mnist_401,2,<p>digit 9</p> {<17><12><82><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_402,8,<p>digit 8</p> {<30><17><69><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_403,3,The digit 3 is placed in the image.,illusion digit 5,illusion digit 8,illusion digit 3,illusion digit 5
+Mnist_404,8,<p>digit 8</p> {<22><16><77><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_405,2,<p>digit 2</p> {<26><16><82><,illusion digit 2,illusion digit 5,illusion digit 2,no illusion digit
+Mnist_406,4,<p>digit 4</p> {<15><15><84><,illusion digit 0,illusion digit 5,illusion digit 5,illusion digit 8
+Mnist_407,5,<p>digit 5</p> {<25><13><82><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_408,0,<p>digit 8</p> {<21><16><80><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 0
+Mnist_409,3,<p>digit 3</p> {<23><13><76><,no illusion digit,no illusion digit,illusion digit 3,illusion digit 8
+Mnist_410,1,<p>digit 5</p> {<43><14><66><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_411,7,digit 7,no illusion digit,illusion digit 1,illusion digit 7,illusion digit 0
+Mnist_412,7,<p>digit 7</p> {<31><19><68><,illusion digit 8,illusion digit 5,illusion digit 7,illusion digit 5
+Mnist_413,5,<p>digit 3</p> {<28><18><83><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_414,7,<p>digit 7</p> {<15><24><77><,illusion digit 5,illusion digit 8,illusion digit 7,no illusion digit
+Mnist_415,9,<p>digit 1</p> {<23><19><68><,illusion digit 5,illusion digit 1,illusion digit 0,illusion digit 1
+Mnist_416,7,digit 7,illusion digit 7,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_417,1,<p>digit 5</p> {<41><11><60><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_418,9,<p>digit 9</p> {<30><23><69><,illusion digit 1,illusion digit 0,no illusion digit,no illusion digit
+Mnist_419,2,<p>digit 5</p> {<23><13><91><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 1
+Mnist_420,1,<p>digit 1</p> {<49><12><59><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_421,4,digit 8,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_422,2,<p>digit 2</p> {<14><12><85><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 1
+Mnist_423,9,<p>digit 9</p> {<21><19><68><,illusion digit 5,no illusion digit,illusion digit 9,illusion digit 5
+Mnist_424,2,<p>digit 5</p> {<31><61><78><,illusion digit 8,no illusion digit,illusion digit 0,no illusion digit
+Mnist_425,0,<p>digit 0</p> {<23><11><85><,<p>no illusion digit</p> {<23><11><86,illusion digit 5,no illusion digit,no illusion digit
+Mnist_426,4,the digit 4,illusion digit 4,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_427,9,<p>digit 9</p> {<31><21><68><,no illusion digit,no illusion digit,illusion digit 9,no illusion digit
+Mnist_428,1,<p>digit 1</p> {<45><14><60><,no illusion digit,illusion digit 0,no illusion digit,illusion digit 5
+Mnist_429,4,<p>digit 4</p> {<23><13><78><,illusion digit 4,illusion digit 1,<p>no illusion digit</p> {<23><1><81><,illusion digit 0
+Mnist_430,8,<p>digit 5</p> {<23><16><76><,no illusion digit,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_431,1,<p>digit 5</p> {<40><12><59><,illusion digit 0,illusion digit 8,illusion digit 1,no illusion digit
+Mnist_432,8,<p>digit 5</p> {<28><18><81><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_433,4,<p>digit 5</p> {<32><14><79><,illusion digit 1,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_434,5,<p>digit 5</p> {<21><31><94><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_435,9,<p>digit 9</p> {<31><21><68><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_436,8,<p>digit 8</p> {<31><14><76><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_437,8,<p>digit 5</p> {<32><14><74><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 5
+Mnist_438,3,<p>digit 3</p> {<14><14><85><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 1
+Mnist_439,7,<p>digit 5</p> {<20><23><72><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_440,6,<p>digit 6</p> {<31><10><74><,illusion digit 8,illusion digit 8,illusion digit 6,illusion digit 8
+Mnist_441,0,<p>digit 5</p> {<18><16><89><,illusion digit 8,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_442,0,<p>digit 8</p> {<25><13><79><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_443,3,<p>digit 3</p> {<23><16><81><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_444,0,<p>digit 0</p> {<36><17><69><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_445,2,<p>digit 2</p> {<20><16><84><,no illusion digit,no illusion digit,illusion digit 2,illusion digit 0
+Mnist_446,6,<p>digit 5</p> {<17><16><90><,illusion digit 1,no illusion digit,illusion digit 8,no illusion digit
+Mnist_447,6,<p>digit 6</p> {<27><8><80><8,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_448,4,<p>digit 5</p> {<19><18><80><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 1
+Mnist_449,9,<p>digit 9</p> {<28><14><76><,no illusion digit,illusion digit 5,illusion digit 9,illusion digit 8
+Mnist_450,3,<p>digit 5</p> {<13><18><86><,illusion digit 0,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_451,3,<p>digit 3</p> {<24><16><76><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_452,3,<p>digit 3</p> {<23><14><76><,illusion digit 0,illusion digit 0,illusion digit 3,illusion digit 0
+Mnist_453,2,<p>digit 2</p> {<22><10><82><,illusion digit 0,no illusion digit,illusion digit 2,illusion digit 1
+Mnist_454,3,<p>digit 3</p> {<16><14><84><,illusion digit 0,illusion digit 8,illusion digit 3,no illusion digit
+Mnist_455,9,<p>digit 9</p> {<21><23><77><,illusion digit 5,illusion digit 5,illusion digit 9,illusion digit 5
+Mnist_456,1,<p>digit 5</p> {<38><13><62><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_457,2,<p>digit 2</p> {<31><13><84><,illusion digit 5,no illusion digit,illusion digit 2,illusion digit 5
+Mnist_458,6,<p>digit 6</p> {<28><13><77><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_459,8,<p>digit 8</p> {<31><19><82><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_460,0,<p>digit 8</p> {<24><11><83><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 8
+Mnist_461,5,<p>digit 5</p> {<29><23><77><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_462,6,<p>digit 8</p> {<26><7><87><8,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_463,6,<p>digit 6</p> {<23><10><91><,no illusion digit,illusion digit 1,no illusion digit,illusion digit 8
+Mnist_464,6,<p>digit 8</p> {<22><10><86><,no illusion digit,no illusion digit,illusion digit 8,illusion digit 5
+Mnist_465,3,<p>digit 5</p> {<16><19><84><,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_466,8,<p>digit 8</p> {<26><21><78><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_467,8,<p>digit 8</p> {<26><14><82><,no illusion digit,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_468,2,<p>digit 2</p> {<17><19><92><,illusion digit 5,illusion digit 8,illusion digit 2,illusion digit 8
+Mnist_469,7,<p>digit 7</p> {<21><19><83><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_470,5,<p>digit 5</p> {<21><16><78><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_471,8,<p>digit 8</p> {<30><16><76><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_472,9,<p>digit 9</p> {<30><22><71><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_473,6,<p>digit 0</p> {<27><7><80><8,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 1
+Mnist_474,1,<p>digit 5</p> {<46><18><54><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_475,8,<p>digit 8</p> {<28><16><78><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_476,4,<p>digit 4</p> {<14><14><85><,illusion digit 5,illusion digit 0,illusion digit 1,no illusion digit
+Mnist_477,1,<p>digit 1</p> {<41><13><58><,illusion digit 5,illusion digit 1,illusion digit 5,illusion digit 5
+Mnist_478,2,<p>digit 2</p> {<12><11><80><,illusion digit 2,illusion digit 1,no illusion digit,illusion digit 5
+Mnist_479,5,<p>digit 5</p> {<34><12><75><,illusion digit 0,no illusion digit,illusion digit 5,illusion digit 0
+Mnist_480,9,<p>digit 9</p> {<26><15><78><,illusion digit 5,illusion digit 0,illusion digit 9,no illusion digit
+Mnist_481,1,<p>digit 5</p> {<38><10><74><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_482,9,<p>digit 9</p> {<27><18><73><,illusion digit 8,no illusion digit,illusion digit 9,illusion digit 1
+Mnist_483,7,<p>digit 8</p> {<4><23><74><9,illusion digit 1,illusion digit 5,illusion digit 7,no illusion digit
+Mnist_484,5,<p>digit 5</p> {<30><33><100,illusion digit 1,illusion digit 1,illusion digit 8,illusion digit 8
+Mnist_485,4,<p>digit 4</p> {<24><16><80><,illusion digit 8,illusion digit 8,illusion digit 4,no illusion digit
+Mnist_486,0,<p>digit 8</p> {<24><13><76><,illusion digit 0,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_487,8,<p>digit 8</p> {<17><19><89><,no illusion digit,illusion digit 8,no illusion digit,no illusion digit
+Mnist_488,9,digit 9,illusion digit 9,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_489,9,<p>digit 9</p> {<28><23><71><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_490,1,<p>digit 1</p> {<41><12><65><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 0
+Mnist_491,0,<p>digit 8</p> {<16><22><91><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_492,5,<p>digit 5</p> {<22><14><77><,illusion digit 8,illusion digit 5,no illusion digit,no illusion digit
+Mnist_493,2,digit 2,illusion digit 1,illusion digit 1,illusion digit 2,illusion digit 5
+Mnist_494,3,<p>digit 3</p> {<15><14><84><,illusion digit 3,illusion digit 0,illusion digit 3,illusion digit 5
+Mnist_495,7,<p>digit 7</p> {<19><22><80><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_496,8,<p>digit 8</p> {<21><10><82><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_497,9,<p>digit 9</p> {<23><16><76><,illusion digit 1,illusion digit 1,illusion digit 1,illusion digit 5
+Mnist_498,4,<p>digit 5</p> {<37><16><69><,no illusion digit,illusion digit 5,illusion digit 0,illusion digit 5
+Mnist_499,0,<p>digit 8</p> {<30><16><74><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_500,6,<p>digit 5</p> {<34><8><67><8,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_501,3,<p>digit 3</p> {<15><15><78><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_502,9,<p>digit 9</p> {<16><18><78><,no illusion digit,illusion digit 0,illusion digit 1,illusion digit 0
+Mnist_503,5,digit 5,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_504,2,<p>digit 5</p> {<17><14><89><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_505,1,<p>digit 1</p> {<45><14><59><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_506,3,<p>digit 3</p> {<28><13><76><,no illusion digit,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_507,1,<p>digit 5</p> {<35><14><69><,illusion digit 8,illusion digit 0,no illusion digit,illusion digit 5
+Mnist_508,3,<p>digit 5</p> {<32><14><71><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 5
+Mnist_509,6,<p>digit 6</p> {<27><11><78><,illusion digit 8,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_510,5,<p>digit 5</p> {<22><14><77><,illusion digit 1,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_511,7,<p>digit 7</p> {<27><20><79><,no illusion digit,no illusion digit,illusion digit 7,no illusion digit
+Mnist_512,4,<p>digit 0</p> {<34><20><80><,illusion digit 5,illusion digit 8,illusion digit 0,illusion digit 8
+Mnist_513,2,<p>digit 2</p> {<27><10><85><,illusion digit 2,illusion digit 8,illusion digit 2,illusion digit 0
+Mnist_514,2,<p>digit 8</p> {<27><11><88><,illusion digit 0,illusion digit 5,no illusion digit,no illusion digit
+Mnist_515,6,<p>digit 8</p> {<21><10><84><,illusion digit 0,no illusion digit,illusion digit 0,illusion digit 8
+Mnist_516,3,<p>digit 3</p> {<31><16><68><,no illusion digit,illusion digit 8,illusion digit 3,no illusion digit
+Mnist_517,2,<p>digit 8</p> {<17><7><89><7,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_518,6,<p>digit 8</p> {<29><10><82><,illusion digit 8,no illusion digit,illusion digit 0,illusion digit 8
+Mnist_519,5,digit 5,illusion digit 8,illusion digit 5,illusion digit 0,illusion digit 1
+Mnist_520,4,<p>digit 4</p> {<29><21><70><,illusion digit 0,illusion digit 5,illusion digit 4,illusion digit 5
+Mnist_521,8,<p>digit 5</p> {<36><13><81><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_522,9,<p>digit 9</p> {<36><19><68><,illusion digit 0,illusion digit 5,illusion digit 1,illusion digit 8
+Mnist_523,7,<p>digit 5</p> {<39><43><82><,no illusion digit,illusion digit 1,no illusion digit,no illusion digit
+Mnist_524,1,digit 5,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 7
+Mnist_525,3,<p>digit 3</p> {<27><13><82><,illusion digit 2,illusion digit 5,no illusion digit,no illusion digit
+Mnist_526,0,<p>digit 0</p> {<23><11><84><,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_527,3,<p>digit 3</p> {<23><16><76><,illusion digit 5,illusion digit 8,illusion digit 3,illusion digit 5
+Mnist_528,8,<p>digit 8</p> {<24><13><84><,no illusion digit,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_529,3,digit 3,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_530,1,<p>digit 1</p> {<42><13><60><,illusion digit 5,illusion digit 1,no illusion digit,illusion digit 5
+Mnist_531,9,<p>digit 4</p> {<28><14><71><,no illusion digit,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_532,3,<p>digit 3</p> {<30><41><68><,no illusion digit,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_533,4,<p>digit 4</p> {<31><14><71><,no illusion digit,illusion digit 1,no illusion digit,no illusion digit
+Mnist_534,4,<p>digit 4</p> {<21><19><83><,"A person holding a glass of red wine and a mug of hot chocolate, with a",no illusion digit,illusion digit 4,no illusion digit
+Mnist_535,6,<p>digit 6</p> {<31><10><79><,illusion digit 8,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_536,4,digit 8,illusion digit 1,illusion digit 0,illusion digit 4,illusion digit 0
+Mnist_537,2,<p>digit 8</p> {<17><12><90><,illusion digit 8,illusion digit 7,no illusion digit,no illusion digit
+Mnist_538,1,<p>digit 1</p> {<37><13><62><,illusion digit 5,no illusion digit,illusion digit 1,no illusion digit
+Mnist_539,8,<p>digit 8</p> {<27><13><78><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_540,2,<p>digit 1</p> {<16><11><82><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_541,5,<p>digit 5</p> {<20><16><88><,no illusion digit,illusion digit 8,no illusion digit,no illusion digit
+Mnist_542,4,<p>digit 4</p> {<20><21><78><,illusion digit 5,illusion digit 5,illusion digit 4,illusion digit 0
+Mnist_543,8,<p>digit 5</p> {<37><16><72><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_544,8,<p>digit 5</p> {<24><17><75><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_545,4,<p>digit 5</p> {<23><16><75><,illusion digit 0,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_546,0,<p>digit 8</p> {<22><16><83><,no illusion digit,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_547,0,<p>digit 8</p> {<21><13><86><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_548,2,<p>digit 2</p> {<15><12><85><,illusion digit 2,illusion digit 1,illusion digit 2,illusion digit 0
+Mnist_549,3,<p>digit 3</p> {<29><12><70><,illusion digit 8,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_550,2,<p>digit 5</p> {<16><14><83><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_551,7,<p>digit 7</p> {<31><20><77><,illusion digit 1,illusion digit 1,illusion digit 7,illusion digit 0
+Mnist_552,7,<p>digit 5</p> {<29><15><69><,There is no illusion digit in the image.,illusion digit 5,no illusion digit,no illusion digit
+Mnist_553,0,<p>digit 6</p> {<27><14><76><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_554,8,<p>digit 8</p> {<28><10><95><,no illusion digit,illusion digit 0,no illusion digit,no illusion digit
+Mnist_555,7,digit 7,illusion digit 7,no illusion digit,illusion digit 7,illusion digit 0
+Mnist_556,4,<p>digit 5</p> {<27><19><83><,illusion digit 5,no illusion digit,illusion digit 0,no illusion digit
+Mnist_557,4,<p>digit 4</p> {<9><19><82><8,illusion digit 8,illusion digit 1,no illusion digit,illusion digit 0
+Mnist_558,7,<p>digit 1</p> {<17><19><69><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_559,9,<p>digit 9</p> {<22><18><74><,illusion digit 0,illusion digit 1,illusion digit 0,illusion digit 8
+Mnist_560,6,<p>digit 8</p> {<16><8><90><7,no illusion digit,illusion digit 1,no illusion digit,illusion digit 1
+Mnist_561,9,<p>digit 9</p> {<30><23><70><,illusion digit 8,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_562,0,digit 8,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_563,9,<p>digit 9</p> {<23><21><76><,illusion digit 5,illusion digit 8,illusion digit 9,illusion digit 5
+Mnist_564,8,<p>digit 8</p> {<32><16><74><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_565,0,<p>digit 0</p> {<28><12><78><,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_566,4,<p>digit 4</p> {<21><17><80><,illusion digit 5,no illusion digit,illusion digit 4,no illusion digit
+Mnist_567,6,<p>digit 5</p> {<34><11><70><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 5
+Mnist_568,0,<p>digit 0</p> {<30><14><78><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 1
+Mnist_569,6,<p>digit 6</p> {<31><10><79><,illusion digit 1,no illusion digit,illusion digit 5,illusion digit 1
+Mnist_570,3,<p>digit 3</p> {<17><17><83><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 1
+Mnist_571,5,<p>digit 5</p> {<25><17><87><,illusion digit 0,illusion digit 5,illusion digit 5,illusion digit 8
+Mnist_572,4,<p>digit 4</p> {<20><19><76><,illusion digit 5,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_573,8,<p>digit 8</p> {<28><14><72><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 5
+Mnist_574,3,<p>digit 3</p> {<22><12><77><,illusion digit 8,illusion digit 8,illusion digit 3,illusion digit 8
+Mnist_575,3,<p>digit 3</p> {<19><13><76><,no illusion digit,illusion digit 0,illusion digit 3,illusion digit 5
+Mnist_576,9,<p>digit 9</p> {<27><21><73><,no illusion digit,no illusion digit,illusion digit 9,no illusion digit
+Mnist_577,3,<p>digit 3</p> {<25><16><76><,illusion digit 1,no illusion digit,illusion digit 3,no illusion digit
+Mnist_578,3,digit 3,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_579,3,<p>digit 3</p> {<26><15><81><,<p>illusion digit 3</p> {<23><14><8,illusion digit 5,illusion digit 3,no illusion digit
+Mnist_580,7,<p>digit 7</p> {<32><21><80><,illusion digit 8,illusion digit 0,illusion digit 7,no illusion digit
+Mnist_581,8,<p>digit 9</p> {<27><16><79><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 9
+Mnist_582,0,<p>digit 5</p> {<22><11><91><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_583,8,<p>digit 2</p> {<26><13><73><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_584,2,<p>digit 7</p> {<21><18><92><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_585,1,<p>digit 5</p> {<42><12><63><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_586,7,<p>digit 7</p> {<16><22><68><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 1
+Mnist_587,0,<p>digit 5</p> {<22><11><83><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 5
+Mnist_588,6,<p>digit 8</p> {<27><5><82><7,illusion digit 3,illusion digit 3,illusion digit 5,illusion digit 5
+Mnist_589,5,<p>digit 5</p> {<17><14><86><,illusion digit 5,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_590,4,<p>digit 4</p> {<27><14><73><,illusion digit 5,illusion digit 0,illusion digit 4,illusion digit 5
+Mnist_591,3,<p>digit 3</p> {<16><13><83><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_592,8,<p>digit 5</p> {<30><17><74><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_593,0,<p>digit 8</p> {<19><13><80><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_594,9,<p>digit 7</p> {<31><23><76><,illusion digit 8,illusion digit 8,illusion digit 9,illusion digit 1
+Mnist_595,6,<p>digit 6</p> {<31><10><76><,no illusion digit,no illusion digit,illusion digit 6,no illusion digit
+Mnist_596,3,<p>digit 3</p> {<27><13><80><,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_597,8,<p>digit 3</p> {<26><16><80><,illusion digit 8,illusion digit 0,illusion digit 8,no illusion digit
+Mnist_598,0,the digit 8,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_599,9,<p>digit 9</p> {<21><19><68><,no illusion digit,illusion digit 1,illusion digit 0,illusion digit 1
+Mnist_600,9,<p>digit 9</p> {<18><19><76><,illusion digit 8,illusion digit 8,illusion digit 0,illusion digit 8
+Mnist_601,6,<p>digit 6</p> {<28><4><77><7,illusion digit 0,no illusion digit,no illusion digit,no illusion digit
+Mnist_602,8,<p>digit 5</p> {<34><14><82><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_603,6,<p>digit 8</p> {<16><7><90><7,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_604,8,<p>digit 0</p> {<30><16><78><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_605,5,<p>digit 5</p> {<32><19><83><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_606,7,<p>digit 7</p> {<29><21><76><,illusion digit 8,illusion digit 5,illusion digit 7,illusion digit 5
+Mnist_607,8,<p>digit 8</p> {<22><12><77><,"A man holds a large, colorful dragon puppet in front of a red wall, while",no illusion digit,illusion digit 8,no illusion digit
+Mnist_608,6,<p>digit 8</p> {<31><7><80><8,illusion digit 5,no illusion digit,illusion digit 0,illusion digit 5
+Mnist_609,0,<p>digit 5</p> {<15><14><84><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 5
+Mnist_610,2,<p>digit 2</p> {<23><13><88><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_611,4,digit 4,illusion digit 0,illusion digit 5,illusion digit 4,illusion digit 5
+Mnist_612,0,<p>digit 0</p> {<21><11><86><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_613,2,<p>digit 5</p> {<21><11><92><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_614,2,<p>digit 2</p> {<31><16><76><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_615,3,<p>digit 3</p> {<34><14><65><,illusion digit 0,illusion digit 5,illusion digit 3,illusion digit 8
+Mnist_616,1,<p>digit 5</p> {<23><10><76><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_617,9,<p>digit 9</p> {<30><23><73><,illusion digit 8,illusion digit 8,illusion digit 9,illusion digit 0
+Mnist_618,7,<p>digit 5</p> {<14><21><87><,illusion digit 8,no illusion digit,illusion digit 7,illusion digit 8
+Mnist_619,5,<p>digit 5</p> {<20><16><80><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_620,1,<p>digit 5</p> {<38><14><69><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_621,0,<p>digit 8</p> {<24><14><83><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_622,8,<p>digit 8</p> {<31><15><68><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_623,4,<p>digit 4</p> {<22><13><77><,illusion digit 0,illusion digit 5,illusion digit 4,illusion digit 8
+Mnist_624,6,<p>digit 5</p> {<30><5><77><8,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_625,2,<p>digit 2</p> {<28><12><71><,illusion digit 8,illusion digit 5,illusion digit 2,illusion digit 8
+Mnist_626,6,<p>digit 5</p> {<16><5><92><7,illusion digit 5,illusion digit 8,illusion digit 4,no illusion digit
+Mnist_627,7,digit 7,illusion digit 8,illusion digit 1,illusion digit 7,illusion digit 8
+Mnist_628,9,<p>digit 0</p> {<26><14><73><,no illusion digit,illusion digit 5,illusion digit 0,illusion digit 0
+Mnist_629,3,digit 3,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_630,2,<p>digit 5</p> {<15><5><79><8,'illusion digit 0',no illusion digit,no illusion digit,illusion digit 8
+Mnist_631,9,<p>digit 5</p> {<38><23><70><,<p>no illusion digit</p> {<27><19><72,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_632,8,<p>digit 8</p> {<17><14><82><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_633,2,<p>digit 9</p> {<31><11><76><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 5
+Mnist_634,2,<p>digit 2</p> {<24><11><83><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_635,9,<p>digit 9</p> {<15><22><78><,illusion digit 5,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_636,2,<p>digit 2</p> {<26><11><76><,illusion digit 8,illusion digit 5,illusion digit 2,no illusion digit
+Mnist_637,7,digit 7,illusion digit 8,illusion digit 0,illusion digit 7,illusion digit 8
+Mnist_638,3,<p>digit 3</p> {<13><19><86><,no illusion digit,no illusion digit,illusion digit 3,illusion digit 0
+Mnist_639,5,<p>digit 5</p> {<28><28><99><,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_640,9,<p>digit 9</p> {<27><19><73><,illusion digit 8,no illusion digit,illusion digit 4,illusion digit 8
+Mnist_641,1,<p>digit 5</p> {<41><12><65><,no illusion digit,no illusion digit,illusion digit 0,illusion digit 8
+Mnist_642,8,<p>digit 8</p> {<28><13><76><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_643,0,<p>digit 5</p> {<16><28><91><,illusion digit 8,illusion digit 5,no illusion digit,no illusion digit
+Mnist_644,2,<p>digit 2</p> {<19><13><88><,no illusion digit,no illusion digit,illusion digit 2,no illusion digit
+Mnist_645,0,<p>digit 5</p> {<27><12><79><,illusion digit 8,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_646,5,<p>digit 5</p> {<31><13><76><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_647,2,<p>digit 5</p> {<28><11><99><,illusion digit 5,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_648,1,<p>digit 1</p> {<43><12><62><,illusion digit 0,illusion digit 0,no illusion digit,no illusion digit
+Mnist_649,3,<p>digit 3</p> {<17><17><82><,illusion digit 0,illusion digit 5,illusion digit 3,illusion digit 5
+Mnist_650,7,<p>digit 7</p> {<16><25><67><,illusion digit 8,no illusion digit,illusion digit 7,no illusion digit
+Mnist_651,6,<p>digit 5</p> {<31><8><84><8,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_652,7,<p>digit 7</p> {<14><23><73><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_653,1,<p>digit 1</p> {<46><16><62><,no illusion digit,no illusion digit,illusion digit 0,illusion digit 0
+Mnist_654,2,digit 8,illusion digit 8,no illusion digit,no illusion digit,illusion digit 1
+Mnist_655,5,<p>digit 5</p> {<17><15><88><,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_656,8,<p>digit 5</p> {<21><16><91><,illusion digit 0,illusion digit 0,illusion digit 8,illusion digit 0
+Mnist_657,0,<p>digit 5</p> {<17><16><89><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_658,3,<p>digit 3</p> {<27><16><78><,illusion digit 1,<p>three girls</p> {<3><41><36><10,illusion digit 3,no illusion digit
+Mnist_659,7,digit 7,illusion digit 1,illusion digit 5,illusion digit 7,illusion digit 5
+Mnist_660,2,<p>digit 1</p> {<23><16><82><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_661,4,<p>digit 4</p> {<21><16><78><,illusion digit 8,no illusion digit,illusion digit 4,no illusion digit
+Mnist_662,0,<p>digit 0</p> {<34><13><70><,illusion digit 5,illusion digit 0,no illusion digit,no illusion digit
+Mnist_663,9,<p>digit 9</p> {<24><23><70><,illusion digit 8,no illusion digit,illusion digit 9,no illusion digit
+Mnist_664,1,<p>digit 5</p> {<43><13><59><,no illusion digit,illusion digit 5,illusion digit 1,illusion digit 8
+Mnist_665,8,<p>digit 5</p> {<19><12><87><,illusion digit 5,illusion digit 8,no illusion digit,no illusion digit
+Mnist_666,6,<p>digit 8</p> {<21><8><94><7,illusion digit 0,no illusion digit,no illusion digit,illusion digit 5
+Mnist_667,7,digit 7,no illusion digit,no illusion digit,illusion digit 7,no illusion digit
+Mnist_668,7,<p>digit 7</p> {<31><19><61><,illusion digit 2,illusion digit 7,illusion digit 9,illusion digit 8
+Mnist_669,4,<p>digit 5</p> {<30><16><83><,illusion digit 5,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_670,3,<p>digit 3</p> {<27><16><72><,illusion digit 2,illusion digit 5,illusion digit 3,no illusion digit
+Mnist_671,4,<p>digit 9</p> {<26><30><64><,illusion digit 8,illusion digit 8,illusion digit 9,illusion digit 5
+Mnist_672,9,<p>digit 9</p> {<16><19><83><,illusion digit 5,no illusion digit,illusion digit 1,no illusion digit
+Mnist_673,1,<p>digit 1</p> {<40><12><63><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_674,9,<p>digit 9</p> {<22><19><85><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_675,5,<p>digit 5</p> {<24><14><75><,no illusion digit,illusion digit 1,no illusion digit,illusion digit 8
+Mnist_676,1,<p>digit 1</p> {<41><15><60><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_677,7,<p>digit 7</p> {<12><22><86><,illusion digit 5,no illusion digit,illusion digit 7,illusion digit 5
+Mnist_678,3,The digit in the image is 'digit 3'.,no illusion digit,illusion digit 8,illusion digit 3,illusion digit 0
+Mnist_679,9,<p>digit 9</p> {<23><16><76><,no illusion digit,illusion digit 0,illusion digit 0,no illusion digit
+Mnist_680,7,<p>digit 7</p> {<23><19><66><,illusion digit 8,no illusion digit,illusion digit 7,no illusion digit
+Mnist_681,6,<p>digit 5</p> {<25><2><87><7,no illusion digit,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_682,9,<p>digit 9</p> {<16><23><76><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_683,1,<p>digit 1</p> {<47><12><61><,no illusion digit,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_684,3,<p>digit 3</p> {<29><13><70><,no illusion digit,illusion digit 8,illusion digit 3,no illusion digit
+Mnist_685,7,digit 5,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_686,8,<p>digit 5</p> {<26><16><81><,no illusion digit,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_687,3,<p>digit 3</p> {<36><43><63><,illusion digit 3,no illusion digit,illusion digit 3,no illusion digit
+Mnist_688,3,<p>digit 3</p> {<22><16><77><,illusion digit 0,no illusion digit,illusion digit 3,no illusion digit
+Mnist_689,6,<p>digit 6</p> {<27><12><74><,no illusion digit,illusion digit 0,illusion digit 6,illusion digit 5
+Mnist_690,7,digit 7,no illusion digit,no illusion digit,illusion digit 1,no illusion digit
+Mnist_691,2,<p>digit 2</p> {<12><13><81><,illusion digit 2,illusion digit 8,illusion digit 2,no illusion digit
+Mnist_692,8,<p>digit 8</p> {<16><14><83><,illusion digit 0,illusion digit 1,illusion digit 0,illusion digit 0
+Mnist_693,5,<p>digit 5</p> {<23><23><92><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 9
+Mnist_694,8,<p>digit 5</p> {<33><13><76><,illusion digit 5,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_695,5,<p>digit 5</p> {<25><19><57><,no illusion digit,no illusion digit,no illusion digit,illusion digit 5
+Mnist_696,1,<p>digit 1</p> {<42><16><62><,illusion digit 1,illusion digit 1,illusion digit 0,illusion digit 1
+Mnist_697,1,<p>digit 5</p> {<44><15><63><,no illusion digit,illusion digit 1,illusion digit 1,illusion digit 5
+Mnist_698,4,<p>digit 4</p> {<22><14><74><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 8
+Mnist_699,4,digit 4,no illusion digit,no illusion digit,illusion digit 4,no illusion digit
+Mnist_700,3,digit 3,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_701,1,<p>digit 5</p> {<37><15><70><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_702,0,<p>digit 5</p> {<15><13><85><,illusion digit 0,illusion digit 5,illusion digit 8,illusion digit 1
+Mnist_703,7,<p>digit 7</p> {<35><20><69><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_704,7,digit 5,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_705,0,<p>digit 8</p> {<14><12><85><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_706,7,digit 7,no illusion digit,illusion digit 0,illusion digit 7,illusion digit 8
+Mnist_707,9,<p>digit 9</p> {<24><23><75><,no illusion digit,no illusion digit,illusion digit 1,illusion digit 8
+Mnist_708,4,<p>digit 4</p> {<26><16><78><,no illusion digit,illusion digit 5,illusion digit 4,illusion digit 5
+Mnist_709,4,<p>digit 4</p> {<19><16><75><,illusion digit 0,illusion digit 5,'illusion digit 4',illusion digit 8
+Mnist_710,8,<p>digit 8</p> {<30><16><74><,illusion digit 5,no illusion digit,'illusion digit 8',no illusion digit
+Mnist_711,5,<p>digit 5</p> {<16><16><91><,illusion digit 5,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_712,5,<p>digit 5</p> {<17><19><90><,illusion digit 8,no illusion digit,illusion digit 5,illusion digit 5
+Mnist_713,4,<p>digit 4</p> {<22><14><74><,illusion digit 0,no illusion digit,illusion digit 4,illusion digit 0
+Mnist_714,0,<p>digit 5</p> {<17><16><83><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_715,8,<p>digit 8</p> {<26><17><83><,illusion digit 7,no illusion digit,illusion digit 8,no illusion digit
+Mnist_716,2,digit 2,illusion digit 5,no illusion digit,illusion digit 2,illusion digit 8
+Mnist_717,1,<p>digit 7</p> {<37><21><62><,illusion digit 8,no illusion digit,illusion digit 1,illusion digit 8
+Mnist_718,0,<p>digit 8</p> {<21><23><94><,illusion digit 0,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_719,8,<p>digit 8</p> {<34><14><73><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_720,4,<p>digit 4</p> {<15><15><84><,illusion digit 0,no illusion digit,illusion digit 4,no illusion digit
+Mnist_721,5,<p>digit 5</p> {<27><11><92><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_722,0,<p>digit 5</p> {<13><16><87><,illusion digit 8,illusion digit 0,no illusion digit,no illusion digit
+Mnist_723,4,<p>digit 4</p> {<17><16><82><,no illusion digit,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_724,0,<p>digit 5</p> {<23><11><76><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_725,6,<p>digit 5</p> {<32><5><81><8,no illusion digit,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_726,1,<p>digit 5</p> {<40><13><64><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_727,7,<p>digit 5</p> {<32><16><76><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 9
+Mnist_728,3,<p>digit 3</p> {<23><16><76><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_729,2,<p>digit 2</p> {<26><16><82><,illusion digit 5,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_730,6,<p>digit 6</p> {<26><11><81><,illusion digit 5,no illusion digit,illusion digit 6,no illusion digit
+Mnist_731,7,digit 5,no illusion digit,illusion digit 0,illusion digit 0,no illusion digit
+Mnist_732,2,<p>digit 8</p> {<17><14><91><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 1
+Mnist_733,6,<p>digit 8</p> {<19><11><87><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_734,9,<p>digit 9</p> {<26><19><74><,illusion digit 5,no illusion digit,illusion digit 0,illusion digit 5
+Mnist_735,3,<p>digit 3</p> {<31><13><66><,illusion digit 7,illusion digit 1,illusion digit 3,illusion digit 8
+Mnist_736,1,<p>digit 1</p> {<43><12><62><,illusion digit 5,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_737,4,<p>digit 4</p> {<16><16><82><,illusion digit 0,illusion digit 8,no illusion digit,illusion digit 1
+Mnist_738,6,<p>digit 5</p> {<21><10><94><,no illusion digit,no illusion digit,no illusion digit,illusion digit 5
+Mnist_739,2,<p>digit 2</p> {<21><16><93><,illusion digit 1,illusion digit 1,illusion digit 2,no illusion digit
+Mnist_740,5,<p>digit 5</p> {<24><11><76><,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_741,4,<p>digit 4</p> {<23><21><71><,illusion digit 8,illusion digit 8,illusion digit 1,no illusion digit
+Mnist_742,2,<p>digit 2</p> {<24><14><75><,illusion digit 1,no illusion digit,illusion digit 1,no illusion digit
+Mnist_743,0,<p>digit 8</p> {<16><16><91><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_744,6,<p>digit 6</p> {<32><8><73><8,"The image shows a swirling, spiral-shaped wave in the ocean. The wave",no illusion digit,no illusion digit,illusion digit 8
+Mnist_745,2,<p>digit 5</p> {<13><13><79><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_746,1,<p>digit 5</p> {<33><14><73><,no illusion digit,no illusion digit,no illusion digit,'illusion digit 0'
+Mnist_747,7,<p>digit 7</p> {<23><23><67><,illusion digit 1,no illusion digit,illusion digit 8,illusion digit 1
+Mnist_748,3,digit 3,no illusion digit,illusion digit 8,illusion digit 3,no illusion digit
+Mnist_749,4,<p>digit 4</p> {<19><14><77><,no illusion digit,no illusion digit,illusion digit 4,illusion digit 8
+Mnist_750,1,digit 5,illusion digit 0,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_751,0,<p>digit 8</p> {<23><11><84><,illusion digit 5,illusion digit 0,illusion digit 8,no illusion digit
+Mnist_752,5,<p>digit 5</p> {<18><14><84><,illusion digit 1,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_753,4,<p>digit 4</p> {<26><17><78><,illusion digit 1,no illusion digit,illusion digit 4,no illusion digit
+Mnist_754,3,<p>digit 3</p> {<31><13><73><,illusion digit 3,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_755,1,<p>digit 1</p> {<41><13><63><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_756,1,<p>digit 5</p> {<43><14><62><,illusion digit 1,illusion digit 1,no illusion digit,illusion digit 5
+Mnist_757,7,<p>digit 7</p> {<22><19><71><,illusion digit 7,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_758,4,<p>digit 4</p> {<31><16><76><,illusion digit 1,no illusion digit,illusion digit 4,no illusion digit
+Mnist_759,9,<p>digit 9</p> {<23><19><76><,illusion digit 9,no illusion digit,illusion digit 9,no illusion digit
+Mnist_760,9,<p>digit 9</p> {<31><21><70><,illusion digit 8,illusion digit 8,illusion digit 9,no illusion digit
+Mnist_761,4,<p>digit 4</p> {<33><19><74><,no illusion digit,no illusion digit,illusion digit 4,no illusion digit
+Mnist_762,8,<p>digit 5</p> {<29><14><76><,no illusion digit,illusion digit 1,illusion digit 0,illusion digit 1
+Mnist_763,4,<p>digit 4</p> {<20><12><81><,no illusion digit,no illusion digit,illusion digit 4,no illusion digit
+Mnist_764,0,the digit 8,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_765,2,<p>digit 8</p> {<21><19><94><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 5
+Mnist_766,4,<p>digit 4</p> {<28><14><77><,illusion digit 0,illusion digit 1,illusion digit 0,no illusion digit
+Mnist_767,5,<p>digit 5</p> {<22><15><85><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_768,1,<p>digit 5</p> {<34><16><65><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_769,1,<p>digit 1</p> {<41><12><61><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_770,6,<p>digit 6</p> {<27><8><73><8,illusion digit 5,no illusion digit,illusion digit 6,no illusion digit
+Mnist_771,4,<p>digit 4</p> {<16><13><84><,illusion digit 8,no illusion digit,illusion digit 4,illusion digit 5
+Mnist_772,7,<p>digit 9</p> {<21><21><71><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_773,1,<p>digit 1</p> {<44><16><59><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_774,9,<p>digit 9</p> {<22><23><69><,no illusion digit,no illusion digit,illusion digit 9,no illusion digit
+Mnist_775,4,<p>digit 4</p> {<32><16><67><,illusion digit 5,illusion digit 5,illusion digit 4,illusion digit 5
+Mnist_776,2,<p>digit 2</p> {<28><11><86><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_777,4,<p>digit 5</p> {<24><17><82><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_778,1,<p>digit 5</p> {<40><12><62><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 5
+Mnist_779,5,<p>digit 5</p> {<22><13><81><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_780,5,<p>digit 5</p> {<26><19><96><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_781,3,<p>digit 3</p> {<14><11><82><,no illusion digit,no illusion digit,illusion digit 3,illusion digit 5
+Mnist_782,8,<p>digit 8</p> {<30><14><74><,illusion digit 1,illusion digit 0,no illusion digit,illusion digit 5
+Mnist_783,3,<p>digit 3</p> {<23><14><81><,illusion digit 3,illusion digit 1,no illusion digit,no illusion digit
+Mnist_784,1,<p>digit 1</p> {<46><18><59><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_785,4,<p>digit 5</p> {<22><12><77><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_786,5,<p>digit 5</p> {<21><14><81><,illusion digit 2,illusion digit 0,illusion digit 5,no illusion digit
+Mnist_787,6,<p>digit 5</p> {<31><8><82><8,no illusion digit,no illusion digit,illusion digit 6,no illusion digit
+Mnist_788,8,<p>digit 8</p> {<13><16><80><,illusion digit 8,illusion digit 0,illusion digit 8,no illusion digit
+Mnist_789,9,<p>digit 9</p> {<30><21><70><,illusion digit 0,illusion digit 0,illusion digit 9,illusion digit 5
+Mnist_790,4,<p>digit 0</p> {<27><20><72><,illusion digit 8,illusion digit 5,illusion digit 0,illusion digit 1
+Mnist_791,1,<p>digit 1</p> {<38><16><62><,illusion digit 1,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_792,5,<p>digit 5</p> {<22><19><83><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_793,3,<p>digit 3</p> {<10><16><84><,no illusion digit,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_794,8,<p>digit 8</p> {<23><14><76><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_795,0,<p>digit 8</p> {<23><11><84><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_796,3,<p>digit 3</p> {<36><10><69><,no illusion digit,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_797,2,<p>digit 8</p> {<21><11><87><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_798,5,<p>digit 5</p> {<38><18><84><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_799,1,<p>digit 5</p> {<36><12><63><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_800,2,<p>digit 2</p> {<21><11><94><,illusion digit 0,illusion digit 5,illusion digit 2,illusion digit 5
+Mnist_801,8,<p>digit 8</p> {<28><13><80><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_802,3,<p>digit 3</p> {<18><14><82><,illusion digit 5,illusion digit 1,illusion digit 3,illusion digit 5
+Mnist_803,4,<p>digit 4</p> {<19><16><80><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_804,4,<p>digit 4</p> {<23><15><81><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_805,0,digit 8,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_806,8,<p>digit 8</p> {<28><19><80><,illusion digit 1,no illusion digit,no illusion digit,illusion digit 8
+Mnist_807,8,<p>digit 8</p> {<22><12><76><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 1
+Mnist_808,3,<p>digit 3</p> {<18><14><81><,illusion digit 3,illusion digit 5,illusion digit 3,illusion digit 5
+Mnist_809,3,The digit 3 is placed in the image.,illusion digit 3,illusion digit 5,illusion digit 3,illusion digit 5
+Mnist_810,1,<p>digit 1</p> {<43><16><57><,illusion digit 5,illusion digit 5,<p>no illusion digit</p> {<41><18><58,illusion digit 5
+Mnist_811,7,<p>digit 2</p> {<24><24><85><,no illusion digit,illusion digit 0,illusion digit 7,illusion digit 8
+Mnist_812,3,<p>digit 3</p> {<27><16><73><,illusion digit 8,illusion digit 8,illusion digit 3,no illusion digit
+Mnist_813,5,<p>digit 5</p> {<26><18><84><,no illusion digit,illusion digit 8,no illusion digit,no illusion digit
+Mnist_814,9,<p>digit 5</p> {<23><21><82><,illusion digit 8,illusion digit 1,no illusion digit,illusion digit 0
+Mnist_815,6,<p>digit 6</p> {<33><7><73><8,illusion digit 5,no illusion digit,illusion digit 5,illusion digit 8
+Mnist_816,3,<p>digit 3</p> {<27><13><73><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_817,2,<p>digit 2</p> {<26><13><81><,<p>illusion digit 2</p> {<22><11><7,illusion digit 5,illusion digit 2,illusion digit 8
+Mnist_818,6,<p>digit 8</p> {<23><7><91><8,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_819,1,<p>digit 5</p> {<41><14><60><,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_820,3,<p>digit 3</p> {<10><7><83><8,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_821,6,<p>digit 6</p> {<25><8><87><8,illusion digit 8,illusion digit 5,illusion digit 6,illusion digit 0
+Mnist_822,0,<p>digit 0</p> {<23><11><83><,illusion digit 8,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_823,7,digit 7,illusion digit 1,illusion digit 1,illusion digit 7,no illusion digit
+Mnist_824,2,<p>digit 2</p> {<20><11><85><,<p>no illusion digit</p> {<1><1><100><,illusion digit 1,illusion digit 2,illusion digit 1
+Mnist_825,1,<p>digit 5</p> {<37><13><62><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_826,7,<p>digit 7</p> {<14><24><72><,illusion digit 8,illusion digit 8,illusion digit 7,illusion digit 8
+Mnist_827,1,<p>digit 5</p> {<42><12><62><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_828,4,digit 5,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_829,2,digit 2,illusion digit 5,illusion digit 1,illusion digit 2,illusion digit 1
+Mnist_830,4,<p>digit 5</p> {<16><19><90><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_831,2,<p>digit 1</p> {<18><11><75><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_832,1,<p>digit 5</p> {<41><16><63><,no illusion digit,<p>illusion digit 5</p> {<47><59><8,no illusion digit,no illusion digit
+Mnist_833,7,<p>digit 5</p> {<18><23><78><,illusion digit 1,no illusion digit,no illusion digit,illusion digit 0
+Mnist_834,9,<p>digit 9</p> {<21><24><73><,illusion digit 5,no illusion digit,illusion digit 7,no illusion digit
+Mnist_835,6,<p>digit 6</p> {<34><10><71><,illusion digit 5,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_836,1,<p>digit 1</p> {<40><13><64><,illusion digit 1,illusion digit 0,no illusion digit,illusion digit 5
+Mnist_837,1,<p>digit 5</p> {<34><13><63><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_838,2,digit 2,illusion digit 5,illusion digit 8,no illusion digit,no illusion digit
+Mnist_839,4,<p>digit 4</p> {<16><19><82><,no illusion digit,no illusion digit,illusion digit 4,no illusion digit
+Mnist_840,8,<p>digit 8</p> {<21><11><78><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_841,1,<p>digit 5</p> {<33><14><70><,illusion digit 5,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_842,7,<p>digit 5</p> {<16><26><90><,illusion digit 5,illusion digit 8,illusion digit 7,no illusion digit
+Mnist_843,7,<p>digit 7</p> {<23><18><68><,illusion digit 8,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_844,4,<p>digit 4</p> {<22><16><78><,illusion digit 5,illusion digit 8,illusion digit 4,no illusion digit
+Mnist_845,8,<p>digit 5</p> {<21><15><79><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_846,0,<p>digit 8</p> {<15><16><86><,illusion digit 0,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_847,7,digit 9,illusion digit 8,no illusion digit,no illusion digit,illusion digit 5
+Mnist_848,3,<p>digit 3</p> {<31><13><70><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_849,1,<p>digit 5</p> {<34><11><73><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_850,3,The digit 3 is placed in the image.,no illusion digit,no illusion digit,illusion digit 3,no illusion digit
+Mnist_851,1,<p>digit 5</p> {<39><11><60><,illusion digit 8,illusion digit 5,illusion digit 1,illusion digit 0
+Mnist_852,0,<p>digit 8</p> {<26><11><80><,illusion digit 8,illusion digit 8,illusion digit 0,illusion digit 8
+Mnist_853,7,digit 7,illusion digit 1,no illusion digit,illusion digit 5,no illusion digit
+Mnist_854,7,digit 7,illusion digit 0,illusion digit 0,illusion digit 7,no illusion digit
+Mnist_855,0,<p>digit 0</p> {<23><14><82><,illusion digit 8,illusion digit 1,illusion digit 0,no illusion digit
+Mnist_856,3,<p>digit 3</p> {<26><17><76><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 0
+Mnist_857,5,<p>digit 5</p> {<17><23><91><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_858,5,<p>digit 5</p> {<22><13><78><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 5
+Mnist_859,2,<p>digit 2</p> {<22><13><83><,illusion digit 8,illusion digit 5,illusion digit 2,illusion digit 5
+Mnist_860,7,digit 7,illusion digit 5,illusion digit 1,illusion digit 7,illusion digit 1
+Mnist_861,6,<p>digit 5</p> {<25><5><91><7,illusion digit 0,illusion digit 0,no illusion digit,no illusion digit
+Mnist_862,6,<p>digit 5</p> {<27><5><80><8,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_863,9,<p>digit 9</p> {<28><19><74><,illusion digit 5,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_864,2,<p>digit 8</p> {<16><10><83><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 8
+Mnist_865,8,<p>digit 8</p> {<19><14><90><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_866,3,<p>digit 3</p> {<30><12><70><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_867,5,<p>digit 5</p> {<26><12><81><,illusion digit 0,no illusion digit,illusion digit 5,illusion digit 0
+Mnist_868,2,digit 2,illusion digit 2,no illusion digit,no illusion digit,no illusion digit
+Mnist_869,2,<p>digit 3</p> {<27><11><73><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_870,5,<p>digit 5</p> {<26><19><88><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_871,6,<p>digit 5</p> {<31><12><76><,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_872,0,<p>digit 8</p> {<17><12><88><,illusion digit 1,no illusion digit,illusion digit 8,no illusion digit
+Mnist_873,8,<p>digit 9</p> {<27><16><72><,illusion digit 5,illusion digit 8,no illusion digit,no illusion digit
+Mnist_874,2,<p>digit 2</p> {<22><13><82><,illusion digit 8,illusion digit 8,illusion digit 2,no illusion digit
+Mnist_875,9,<p>digit 9</p> {<33><21><74><,illusion digit 5,illusion digit 5,illusion digit 9,illusion digit 5
+Mnist_876,2,<p>digit 3</p> {<22><12><77><,illusion digit 0,illusion digit 1,no illusion digit,no illusion digit
+Mnist_877,8,<p>digit 8</p> {<16><13><83><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_878,8,<p>digit 8</p> {<37><14><63><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_879,8,<p>digit 8</p> {<18><16><82><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_880,8,<p>digit 8</p> {<24><14><79><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 5
+Mnist_881,7,<p>digit 7</p> {<26><20><74><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_882,4,<p>digit 0</p> {<26><18><77><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_883,9,<p>digit 9</p> {<22><18><77><,illusion digit 5,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_884,3,<p>digit 5</p> {<23><14><70><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_885,0,<p>digit 0</p> {<30><14><78><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 0
+Mnist_886,6,<p>digit 5</p> {<36><8><77><8,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 8
+Mnist_887,6,<p>digit 0</p> {<23><8><82><8,illusion digit 5,no illusion digit,no illusion digit,illusion digit 0
+Mnist_888,3,<p>digit 3</p> {<18><12><74><,no illusion digit,no illusion digit,no illusion digit,illusion digit 5
+Mnist_889,2,digit 2,illusion digit 5,illusion digit 5,illusion digit 2,no illusion digit
+Mnist_890,1,<p>digit 1</p> {<42><13><60><,illusion digit 5,no illusion digit,illusion digit 5,illusion digit 0
+Mnist_891,3,<p>digit 3</p> {<29><14><70><,illusion digit 1,no illusion digit,illusion digit 3,illusion digit 1
+Mnist_892,2,<p>digit 2</p> {<27><8><94><8,no illusion digit,no illusion digit,illusion digit 2,illusion digit 5
+Mnist_893,2,<p>digit 8</p> {<24><13><91><,"The image is a landscape with a lake in the middle, surrounded by mountains. There are two images",no illusion digit,illusion digit 2,illusion digit 0
+Mnist_894,9,<p>digit 9</p> {<23><23><76><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 0
+Mnist_895,3,<p>digit 3</p> {<21><13><86><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 0
+Mnist_896,0,<p>digit 5</p> {<28><13><78><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_897,0,<p>digit 8</p> {<14><11><86><,illusion digit 5,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_898,5,<p>digit 5</p> {<23><13><91><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_899,7,<p>digit 7</p> {<24><18><75><,illusion digit 0,no illusion digit,illusion digit 7,no illusion digit
+Mnist_900,8,<p>digit 8</p> {<26><14><80><,illusion digit 8,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_901,1,<p>digit 1</p> {<41><13><64><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_902,4,<p>digit 4</p> {<16><16><78><,illusion digit 0,illusion digit 0,illusion digit 4,illusion digit 0
+Mnist_903,4,<p>digit 1</p> {<26><19><70><,illusion digit 0,illusion digit 5,illusion digit 1,illusion digit 5
+Mnist_904,6,<p>digit 5</p> {<24><10><80><,illusion digit 0,illusion digit 0,no illusion digit,illusion digit 8
+Mnist_905,0,<p>digit 5</p> {<22><16><83><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_906,2,<p>digit 8</p> {<21><13><84><,illusion digit 8,illusion digit 1,illusion digit 2,no illusion digit
+Mnist_907,9,<p>digit 9</p> {<23><28><76><,illusion digit 8,illusion digit 5,illusion digit 7,no illusion digit
+Mnist_908,1,digit 5,illusion digit 8,illusion digit 5,illusion digit 1,no illusion digit
+Mnist_909,4,digit 4,illusion digit 5,illusion digit 5,illusion digit 4,illusion digit 8
+Mnist_910,7,digit 5,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_911,4,<p>digit 4</p> {<23><21><83><,illusion digit 0,illusion digit 0,illusion digit 4,no illusion digit
+Mnist_912,7,<p>digit 7</p> {<17><19><76><,no illusion digit,no illusion digit,no illusion digit,illusion digit 0
+Mnist_913,3,digit 3,illusion digit 8,illusion digit 5,illusion digit 3,no illusion digit
+Mnist_914,9,<p>digit 9</p> {<23><19><78><,illusion digit 0,no illusion digit,illusion digit 0,illusion digit 5
+Mnist_915,8,<p>digit 8</p> {<28><12><79><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_916,8,<p>digit 8</p> {<36><13><69><,illusion digit 0,illusion digit 0,illusion digit 8,illusion digit 0
+Mnist_917,4,<p>digit 8</p> {<14><23><85><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_918,7,digit 7,illusion digit 5,no illusion digit,illusion digit 7,no illusion digit
+Mnist_919,1,<p>digit 5</p> {<48><16><60><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_920,2,<p>digit 2</p> {<20><21><95><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 5
+Mnist_921,1,<p>digit 1</p> {<42><16><62><,illusion digit 5,no illusion digit,no illusion digit,illusion digit 5
+Mnist_922,2,<p>digit 5</p> {<18><10><84><,no illusion digit,illusion digit 1,illusion digit 8,no illusion digit
+Mnist_923,2,<p>digit 2</p> {<23><15><86><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_924,3,<p>digit 3</p> {<11><16><78><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_925,2,digit 2,illusion digit 0,no illusion digit,no illusion digit,illusion digit 8
+Mnist_926,3,<p>digit 3</p> {<22><16><77><,no illusion digit,illusion digit 5,illusion digit 3,illusion digit 0
+Mnist_927,2,<p>digit 5</p> {<28><13><77><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_928,3,<p>digit 3</p> {<24><13><75><,no illusion digit,<p>a birthday cake</p> {<23><11><7,no illusion digit,no illusion digit
+Mnist_929,9,<p>digit 9</p> {<24><19><75><,illusion digit 9,illusion digit 5,no illusion digit,no illusion digit
+Mnist_930,1,<p>digit 5</p> {<42><14><63><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_931,7,<p>digit 5</p> {<30><21><82><,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_932,4,<p>digit 4</p> {<27><14><73><,illusion digit 5,no illusion digit,illusion digit 4,no illusion digit
+Mnist_933,0,<p>digit 8</p> {<15><12><84><,illusion digit 8,illusion digit 8,illusion digit 5,illusion digit 5
+Mnist_934,3,<p>digit 3</p> {<22><13><86><,illusion digit 5,illusion digit 8,illusion digit 3,no illusion digit
+Mnist_935,5,<p>digit 5</p> {<23><14><90><,illusion digit 5,illusion digit 8,illusion digit 5,illusion digit 5
+Mnist_936,5,<p>digit 5</p> {<21><31><94><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_937,8,<p>digit 5</p> {<31><13><76><,no illusion digit,no illusion digit,illusion digit 6,no illusion digit
+Mnist_938,6,<p>digit 8</p> {<21><11><94><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_939,3,<p>digit 5</p> {<16><16><78><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_940,2,<p>digit 8</p> {<19><14><80><,<p>no illusion digit</p> {<22><11><82,no illusion digit,illusion digit 8,no illusion digit
+Mnist_941,6,<p>digit 6</p> {<26><11><78><,illusion digit 5,no illusion digit,illusion digit 6,no illusion digit
+Mnist_942,7,<p>digit 7</p> {<17><22><75><,illusion digit 5,illusion digit 5,illusion digit 7,no illusion digit
+Mnist_943,6,<p>digit 6</p> {<29><5><84><8,no illusion digit,no illusion digit,illusion digit 6,illusion digit 8
+Mnist_944,6,<p>digit 5</p> {<26><8><86><8,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_945,3,<p>digit 2</p> {<29><21><71><,no illusion digit,illusion digit 8,illusion digit 0,illusion digit 5
+Mnist_946,2,<p>digit 2</p> {<21><12><86><,illusion digit 8,illusion digit 8,illusion digit 2,illusion digit 8
+Mnist_947,7,<p>digit 7</p> {<18><19><67><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_948,8,<p>digit 9</p> {<27><14><73><,illusion digit 1,illusion digit 5,illusion digit 0,illusion digit 8
+Mnist_949,1,<p>digit 1</p> {<48><12><60><,illusion digit 1,illusion digit 1,no illusion digit,no illusion digit
+Mnist_950,1,<p>digit 5</p> {<42><12><63><,illusion digit 0,no illusion digit,illusion digit 8,illusion digit 5
+Mnist_951,7,<p>digit 5</p> {<31><16><76><,no illusion digit,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_952,5,<p>digit 5</p> {<18><16><86><,illusion digit 8,no illusion digit,illusion digit 5,no illusion digit
+Mnist_953,6,<p>digit 5</p> {<24><2><82><7,illusion digit 5,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_954,4,<p>digit 4</p> {<26><13><74><,no illusion digit,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_955,9,<p>digit 9</p> {<31><21><69><,illusion digit 0,illusion digit 5,illusion digit 1,illusion digit 0
+Mnist_956,5,<p>digit 5</p> {<31><13><78><,illusion digit 5,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_957,1,<p>digit 5</p> {<37><7><79><8,illusion digit 5,illusion digit 1,illusion digit 1,no illusion digit
+Mnist_958,3,digit 3,illusion digit 3,no illusion digit,no illusion digit,no illusion digit
+Mnist_959,3,<p>digit 3</p> {<33><13><76><,illusion digit 8,illusion digit 5,illusion digit 3,no illusion digit
+Mnist_960,4,<p>digit 4</p> {<31><16><74><,no illusion digit,no illusion digit,no illusion digit,illusion digit 8
+Mnist_961,7,<p>digit 5</p> {<30><25><74><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_962,8,<p>digit 8</p> {<27><14><76><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_963,9,<p>digit 9</p> {<27><23><72><,illusion digit 8,illusion digit 8,illusion digit 9,illusion digit 8
+Mnist_964,1,<p>digit 5</p> {<41><16><65><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_965,1,digit 5,no illusion digit,no illusion digit,illusion digit 5,no illusion digit
+Mnist_966,6,<p>digit 5</p> {<21><11><86><,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_967,9,<p>digit 9</p> {<31><23><74><,illusion digit 0,illusion digit 5,illusion digit 9,illusion digit 5
+Mnist_968,1,<p>digit 5</p> {<39><12><59><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_969,4,<p>digit 4</p> {<35><12><73><,illusion digit 5,illusion digit 5,illusion digit 4,no illusion digit
+Mnist_970,4,digit 5,illusion digit 9,no illusion digit,'illusion digit 4',no illusion digit
+Mnist_971,5,<p>digit 5</p> {<38><14><79><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_972,4,<p>digit 4</p> {<23><15><76><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_973,0,<p>digit 8</p> {<16><13><91><,illusion digit 0,illusion digit 0,illusion digit 8,illusion digit 0
+Mnist_974,6,<p>digit 8</p> {<26><6><89><8,no illusion digit,illusion digit 0,illusion digit 8,illusion digit 5
+Mnist_975,2,<p>digit 2</p> {<20><13><95><,illusion digit 8,illusion digit 8,illusion digit 2,illusion digit 0
+Mnist_976,2,<p>digit 5</p> {<16><13><88><,no illusion digit,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_977,3,<p>digit 3</p> {<30><18><77><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_978,1,<p>digit 5</p> {<32><11><66><,no illusion digit,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_979,5,digit 5,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_980,1,<p>digit 5</p> {<38><12><62><,illusion digit 8,illusion digit 5,illusion digit 1,illusion digit 8
+Mnist_981,2,<p>digit 0</p> {<23><10><82><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_982,0,<p>digit 8</p> {<21><11><84><,illusion digit 0,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_983,3,<p>digit 2</p> {<31><16><68><,illusion digit 8,illusion digit 0,illusion digit 2,no illusion digit
+Mnist_984,8,<p>digit 8</p> {<30><13><76><,illusion digit 0,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_985,1,<p>digit 5</p> {<44><16><60><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_986,2,<p>digit 2</p> {<20><13><85><,illusion digit 1,no illusion digit,illusion digit 2,no illusion digit
+Mnist_987,6,<p>digit 6</p> {<26><8><78><8,illusion digit 6,<p>illusion digit 0</p> {<40><31><6,illusion digit 6,no illusion digit
+Mnist_988,7,digit 7,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_989,1,<p>digit 5</p> {<40><17><59><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_990,6,<p>digit 5</p> {<28><10><78><,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 0
+Mnist_991,2,<p>digit 5</p> {<23><14><91><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_992,3,<p>digit 3</p> {<18><19><81><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_993,9,<p>digit 9</p> {<22><14><70><,illusion digit 9,no illusion digit,no illusion digit,no illusion digit
+Mnist_994,0,<p>digit 8</p> {<23><16><80><,illusion digit 1,illusion digit 1,illusion digit 8,illusion digit 5
+Mnist_995,1,<p>digit 5</p> {<31><13><68><,no illusion digit,no illusion digit,illusion digit 8,no illusion digit
+Mnist_996,2,<p>digit 5</p> {<16><10><83><,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_997,2,<p>digit 2</p> {<21><11><94><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_998,0,<p>digit 5</p> {<16><12><88><,illusion digit 8,no illusion digit,illusion digit 8,no illusion digit
+Mnist_999,8,<p>digit 8</p> {<17><22><90><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_1000,9,<p>digit 9</p> {<24><18><76><,illusion digit 8,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_1001,9,<p>digit 9</p> {<27><22><73><,illusion digit 5,illusion digit 5,illusion digit 9,illusion digit 5
+Mnist_1002,0,<p>digit 5</p> {<30><13><74><,illusion digit 8,illusion digit 0,no illusion digit,illusion digit 0
+Mnist_1003,2,<p>digit 2</p> {<23><11><76><,illusion digit 5,illusion digit 5,illusion digit 2,no illusion digit
+Mnist_1004,5,<p>digit 5</p> {<18><14><81><,no illusion digit,illusion digit 5,illusion digit 5,no illusion digit
+Mnist_1005,1,<p>digit 5</p> {<37><16><62><,no illusion digit,no illusion digit,no illusion digit,illusion digit 5
+Mnist_1006,9,<p>digit 9</p> {<31><21><68><,illusion digit 8,illusion digit 8,illusion digit 1,no illusion digit
+Mnist_1007,7,<p>digit 7</p> {<26><22><68><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1008,8,<p>digit 8</p> {<34><16><65><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_1009,1,<p>digit 5</p> {<42><13><62><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_1010,0,<p>digit 5</p> {<20><14><89><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_1011,4,<p>digit 5</p> {<15><19><84><,illusion digit 5,no illusion digit,illusion digit 8,no illusion digit
+Mnist_1012,1,<p>digit 1</p> {<41><12><59><,no illusion digit,The image shows a man walking in a desert with a large dust storm in the background. The man,no illusion digit,no illusion digit
+Mnist_1013,7,<p>digit 5</p> {<28><24><73><,illusion digit 0,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_1014,9,<p>digit 9</p> {<30><21><71><,illusion digit 8,illusion digit 5,illusion digit 1,no illusion digit
+Mnist_1015,6,<p>digit 5</p> {<18><29><91><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1016,4,<p>digit 5</p> {<33><16><74><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_1017,2,<p>digit 1</p> {<15><11><78><,illusion digit 1,no illusion digit,no illusion digit,illusion digit 0
+Mnist_1018,6,<p>digit 5</p> {<20><7><92><8,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_1019,8,<p>digit 8</p> {<21><14><78><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_1020,1,<p>digit 5</p> {<33><13><82><,illusion digit 5,illusion digit 1,no illusion digit,"<p>no illusion digit</p>
+<p>illusion digit 0</"
+Mnist_1021,3,<p>digit 3</p> {<21><15><78><,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_1022,7,<p>digit 7</p> {<13><31><86><,illusion digit 5,illusion digit 5,illusion digit 7,illusion digit 8
+Mnist_1023,5,<p>digit 5</p> {<26><19><81><,illusion digit 5,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_1024,4,<p>digit 4</p> {<23><13><87><,illusion digit 5,illusion digit 8,no illusion digit,no illusion digit
+Mnist_1025,4,<p>digit 5</p> {<31><16><83><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1026,1,<p>digit 1</p> {<32><12><67><,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_1027,8,<p>digit 5</p> {<31><16><76><,illusion digit 8,illusion digit 8,illusion digit 0,no illusion digit
+Mnist_1028,1,<p>digit 5</p> {<39><17><60><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_1029,3,The digit in the image is 'digit 3'.,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_1030,8,<p>digit 8</p> {<31><20><74><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1031,1,<p>digit 5</p> {<39><16><60><,no illusion digit,no illusion digit,illusion digit 0,no illusion digit
+Mnist_1032,2,<p>digit 2</p> {<16><22><90><,no illusion digit,no illusion digit,illusion digit 2,no illusion digit
+Mnist_1033,5,<p>digit 5</p> {<30><14><91><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_1034,8,<p>digit 8</p> {<17><11><76><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1035,0,<p>digit 8</p> {<17><14><82><,illusion digit 0,no illusion digit,illusion digit 0,illusion digit 0
+Mnist_1036,6,<p>digit 5</p> {<26><2><82><7,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 8
+Mnist_1037,2,<p>digit 2</p> {<22><11><82><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_1038,1,<p>digit 1</p> {<41><13><58><,illusion digit 1,<p>no illusion digit</p> {<17><18><86,illusion digit 1,no illusion digit
+Mnist_1039,1,<p>digit 1</p> {<44><18><56><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_1040,7,<p>digit 5</p> {<26><21><73><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_1041,1,<p>digit 0</p> {<42><11><57><,illusion digit 0,illusion digit 5,illusion digit 8,no illusion digit
+Mnist_1042,5,<p>digit 5</p> {<24><14><97><,illusion digit 5,no illusion digit,illusion digit 5,no illusion digit
+Mnist_1043,6,<p>digit 5</p> {<31><10><74><,illusion digit 5,illusion digit 8,illusion digit 8,no illusion digit
+Mnist_1044,9,<p>digit 5</p> {<33><19><66><,illusion digit 5,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_1045,5,<p>digit 5</p> {<31><16><72><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_1046,0,<p>digit 5</p> {<14><19><86><,illusion digit 0,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_1047,9,<p>digit 9</p> {<21><23><76><,illusion digit 9,no illusion digit,illusion digit 9,no illusion digit
+Mnist_1048,8,<p>digit 8</p> {<17><19><82><,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_1049,9,<p>digit 9</p> {<30><21><69><,no illusion digit,no illusion digit,illusion digit 9,no illusion digit
+Mnist_1050,0,<p>digit 5</p> {<23><13><92><,illusion digit 5,illusion digit 1,illusion digit 8,illusion digit 1
+Mnist_1051,9,<p>digit 9</p> {<28><21><76><,no illusion digit,no illusion digit,'illusion digit 9',illusion digit 1
+Mnist_1052,8,<p>digit 8</p> {<38><11><79><,illusion digit 1,illusion digit 9,illusion digit 8,illusion digit 5
+Mnist_1053,5,<p>digit 5</p> {<17><18><91><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_1054,5,<p>digit 5</p> {<22><23><94><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_1055,8,<p>digit 8</p> {<20><18><80><,illusion digit 8,no illusion digit,illusion digit 8,illusion digit 5
+Mnist_1056,6,<p>digit 5</p> {<20><10><84><,illusion digit 8,illusion digit 8,illusion digit 0,illusion digit 8
+Mnist_1057,9,<p>digit 9</p> {<27><19><73><,illusion digit 5,illusion digit 5,illusion digit 0,no illusion digit
+Mnist_1058,5,<p>digit 5</p> {<24><11><81><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_1059,0,<p>digit 5</p> {<16><21><91><,no illusion digit,illusion digit 5,illusion digit 8,illusion digit 0
+Mnist_1060,6,<p>digit 5</p> {<34><6><78><8,"The image shows a large, glowing number 8 in the sky, with a smaller number",illusion digit 9,no illusion digit,illusion digit 9
+Mnist_1061,9,<p>digit 5</p> {<23><19><76><,illusion digit 8,illusion digit 8,illusion digit 0,no illusion digit
+Mnist_1062,5,<p>digit 5</p> {<24><18><83><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_1063,9,digit 9,illusion digit 9,illusion digit 8,illusion digit 9,illusion digit 8
+Mnist_1064,5,<p>digit 5</p> {<23><13><76><,illusion digit 5,illusion digit 8,illusion digit 5,illusion digit 8
+Mnist_1065,9,<p>digit 9</p> {<30><21><70><,illusion digit 8,no illusion digit,illusion digit 9,illusion digit 5
+Mnist_1066,8,<p>digit 8</p> {<31><13><73><,illusion digit 8,illusion digit 5,no illusion digit,illusion digit 8
+Mnist_1067,0,<p>digit 0</p> {<29><13><76><,no illusion digit,illusion digit 8,no illusion digit,no illusion digit
+Mnist_1068,6,<p>digit 5</p> {<26><5><76><8,illusion digit 8,illusion digit 8,no illusion digit,no illusion digit
+Mnist_1069,8,<p>digit 8</p> {<16><14><92><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_1070,5,<p>digit 5</p> {<17><14><92><,illusion digit 8,illusion digit 8,illusion digit 5,no illusion digit
+Mnist_1071,9,<p>digit 9</p> {<41><23><73><,illusion digit 9,no illusion digit,illusion digit 0,no illusion digit
+Mnist_1072,9,<p>digit 9</p> {<21><23><78><,no illusion digit,<p>a pink and white dragon</p> {<15><25,no illusion digit,no illusion digit
+Mnist_1073,6,<p>digit 8</p> {<28><6><85><7,illusion digit 8,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_1074,9,<p>digit 9</p> {<23><13><83><,illusion digit 9,illusion digit 5,illusion digit 9,no illusion digit
+Mnist_1075,6,<p>digit 6</p> {<26><8><78><8,no illusion digit,illusion digit 5,no illusion digit,no illusion digit
+Mnist_1076,5,<p>digit 5</p> {<17><14><92><,illusion digit 8,no illusion digit,no illusion digit,no illusion digit
+Mnist_1077,5,<p>digit 5</p> {<29><18><79><,illusion digit 8,no illusion digit,no illusion digit,illusion digit 8
+Mnist_1078,8,<p>digit 8</p> {<22><13><77><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1079,8,<p>digit 5</p> {<32><16><72><,illusion digit 0,illusion digit 8,no illusion digit,no illusion digit
+Mnist_1080,0,<p>digit 8</p> {<29><10><79><,illusion digit 0,<p>illusion digit 8</p> {<24><9><50,no illusion digit,illusion digit 8
+Mnist_1081,6,<p>digit 5</p> {<27><5><88><7,no illusion digit,illusion digit 1,illusion digit 6,no illusion digit
+Mnist_1082,8,<p>digit 5</p> {<33><19><79><,illusion digit 8,illusion digit 8,illusion digit 0,illusion digit 8
+Mnist_1083,8,<p>digit 5</p> {<22><19><77><,no illusion digit,no illusion digit,no illusion digit,no illusion digit
+Mnist_1084,9,<p>digit 9</p> {<21><19><78><,illusion digit 8,no illusion digit,illusion digit 9,illusion digit 5
+Mnist_1085,5,<p>digit 5</p> {<24><23><75><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_1086,5,<p>digit 5</p> {<26><17><93><,illusion digit 8,illusion digit 8,illusion digit 8,illusion digit 0
+Mnist_1087,5,<p>digit 5</p> {<27><16><78><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_1088,5,<p>digit 5</p> {<31><16><74><,illusion digit 5,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_1089,0,<p>digit 5</p> {<24><11><82><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 1
+Mnist_1090,8,<p>digit 8</p> {<22><16><76><,no illusion digit,illusion digit 0,no illusion digit,no illusion digit
+Mnist_1091,6,<p>digit 5</p> {<36><10><64><,illusion digit 5,no illusion digit,illusion digit 6,illusion digit 5
+Mnist_1092,9,digit 7,illusion digit 5,illusion digit 8,illusion digit 8,illusion digit 8
+Mnist_1093,6,<p>digit 6</p> {<27><11><78><,illusion digit 1,illusion digit 1,illusion digit 6,illusion digit 9
+Mnist_1094,0,<p>digit 0</p> {<27><14><79><,illusion digit 5,illusion digit 5,illusion digit 0,illusion digit 0
+Mnist_1095,6,<p>digit 5</p> {<28><10><78><,illusion digit 5,illusion digit 8,no illusion digit,illusion digit 8
+Mnist_1096,6,<p>digit 8</p> {<21><11><94><,illusion digit 0,illusion digit 5,illusion digit 8,illusion digit 8
+Mnist_1097,9,<p>digit 9</p> {<30><21><70><,illusion digit 9,<p>no illusion digit</p> {<47><71><51,illusion digit 1,no illusion digit
+Mnist_1098,5,<p>digit 5</p> {<22><29><97><,illusion digit 5,illusion digit 5,illusion digit 5,illusion digit 5
+Mnist_1099,5,<p>digit 5</p> {<32><19><83><,illusion digit 0,no illusion digit,no illusion digit,illusion digit 0
+Mnist_1100,8,<p>digit 8</p> {<36><51><69><,illusion digit 5,no illusion digit,illusion digit 8,illusion digit 5
+Mnist_1101,0,<p>digit 5</p> {<21><14><78><,illusion digit 0,<p>a menorah</p> {<12><23><97><,illusion digit 8,illusion digit 8
+Mnist_1102,6,<p>digit 8</p> {<32><8><80><8,illusion digit 0,illusion digit 5,no illusion digit,illusion digit 5
+Mnist_1103,6,<p>digit 6</p> {<28><11><79><,illusion digit 1,illusion digit 5,illusion digit 6,no illusion digit
+Mnist_1104,9,<p>digit 9</p> {<27><19><78><,illusion digit 8,illusion digit 8,illusion digit 9,illusion digit 8
+Mnist_1105,8,<p>digit 8</p> {<30><14><79><,illusion digit 5,illusion digit 5,no illusion digit,no illusion digit
+Mnist_1106,0,<p>digit 8</p> {<27><16><79><,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_1107,5,<p>digit 5</p> {<24><14><91><,illusion digit 5,no illusion digit,no illusion digit,no illusion digit
+Mnist_1108,0,<p>digit 5</p> {<15><33><86><,illusion digit 8,illusion digit 5,illusion digit 8,illusion digit 5
+Mnist_1109,9,<p>digit 9</p> {<27><16><73><,illusion digit 1,illusion digit 0,illusion digit 0,illusion digit 5
