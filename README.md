@@ -7,6 +7,7 @@ This repository contains the code, experiments, and results for our project titl
 🎉 Our paper has been accepted for presentation at the [Multimodal Algorithmic Reasoning (MAR) Workshop](https://marworkshop.github.io/neurips24/) at NeurIPS 2024 as a Spotlight Paper!
 
 📊 Access the datasets: [Repo](https://huggingface.co/VQA-Illusion)
+
 🎥 Watch the presentation: [Video](https://recorder-v3.slideslive.com/#/share?share=97904&s=90373c05-e3d3-419b-af24-fd160ac8c1f3) | [Slides](/Slides.pdf)
 
 ![Project Overview](/IllusoryVQA_Poster.png)
