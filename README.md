@@ -39,7 +39,7 @@ Zero-shot experiments for the following models:
 ### **2. `Results/`**
 This folder includes the following:
 
-#### **2.1 ✨ `Results/fine-tuned/`**
+#### **2.1 ✨ `Results/Fine-Tuned/`**
 Outputs for models fine-tuned on the datasets.
 
 #### **2.2 🚀 `Results/Zero-Shot/`**
