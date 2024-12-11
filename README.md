@@ -15,26 +15,26 @@ We assess the zero-shot performance of various models, fine-tune selected models
 
 ## 📂 Repository Structure
 
-### **1. `Experiences/`**
+### **1. `Experiments/`**
 This folder contains experiments conducted with various models under two setups:
 
-#### **1.1 ✨ `Experiences/Fine-Tuned/`**
+#### **1.1 ✨ `Experiments/Fine-Tuned/`**
 Fine-tuned versions of the models with code and outputs specific to each dataset:
-- **`Experiences/Fine-Tuned/BLIP-2/`**
-- **`Experiences/Fine-Tuned/BLIP/`**
-- **`Experiences/Fine-Tuned/CLIP/`**
-- **`Experiences/Fine-Tuned/LLaVA/`**
+- **`Experiments/Fine-Tuned/BLIP-2/`**
+- **`Experiments/Fine-Tuned/BLIP/`**
+- **`Experiments/Fine-Tuned/CLIP/`**
+- **`Experiments/Fine-Tuned/LLaVA/`**
 
-#### **1.2 🚀 `Experiences/Zero-Shot/`**
+#### **1.2 🚀 `Experiments/Zero-Shot/`**
 Zero-shot experiments for the following models:
-- **`Experiences/Zero-Shot/BLIP-2/`**
-- **`Experiences/Zero-Shot/BLIP/`**
-- **`Experiences/Zero-Shot/CLIP/`**
-- **`Experiences/Zero-Shot/GPT-4o/`**
-- **`Experiences/Zero-Shot/Gemini/`**
-- **`Experiences/Zero-Shot/KOSMOS-2/`**
-- **`Experiences/Zero-Shot/LLaVA/`**
-- **`Experiences/Zero-Shot/miniGPT_V2/`**
+- **`Experiments/Zero-Shot/BLIP-2/`**
+- **`Experiments/Zero-Shot/BLIP/`**
+- **`Experiments/Zero-Shot/CLIP/`**
+- **`Experiments/Zero-Shot/GPT-4o/`**
+- **`Experiments/Zero-Shot/Gemini/`**
+- **`Experiments/Zero-Shot/KOSMOS-2/`**
+- **`Experiments/Zero-Shot/LLaVA/`**
+- **`Experiments/Zero-Shot/miniGPT_V2/`**
 
 ### **2. `Results/`**
 This folder includes the following:
@@ -73,5 +73,5 @@ If you find our work useful, please cite our paper:
 ## 📩 Contact
 For any queries, feel free to reach out:
 
-- [Email](mailto:hoorieh95@gmail.com)
+- [Email](mailto:mohammadmostafarostamkhani@gmail.com)
 
