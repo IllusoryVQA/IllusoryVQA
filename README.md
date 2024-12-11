@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check out our paper: *[link](https://drive.google.com/file/d/1VdpI-vgYQfLrWZPbrIGUYanfV-yfXk-Z/view)*. 
+This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check out our paper: [Link](https://drive.google.com/file/d/1VdpI-vgYQfLrWZPbrIGUYanfV-yfXk-Z/view)*. 
 
 🎉 Our paper has been accepted for presentation at the [Multimodal Algorithmic Reasoning (MAR) Workshop](https://marworkshop.github.io/neurips24/) at NeurIPS 2024 as a Spotlight Paper!
 
