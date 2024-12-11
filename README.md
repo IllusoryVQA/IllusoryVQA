@@ -2,7 +2,9 @@
 
 ## 📚 Project Overview
 
-This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check our paper: *[link](https://drive.google.com/file/d/1VdpI-vgYQfLrWZPbrIGUYanfV-yfXk-Z/view)*. 
+This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check out our paper: *[link](https://drive.google.com/file/d/1VdpI-vgYQfLrWZPbrIGUYanfV-yfXk-Z/view)*. 
+
+![Project Overview](/IllusoryVQA_Poster.png)
 
 ---
 
@@ -71,7 +73,8 @@ If you find our work useful, please cite our paper:
 ---
 
 ## 📩 Contact
-For any queries, feel free to reach out:
+For any questions, feel free to reach out:
 
-- [Email](mailto:mohammadmostafarostamkhani@gmail.com)
+- [mohammadmostafarostamkhani@gmail.com](mailto:mohammadmostafarostamkhani@gmail.com)
+- [hoorieh95@gmail.com](mailto:hoorieh95@gmail.com)
 
