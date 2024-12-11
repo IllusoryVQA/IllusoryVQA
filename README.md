@@ -1,7 +1,5 @@
 # IllusoryVQA
 
-# README
-
 ## 📚 Project Overview
 
 This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check our paper: *[link](https://drive.google.com/file/d/1VdpI-vgYQfLrWZPbrIGUYanfV-yfXk-Z/view)*. 
