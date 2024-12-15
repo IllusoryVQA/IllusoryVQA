@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check out our paper: [Link](https://drive.google.com/file/d/1VdpI-vgYQfLrWZPbrIGUYanfV-yfXk-Z/view). 
+This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check out our paper: [arXiv](https://arxiv.org/abs/2412.08169). 
 
 🎉 Our paper has been accepted for presentation at the [Multimodal Algorithmic Reasoning (MAR) Workshop](https://marworkshop.github.io/neurips24/) at NeurIPS 2024 as a Spotlight Paper!
 
@@ -76,6 +76,17 @@ Explore experiments or results and run the notebooks.
 ## 📖 Citation
 If you find our work useful, please cite our paper:
 
+```bibtex
+@misc{rostamkhani2024illusoryvqabenchmarkingenhancing,
+      title={Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions}, 
+      author={Mohammadmostafa Rostamkhani and Baktash Ansari and Hoorieh Sabzevari and Farzan Rahmani and Sauleh Eetemadi},
+      year={2024},
+      eprint={2412.08169},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.08169}, 
+}
+```
 ---
 
 ## 📩 Contact
