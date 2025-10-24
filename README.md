@@ -4,7 +4,7 @@
 
 This repository contains the code, experiments, and results for our project titled *Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions*. For more info, check out our paper: [arXiv](https://arxiv.org/abs/2412.08169). 
 
-🎉 Our paper has been accepted for presentation at the [Multimodal Algorithmic Reasoning (MAR) Workshop](https://marworkshop.github.io/neurips24/) at NeurIPS 2024 as a Spotlight Paper!
+🎉 Our paper has been accepted for presentation at the Multimodal Algorithmic Reasoning (MAR) Workshop at [NeurIPS 2024](https://marworkshop.github.io/neurips24/) and [CVPR 2025](https://marworkshop.github.io/cvpr25/) as a Spotlight Paper!
 
 📊 Access the datasets: [Repo](https://huggingface.co/VQA-Illusion)
 
